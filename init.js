@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 子域名，克隆后，可以修改为自己的子域名
-const subDomainName = 'android-transfer'; 
+const subDomainName = 'location-for-social-app'; 
 
 function replaceFileContent(filePath) {
   const ext = path.extname(filePath);

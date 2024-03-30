@@ -7,7 +7,7 @@ date: 2024-01-31 15:12:41
 
 In this Privacy Policy, we describe the type of data, including personal data (collectively, “data”), that we and our associated companies collect from you when you use TechiDaily Websites and certain TechiDaily products and services as described in this Privacy Policy (collectively, our “services”), how we and our associated companies use and disclose that data, and your options to access or update your data.
 
-This Privacy Policy may be amended from time to time. The respective latest version of the Privacy Policy at the point of time of the purchase or registration of a TechiDaily Software Product (whichever occurs later) shall apply. The data controllers are TechiDaily s.r.o., Praha 4, Na Hřebenech II 1718/10, PSČ 140 00, Czech Republic, and the [associated companies of TechiDaily](https://android-transfer.techidaily.com).
+This Privacy Policy may be amended from time to time. The respective latest version of the Privacy Policy at the point of time of the purchase or registration of a TechiDaily Software Product (whichever occurs later) shall apply. The data controllers are TechiDaily s.r.o., Praha 4, Na Hřebenech II 1718/10, PSČ 140 00, Czech Republic, and the [associated companies of TechiDaily](https://location-for-social-app.techidaily.com).
 
 TechiDaily and its associated companies act as joint data controllers, who are jointly responsible for compliance with data protection legislation. TechiDaily s.r.o. is primarily responsible for exercising of rights of data subjects and providing information about data processing.
 
