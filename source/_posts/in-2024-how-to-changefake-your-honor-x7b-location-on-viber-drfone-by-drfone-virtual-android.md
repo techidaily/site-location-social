@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Honor X7b Location on Viber | Dr.fone
-date: 2024-04-01T07:13:37.523Z
-updated: 2024-04-02T07:13:37.523Z
+date: 2024-04-01T13:13:33.560Z
+updated: 2024-04-02T13:13:33.560Z
 tags: 
   - virtual location change
   - social app

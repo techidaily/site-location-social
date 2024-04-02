@@ -1,7 +1,7 @@
 ---
 title: How to Change GPS Location on Honor X7b Easily & Safely | Dr.fone
-date: 2024-04-01T07:13:37.495Z
-updated: 2024-04-02T07:13:37.495Z
+date: 2024-04-01T13:13:33.408Z
+updated: 2024-04-02T13:13:33.408Z
 tags: 
   - virtual location change
   - social app

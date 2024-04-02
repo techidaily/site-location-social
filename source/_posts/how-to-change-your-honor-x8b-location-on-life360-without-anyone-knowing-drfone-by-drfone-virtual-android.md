@@ -1,7 +1,7 @@
 ---
 title: How to Change Your Honor X8b Location on life360 Without Anyone Knowing? | Dr.fone
-date: 2024-04-01T07:13:37.599Z
-updated: 2024-04-02T07:13:37.599Z
+date: 2024-04-01T13:13:33.990Z
+updated: 2024-04-02T13:13:33.990Z
 tags: 
   - virtual location change
   - social app

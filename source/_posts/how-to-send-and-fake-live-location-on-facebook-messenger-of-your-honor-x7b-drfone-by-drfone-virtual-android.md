@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Honor X7b | Dr.fone
-date: 2024-04-01T07:13:37.462Z
-updated: 2024-04-02T07:13:37.462Z
+date: 2024-04-01T13:13:33.347Z
+updated: 2024-04-02T13:13:33.347Z
 tags: 
   - virtual location change
   - social app

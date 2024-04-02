@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 子域名，克隆后，可以修改为自己的子域名
-const subDomainName = 'location-for-social-app'; 
+const subDomainName = 'location-social'; 
 
 function replaceFileContent(filePath) {
   const ext = path.extname(filePath);
@@ -19,8 +19,8 @@ function replaceFileContent(filePath) {
 
 
   const content = fs.readFileSync(filePath, 'utf-8');
-  let newContent = content.replaceAll(`android-transfer.techidaily.com`, `${subDomainName}.techidaily.com`);
-  newContent = newContent.replaceAll(`site-android-transfer.git`, `site-${subDomainName}.git`);
+  let newContent = content.replaceAll(`location-for-social-app.techidaily.com`, `${subDomainName}.techidaily.com`);
+  newContent = newContent.replaceAll(`site-site-location-social.git`, `site-${subDomainName}.git`);
 
   fs.writeFileSync(filePath, newContent);
 }

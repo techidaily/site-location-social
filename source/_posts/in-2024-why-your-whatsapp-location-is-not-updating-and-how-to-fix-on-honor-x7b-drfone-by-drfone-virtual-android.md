@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor X7b | Dr.fone
-date: 2024-04-01T07:13:37.591Z
-updated: 2024-04-02T07:13:37.591Z
+date: 2024-04-01T13:13:33.832Z
+updated: 2024-04-02T13:13:33.832Z
 tags: 
   - virtual location change
   - social app

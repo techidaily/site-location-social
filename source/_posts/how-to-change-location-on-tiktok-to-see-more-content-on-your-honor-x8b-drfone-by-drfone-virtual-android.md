@@ -1,7 +1,7 @@
 ---
 title: How to Change Location on TikTok to See More Content On your Honor X8b | Dr.fone
-date: 2024-04-01T07:13:37.596Z
-updated: 2024-04-02T07:13:37.596Z
+date: 2024-04-01T13:13:33.912Z
+updated: 2024-04-02T13:13:33.912Z
 tags: 
   - virtual location change
   - social app

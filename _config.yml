@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://location-for-social-app.techidaily.com
+url: https://location-social.techidaily.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -112,10 +112,10 @@ sitemap:
 ## 执行 hexo clean && hexo deploy 。
 ## 如果提交失败
 ## cd .deploy_git
-## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-location-for-social-app.git HEAD:gh-pages --force
+## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-location-social.git HEAD:gh-pages --force
 deploy:
   type: git
   repo:  
-    url: https://github.com/techidaily/site-location-for-social-app.git
+    url: https://github.com/techidaily/site-location-social.git
     branch: gh-pages
     token: $GITHUB_DEPLOY_TOKEN

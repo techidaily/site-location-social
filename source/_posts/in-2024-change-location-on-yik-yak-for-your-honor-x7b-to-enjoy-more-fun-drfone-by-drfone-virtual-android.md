@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Location on Yik Yak For your Honor X7b to Enjoy More Fun | Dr.fone
-date: 2024-04-01T07:13:37.521Z
-updated: 2024-04-02T07:13:37.521Z
+date: 2024-04-01T13:13:33.549Z
+updated: 2024-04-02T13:13:33.549Z
 tags: 
   - virtual location change
   - social app

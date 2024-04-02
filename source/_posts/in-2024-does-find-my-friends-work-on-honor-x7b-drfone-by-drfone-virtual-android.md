@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Honor X7b | Dr.fone
-date: 2024-04-01T07:13:37.592Z
-updated: 2024-04-02T07:13:37.592Z
+date: 2024-04-01T13:13:33.841Z
+updated: 2024-04-02T13:13:33.841Z
 tags: 
   - virtual location change
   - social app

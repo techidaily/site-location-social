@@ -28,6 +28,19 @@ const updatePostsTask = () => {
         return aStat.birthtime - bStat.birthtime;
     });
 
+    const updateDateWithContent = (content) => {
+        // 时间为当前时间的前一天
+        const createDate = new Date();
+        createDate.setDate(createDate.getDate() - 1);
+        const updateDate = new Date();
+
+
+        let newContent = content.replace(/date: .*/, `date: ${createDate.toISOString()}`);
+        newContent = newContent.replace(/updated: .*/, `updated: ${updateDate.toISOString()}`);
+
+        return newContent;
+    }
+
     // 任务1
     if (posts.length < maxPostCount) {
         // 获得当前目录的名称, // 去掉前缀 'site-'
@@ -59,6 +72,11 @@ const updatePostsTask = () => {
                         // 删除源文件
                         if (fs.existsSync(targetFile)) {
                             fs.unlinkSync(sourceFile);
+
+                            // 拷贝过去的文件也要更新一下时间
+                            const content = fs.readFileSync(targetFile, 'utf-8');
+                            const newContent = updateDateWithContent(content);
+                            fs.writeFileSync(targetFile, newContent);
                         }
                     } catch (e) {
                         console.error(`拷贝 ${sourceFile} -> ${targetFile} 失败`)
@@ -77,15 +95,8 @@ const updatePostsTask = () => {
         const postPath = path.join(postsDir, post);
         const content = fs.readFileSync(postPath, 'utf-8');
 
-        // 时间为当前时间的前一天
-        const createDate = new Date();
-        createDate.setDate(createDate.getDate() - 1);
-        const updateDate = new Date();
-
-
-        const newContent = content.replace(/date: .*/, `date: ${createDate.toISOString()}`);
-        const newContent2 = newContent.replace(/updated: .*/, `updated: ${updateDate.toISOString()}`);
-        fs.writeFileSync(postPath, newContent2);
+        const newContent = updateDateWithContent(content);
+        fs.writeFileSync(postPath, newContent);
 
         console.log(`更新 ${postPath} 完成`)
     });
@@ -94,11 +105,18 @@ const updatePostsTask = () => {
 
 const publishTask = () => {
     console.log(`当前目录为: ${__dirname}`);
-    console.log('执行 yarn run publish');
+    
     try {
-        const out = execSync(`yarn run publish`, { cwd: __dirname });
-        console.log(out.toString());
+        console.log('执行 yarn 安装依赖');
+        execSync(`yarn`, { cwd: __dirname });
+
+        console.log('执行 yarn run publish');
+        const child = execSync(`yarn run publish`, { cwd: __dirname });
+        const { stdout, stderr } = child;
+        console.log(`1.输出:\n ${stdout.toString()} \n`);
+        console.log(`2.错误:\n ${stderr.toString()} \n`);
     } catch (e) {
+        console.log(`代码错误:\n`);
         console.error(e);
     }
     console.log(`执行完成`)
