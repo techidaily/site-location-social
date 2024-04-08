@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Honor X7b in 3 Ways | Dr.fone
-date: 2024-04-01T13:13:33.632Z
-updated: 2024-04-02T13:13:33.632Z
+date: 2024-04-02T07:07:52.037Z
+updated: 2024-04-03T07:07:52.037Z
 tags: 
   - virtual location change
   - social app

@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Honor X8b to Enjoy More Fun | Dr.fone
-date: 2024-04-01T13:13:33.956Z
-updated: 2024-04-02T13:13:33.956Z
+date: 2024-04-02T07:07:52.081Z
+updated: 2024-04-03T07:07:52.081Z
 tags: 
   - virtual location change
   - social app

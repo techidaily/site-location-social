@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Honor X7b | Dr.fone
-date: 2024-04-01T13:13:33.774Z
-updated: 2024-04-02T13:13:33.774Z
+date: 2024-04-02T07:07:52.065Z
+updated: 2024-04-03T07:07:52.065Z
 tags: 
   - virtual location change
   - social app

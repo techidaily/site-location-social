@@ -1,7 +1,7 @@
 ---
 title: How to Change your Honor X8b Location on Twitter | Dr.fone
-date: 2024-04-01T13:13:33.932Z
-updated: 2024-04-02T13:13:33.932Z
+date: 2024-04-02T07:07:52.080Z
+updated: 2024-04-03T07:07:52.080Z
 tags: 
   - virtual location change
   - social app

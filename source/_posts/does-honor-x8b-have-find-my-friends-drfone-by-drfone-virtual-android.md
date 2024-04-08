@@ -1,7 +1,7 @@
 ---
 title: Does Honor X8b Have Find My Friends? | Dr.fone
-date: 2024-04-01T13:13:34.000Z
-updated: 2024-04-02T13:13:34.000Z
+date: 2024-04-02T07:07:52.084Z
+updated: 2024-04-03T07:07:52.084Z
 tags: 
   - virtual location change
   - social app

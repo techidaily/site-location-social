@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Activate and Use Life360 Ghost Mode On Honor X7b | Dr.fone
-date: 2024-04-01T13:13:33.706Z
-updated: 2024-04-02T13:13:33.706Z
+date: 2024-04-02T07:07:52.050Z
+updated: 2024-04-03T07:07:52.050Z
 tags: 
   - virtual location change
   - social app
