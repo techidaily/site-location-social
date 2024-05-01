@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 8 Have Find My Friends? | Dr.fone
-date: 2024-04-12T13:15:36.426Z
-updated: 2024-04-13T13:15:36.426Z
+date: 2024-04-30T08:00:53.401Z
+updated: 2024-05-01T08:00:53.401Z
 tags: 
   - virtual location change
   - social app
@@ -513,3 +513,4 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+

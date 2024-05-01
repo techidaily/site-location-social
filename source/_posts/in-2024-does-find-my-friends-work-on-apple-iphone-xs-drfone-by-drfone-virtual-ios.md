@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Apple iPhone XS | Dr.fone
-date: 2024-04-12T13:15:54.647Z
-updated: 2024-04-13T13:15:54.647Z
+date: 2024-04-30T08:00:53.629Z
+updated: 2024-05-01T08:00:53.629Z
 tags: 
   - virtual location change
   - social app
@@ -315,3 +315,4 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 to Samsung | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
+

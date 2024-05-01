@@ -394,3 +394,4 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Google Play Services Wont Update? 12 Fixes are Here on Itel A60 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+

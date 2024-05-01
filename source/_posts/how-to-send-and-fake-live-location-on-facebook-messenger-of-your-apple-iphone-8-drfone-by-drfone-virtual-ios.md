@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 8 | Dr.fone
-date: 2024-04-12T13:15:38.566Z
-updated: 2024-04-13T13:15:38.566Z
+date: 2024-04-30T08:00:53.416Z
+updated: 2024-05-01T08:00:53.416Z
 tags: 
   - virtual location change
   - social app
@@ -457,3 +457,4 @@ It is an excellent way of meeting new friends who live outside your residence ar
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-13-miniipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 13 mini/iPad/iPod</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+

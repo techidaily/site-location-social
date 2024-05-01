@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 8 | Dr.fone
-date: 2024-04-12T13:15:39.858Z
-updated: 2024-04-13T13:15:39.858Z
+date: 2024-04-30T08:00:53.450Z
+updated: 2024-05-01T08:00:53.450Z
 tags: 
   - virtual location change
   - social app
@@ -484,3 +484,4 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-pova-5-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Pova 5 Pro to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia 150 (2023) | Dr.fone</u></a></li>
 </ul></div>
+

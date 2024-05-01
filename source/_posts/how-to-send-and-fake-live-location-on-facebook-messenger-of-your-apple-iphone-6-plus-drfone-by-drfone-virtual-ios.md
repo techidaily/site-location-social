@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-12T13:14:30.119Z
-updated: 2024-04-13T13:14:30.119Z
+date: 2024-04-30T08:00:52.584Z
+updated: 2024-05-01T08:00:52.584Z
 tags: 
   - virtual location change
   - social app
@@ -422,3 +422,4 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-100-pro-drfone-by-drfone-virtual-android/" ><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 100 Pro? | Dr.fone</u></a></li>
 </ul></div>
+

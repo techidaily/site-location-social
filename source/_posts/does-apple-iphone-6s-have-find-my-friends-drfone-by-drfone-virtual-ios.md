@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 6s Have Find My Friends? | Dr.fone
-date: 2024-04-12T13:14:30.807Z
-updated: 2024-04-13T13:14:30.807Z
+date: 2024-04-30T08:00:52.646Z
+updated: 2024-05-01T08:00:52.646Z
 tags: 
   - virtual location change
   - social app
@@ -432,3 +432,4 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fixes for Apps Keep Crashing on Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-computer-drfone-by-drfone-ios/" ><u>In 2024, How to Unlock Apple iPhone SE Passcode without Computer? | Dr.fone</u></a></li>
 </ul></div>
+

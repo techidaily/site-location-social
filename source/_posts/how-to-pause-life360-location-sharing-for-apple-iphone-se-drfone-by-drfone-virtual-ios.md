@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone SE | Dr.fone
-date: 2024-04-12T13:14:49.073Z
-updated: 2024-04-13T13:14:49.073Z
+date: 2024-04-30T08:00:52.867Z
+updated: 2024-05-01T08:00:52.867Z
 tags: 
   - virtual location change
   - social app
@@ -398,3 +398,4 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-x-flip-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo X Flip Phone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-nokia-c210-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Nokia C210</u></a></li>
 </ul></div>
+
