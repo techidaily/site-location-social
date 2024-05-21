@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Motorola Moto E13 in 3 Ways | Dr.fone
-date: 2024-04-30T08:12:00.726Z
-updated: 2024-05-01T08:12:00.726Z
+date: 2024-05-20T08:01:52.160Z
+updated: 2024-05-21T08:01:52.160Z
 tags: 
   - virtual location change
   - social app
@@ -532,4 +532,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-p40plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P40+ in Minutes | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-learn-how-to-make-your-characters-interactive-in-unity-animation-rigging/"><u>2024 Approved Learn How to Make Your Characters Interactive in Unity Animation Rigging</u></a></li>
 </ul></div>
+
 

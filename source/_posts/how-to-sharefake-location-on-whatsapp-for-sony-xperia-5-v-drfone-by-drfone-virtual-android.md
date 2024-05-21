@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:14.521Z
-updated: 2024-05-01T08:06:14.521Z
+date: 2024-05-20T08:01:30.251Z
+updated: 2024-05-21T08:01:30.251Z
 tags: 
   - virtual location change
   - social app
@@ -566,4 +566,5 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 <li><a href="https://techidaily.com/samsung-galaxy-z-fold-5-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy Z Fold 5 won’t play MKV movies</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
 </ul></div>
+
 

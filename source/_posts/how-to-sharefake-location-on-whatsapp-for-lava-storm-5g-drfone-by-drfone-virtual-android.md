@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Lava Storm 5G | Dr.fone
-date: 2024-04-30T08:10:36.004Z
-updated: 2024-05-01T08:10:36.004Z
+date: 2024-05-20T08:01:46.820Z
+updated: 2024-05-21T08:01:46.820Z
 tags: 
   - virtual location change
   - social app
@@ -514,4 +514,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-8-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 8 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-find-x6-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo Find X6 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

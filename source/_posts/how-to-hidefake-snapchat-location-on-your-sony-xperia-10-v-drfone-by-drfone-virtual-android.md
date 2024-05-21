@@ -1,7 +1,7 @@
 ---
 title: How to Hide/Fake Snapchat Location on Your Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:00.979Z
-updated: 2024-05-01T08:06:00.979Z
+date: 2024-05-20T08:01:29.411Z
+updated: 2024-05-21T08:01:29.411Z
 tags: 
   - virtual location change
   - social app
@@ -433,4 +433,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/12-top-picks-of-video-enhancer-software-for-2024/"><u>12 Top Picks of Video Enhancer Software for 2024</u></a></li>
 </ul></div>
+
 

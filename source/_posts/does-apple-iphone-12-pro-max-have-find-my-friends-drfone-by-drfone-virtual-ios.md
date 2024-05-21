@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 12 Pro Max Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:02:25.594Z
-updated: 2024-05-01T08:02:25.594Z
+date: 2024-05-20T08:01:15.066Z
+updated: 2024-05-21T08:01:15.066Z
 tags: 
   - virtual location change
   - social app
@@ -415,4 +415,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y78t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y78t Lock Screen Password?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y100-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y100</u></a></li>
 </ul></div>
+
 

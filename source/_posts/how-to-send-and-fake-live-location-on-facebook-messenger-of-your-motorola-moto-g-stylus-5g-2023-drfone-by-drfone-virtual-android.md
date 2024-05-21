@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G Stylus 5G (2023) | Dr.fone
-date: 2024-04-30T08:14:02.717Z
-updated: 2024-05-01T08:14:02.717Z
+date: 2024-05-20T08:02:00.334Z
+updated: 2024-05-21T08:02:00.334Z
 tags: 
   - virtual location change
   - social app
@@ -494,4 +494,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y27s-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y27s Phones</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-a59-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo A59 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

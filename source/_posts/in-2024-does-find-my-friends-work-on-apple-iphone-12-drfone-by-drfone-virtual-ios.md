@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Apple iPhone 12 | Dr.fone
-date: 2024-04-30T08:02:11.166Z
-updated: 2024-05-01T08:02:11.166Z
+date: 2024-05-20T08:01:14.047Z
+updated: 2024-05-21T08:01:14.047Z
 tags: 
   - virtual location change
   - social app
@@ -472,4 +472,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-poco-x6-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Poco X6 Devices | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-note-12-pro-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi Note 12 Pro 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

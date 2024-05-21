@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Apple iPhone SE (2020) | Dr.fone
-date: 2024-04-30T08:01:57.055Z
-updated: 2024-05-01T08:01:57.055Z
+date: 2024-05-20T08:01:12.881Z
+updated: 2024-05-21T08:01:12.881Z
 tags: 
   - virtual location change
   - social app
@@ -457,4 +457,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro Max Without Passcode Easily</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Devices</u></a></li>
 </ul></div>
+
 

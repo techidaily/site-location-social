@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 2 | Dr.fone
-date: 2024-04-30T08:09:38.417Z
-updated: 2024-05-01T08:09:38.417Z
+date: 2024-05-20T08:01:43.038Z
+updated: 2024-05-21T08:01:43.038Z
 tags: 
   - virtual location change
   - social app
@@ -501,4 +501,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-15-plus-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 15 Plus to Mac Mirroring | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-k11x-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
+
 

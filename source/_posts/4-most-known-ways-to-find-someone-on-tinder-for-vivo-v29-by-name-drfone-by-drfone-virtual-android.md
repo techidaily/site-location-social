@@ -500,3 +500,4 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-yuva-2-drfone-by-drfone-virtual-android/" ><u>How to Hide/Fake Snapchat Location on Your Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 
+

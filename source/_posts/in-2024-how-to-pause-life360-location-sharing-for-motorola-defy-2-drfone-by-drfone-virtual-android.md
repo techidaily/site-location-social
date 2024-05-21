@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Motorola Defy 2 | Dr.fone
-date: 2024-04-30T08:12:51.562Z
-updated: 2024-05-01T08:12:51.562Z
+date: 2024-05-20T08:01:55.322Z
+updated: 2024-05-21T08:01:55.322Z
 tags: 
   - virtual location change
   - social app
@@ -521,4 +521,5 @@ While reaching towards the end of the article, we are pretty sure that you now f
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A1 5G? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-find-n3-flip-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo Find N3 Flip? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

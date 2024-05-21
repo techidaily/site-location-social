@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:17.366Z
-updated: 2024-05-01T08:06:17.366Z
+date: 2024-05-20T08:01:30.839Z
+updated: 2024-05-21T08:01:30.839Z
 tags: 
   - virtual location change
   - social app
@@ -438,4 +438,5 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-s24-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy S24 Phones</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a2-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A2 Users</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T08:03:06.782Z
-updated: 2024-05-01T08:03:06.782Z
+date: 2024-05-20T08:01:17.909Z
+updated: 2024-05-21T08:01:17.909Z
 tags: 
   - virtual location change
   - social app
@@ -426,4 +426,5 @@ It is an excellent way of meeting new friends who live outside your residence ar
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-galaxy-m14-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Galaxy M14 5G.</u></a></li>
 </ul></div>
+
 

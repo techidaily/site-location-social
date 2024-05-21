@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T08:02:22.473Z
-updated: 2024-05-01T08:02:22.473Z
+date: 2024-05-20T08:01:14.818Z
+updated: 2024-05-21T08:01:14.818Z
 tags: 
   - virtual location change
   - social app
@@ -477,4 +477,5 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G13? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/top-movement-tracking-apps-for-mobile-devices-for-2024/"><u>Top Movement Tracking Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
+
 

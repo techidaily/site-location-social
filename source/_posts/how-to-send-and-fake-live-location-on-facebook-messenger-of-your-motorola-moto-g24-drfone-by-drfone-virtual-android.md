@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G24 | Dr.fone
-date: 2024-04-30T08:16:06.027Z
-updated: 2024-05-01T08:16:06.027Z
+date: 2024-05-20T08:02:08.770Z
+updated: 2024-05-21T08:02:08.770Z
 tags: 
   - virtual location change
   - social app
@@ -471,4 +471,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y200e 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-14-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 14 Pro Lock Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 Pro | Dr.fone
-date: 2024-04-30T08:02:41.093Z
-updated: 2024-05-01T08:02:41.093Z
+date: 2024-05-20T08:01:16.150Z
+updated: 2024-05-21T08:01:16.150Z
 tags: 
   - virtual location change
   - social app
@@ -368,4 +368,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a70-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A70 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

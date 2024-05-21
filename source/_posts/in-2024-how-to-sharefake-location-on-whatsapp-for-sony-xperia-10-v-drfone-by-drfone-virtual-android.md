@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:07.313Z
-updated: 2024-05-01T08:06:07.313Z
+date: 2024-05-20T08:01:29.816Z
+updated: 2024-05-21T08:01:29.816Z
 tags: 
   - virtual location change
   - social app
@@ -439,4 +439,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-huawei-nova-y71-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Huawei Nova Y71 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-motorola-moto-g24-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G24 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

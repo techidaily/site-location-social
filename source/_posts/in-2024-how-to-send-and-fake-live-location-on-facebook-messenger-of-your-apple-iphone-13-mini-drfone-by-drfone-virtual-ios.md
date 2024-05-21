@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T08:03:13.338Z
-updated: 2024-05-01T08:03:13.338Z
+date: 2024-05-20T08:01:18.540Z
+updated: 2024-05-21T08:01:18.540Z
 tags: 
   - virtual location change
   - social app
@@ -389,4 +389,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iOS iCloud | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-y100i-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo Y100i.</u></a></li>
 </ul></div>
+
 

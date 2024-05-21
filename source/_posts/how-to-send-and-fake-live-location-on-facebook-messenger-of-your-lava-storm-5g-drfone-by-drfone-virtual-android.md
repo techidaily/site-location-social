@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Storm 5G | Dr.fone
-date: 2024-04-30T08:10:38.506Z
-updated: 2024-05-01T08:10:38.506Z
+date: 2024-05-20T08:01:46.986Z
+updated: 2024-05-21T08:01:46.986Z
 tags: 
   - virtual location change
   - social app
@@ -427,4 +427,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-spark-go-2023-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Spark Go (2023)</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-magic-6-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor Magic 6 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

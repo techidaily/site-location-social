@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:19.085Z
-updated: 2024-05-01T08:06:19.085Z
+date: 2024-05-20T08:01:30.961Z
+updated: 2024-05-21T08:01:30.961Z
 tags: 
   - virtual location change
   - social app
@@ -472,4 +472,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-x100-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo X100</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-you-can-turn-a-tiktok-into-a-gif-now-heres-how-for-2024/"><u>New You Can Turn a TikTok Into a GIF Now. Heres How for 2024</u></a></li>
 </ul></div>
+
 

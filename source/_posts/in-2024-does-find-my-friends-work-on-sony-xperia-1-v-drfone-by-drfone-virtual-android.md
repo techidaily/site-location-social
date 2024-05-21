@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:57.453Z
-updated: 2024-05-01T08:05:57.453Z
+date: 2024-05-20T08:01:29.205Z
+updated: 2024-05-21T08:01:29.205Z
 tags: 
   - virtual location change
   - social app
@@ -365,4 +365,5 @@ While it’s always recommended to maintain open communication with your Circle 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-blade-a73-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Blade A73 5G to PC? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-asus-rog-phone-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Asus ROG Phone 7 Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

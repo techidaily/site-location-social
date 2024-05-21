@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:52.772Z
-updated: 2024-05-01T08:05:52.772Z
+date: 2024-05-20T08:01:28.902Z
+updated: 2024-05-21T08:01:28.902Z
 tags: 
   - virtual location change
   - social app
@@ -452,4 +452,5 @@ We have extensively concluded different methods involved in **How to change loca
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y100t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y100t to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-12-best-freeze-frame-video-editing-examples/"><u>2024 Approved Best 12 Best Freeze Frame Video Editing Examples</u></a></li>
 </ul></div>
+
 

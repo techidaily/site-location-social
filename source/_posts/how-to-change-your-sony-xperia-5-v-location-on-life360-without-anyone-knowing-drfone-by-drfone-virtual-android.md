@@ -1,7 +1,7 @@
 ---
 title: How to Change Your Sony Xperia 5 V Location on life360 Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:06:13.776Z
-updated: 2024-05-01T08:06:13.776Z
+date: 2024-05-20T08:01:30.203Z
+updated: 2024-05-21T08:01:30.203Z
 tags: 
   - virtual location change
   - social app
@@ -521,4 +521,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

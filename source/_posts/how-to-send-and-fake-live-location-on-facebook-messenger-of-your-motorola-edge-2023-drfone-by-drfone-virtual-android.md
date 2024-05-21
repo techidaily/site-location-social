@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 2023 | Dr.fone
-date: 2024-04-30T08:15:38.219Z
-updated: 2024-05-01T08:15:38.219Z
+date: 2024-05-20T08:02:07.050Z
+updated: 2024-05-21T08:02:07.050Z
 tags: 
   - virtual location change
   - social app
@@ -511,4 +511,5 @@ We have extensively concluded different methods involved in **How to change loca
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x50-gt-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X50 GT</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-vivo-y36i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y36i Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

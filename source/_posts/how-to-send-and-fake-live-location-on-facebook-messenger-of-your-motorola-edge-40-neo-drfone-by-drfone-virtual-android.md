@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 40 Neo | Dr.fone
-date: 2024-04-30T08:15:24.458Z
-updated: 2024-05-01T08:15:24.458Z
+date: 2024-05-20T08:02:06.142Z
+updated: 2024-05-21T08:02:06.142Z
 tags: 
   - virtual location change
   - social app
@@ -407,4 +407,5 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic V2 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

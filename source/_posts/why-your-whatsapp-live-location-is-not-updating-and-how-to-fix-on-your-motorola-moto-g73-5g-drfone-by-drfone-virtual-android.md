@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T08:12:59.159Z
-updated: 2024-05-01T08:12:59.159Z
+date: 2024-05-20T08:01:55.982Z
+updated: 2024-05-21T08:01:55.982Z
 tags: 
   - virtual location change
   - social app
@@ -475,4 +475,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Poco M6 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2023 files</u></a></li>
 </ul></div>
+
 

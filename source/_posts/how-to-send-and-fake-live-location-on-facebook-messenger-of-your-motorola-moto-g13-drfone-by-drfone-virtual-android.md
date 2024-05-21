@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G13 | Dr.fone
-date: 2024-04-30T08:12:17.780Z
-updated: 2024-05-01T08:12:17.780Z
+date: 2024-05-20T08:01:53.158Z
+updated: 2024-05-21T08:01:53.158Z
 tags: 
   - virtual location change
   - social app
@@ -413,4 +413,5 @@ While it’s always recommended to maintain open communication with your Circle 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone without Google Account?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nubia Red Magic 8S Pro?</u></a></li>
 </ul></div>
+
 

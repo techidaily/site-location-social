@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Sony Xperia 1 V in 3 Ways | Dr.fone
-date: 2024-04-30T08:05:46.272Z
-updated: 2024-05-01T08:05:46.272Z
+date: 2024-05-20T08:01:28.461Z
+updated: 2024-05-21T08:01:28.461Z
 tags: 
   - virtual location change
   - social app
@@ -466,4 +466,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-13t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi 13T FRP</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
+
 

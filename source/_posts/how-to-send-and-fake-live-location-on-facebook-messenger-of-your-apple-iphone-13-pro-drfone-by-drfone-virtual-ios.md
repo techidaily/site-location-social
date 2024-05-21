@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 Pro | Dr.fone
-date: 2024-04-30T08:03:19.685Z
-updated: 2024-05-01T08:03:19.685Z
+date: 2024-05-20T08:01:18.952Z
+updated: 2024-05-21T08:01:18.952Z
 tags: 
   - virtual location change
   - social app
@@ -449,4 +449,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m54-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

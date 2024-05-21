@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Location on Yik Yak For your Nokia C12 to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:17:47.786Z
-updated: 2024-05-01T08:17:47.786Z
+date: 2024-05-20T08:02:15.226Z
+updated: 2024-05-21T08:02:15.226Z
 tags: 
   - virtual location change
   - social app
@@ -319,4 +319,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nubia-red-magic-8s-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nubia Red Magic 8S Pro Devices</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

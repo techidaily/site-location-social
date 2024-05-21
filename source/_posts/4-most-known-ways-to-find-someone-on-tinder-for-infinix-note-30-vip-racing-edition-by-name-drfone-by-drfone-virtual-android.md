@@ -591,3 +591,4 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nokia-c22-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Share/Fake Location on WhatsApp for Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
 
+

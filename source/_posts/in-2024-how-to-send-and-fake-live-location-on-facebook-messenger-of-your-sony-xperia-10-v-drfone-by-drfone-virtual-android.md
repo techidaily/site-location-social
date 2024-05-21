@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:10.111Z
-updated: 2024-05-01T08:06:10.111Z
+date: 2024-05-20T08:01:29.980Z
+updated: 2024-05-21T08:01:29.980Z
 tags: 
   - virtual location change
   - social app
@@ -526,4 +526,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-realme-11-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Realme 11 Pro+</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

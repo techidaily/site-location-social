@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:50.662Z
-updated: 2024-05-01T08:05:50.662Z
+date: 2024-05-20T08:01:28.768Z
+updated: 2024-05-21T08:01:28.768Z
 tags: 
   - virtual location change
   - social app
@@ -353,4 +353,5 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 <li><a href="https://animation-videos.techidaily.com/2024-approved-the-art-of-comics-learn-how-to-do-funny-cartoon-drawings/"><u>2024 Approved The Art of Comics - Learn How to Do Funny Cartoon Drawings</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-s23-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy S23 Ultra Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

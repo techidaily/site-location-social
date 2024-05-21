@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:21.453Z
-updated: 2024-05-01T08:06:21.453Z
+date: 2024-05-20T08:01:31.086Z
+updated: 2024-05-21T08:01:31.086Z
 tags: 
   - virtual location change
   - social app
@@ -435,4 +435,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

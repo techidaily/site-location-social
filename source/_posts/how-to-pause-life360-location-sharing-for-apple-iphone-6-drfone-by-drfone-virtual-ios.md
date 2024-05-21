@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 6 | Dr.fone
-date: 2024-04-30T08:00:52.469Z
-updated: 2024-05-01T08:00:52.469Z
+date: 2024-05-20T08:00:58.742Z
+updated: 2024-05-21T08:00:58.742Z
 tags: 
   - virtual location change
   - social app
@@ -402,4 +402,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/" ><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+
 

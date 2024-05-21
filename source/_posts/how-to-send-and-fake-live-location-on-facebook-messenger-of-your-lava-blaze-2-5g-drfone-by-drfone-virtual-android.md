@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T08:10:10.141Z
-updated: 2024-05-01T08:10:10.141Z
+date: 2024-05-20T08:01:45.148Z
+updated: 2024-05-21T08:01:45.148Z
 tags: 
   - virtual location change
   - social app
@@ -396,4 +396,5 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-p40-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

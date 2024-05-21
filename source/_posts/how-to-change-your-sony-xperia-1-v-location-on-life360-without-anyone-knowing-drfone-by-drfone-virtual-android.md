@@ -1,7 +1,7 @@
 ---
 title: How to Change Your Sony Xperia 1 V Location on life360 Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:05:45.287Z
-updated: 2024-05-01T08:05:45.287Z
+date: 2024-05-20T08:01:28.402Z
+updated: 2024-05-21T08:01:28.402Z
 tags: 
   - virtual location change
   - social app
@@ -550,4 +550,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://ai-video-apps.techidaily.com/new-discover-the-secrets-to-effortless-mp3-conversion-on-windows-a-essential-read-for-2024/"><u>New Discover the Secrets to Effortless Mp3 Conversion on Windows A Essential Read for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

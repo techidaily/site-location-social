@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T08:11:14.299Z
-updated: 2024-05-01T08:11:14.299Z
+date: 2024-05-20T08:01:49.101Z
+updated: 2024-05-21T08:01:49.101Z
 tags: 
   - virtual location change
   - social app
@@ -478,4 +478,5 @@ While reaching towards the end of the article, we are pretty sure that you now f
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y17s | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone SE (2020) to Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

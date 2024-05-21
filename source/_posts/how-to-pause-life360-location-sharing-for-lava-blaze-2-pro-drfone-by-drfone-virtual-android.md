@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T08:09:44.965Z
-updated: 2024-05-01T08:09:44.965Z
+date: 2024-05-20T08:01:43.506Z
+updated: 2024-05-21T08:01:43.506Z
 tags: 
   - virtual location change
   - social app
@@ -469,4 +469,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a79-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A79 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-14-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 14 You Should Try Out</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 3 | Dr.fone
-date: 2024-04-30T08:10:52.359Z
-updated: 2024-05-01T08:10:52.359Z
+date: 2024-05-20T08:01:47.870Z
+updated: 2024-05-21T08:01:47.870Z
 tags: 
   - virtual location change
   - social app
@@ -401,4 +401,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-100-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 100 Pro to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-x-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo X Flip FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

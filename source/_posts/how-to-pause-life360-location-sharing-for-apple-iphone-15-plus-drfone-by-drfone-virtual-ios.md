@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 15 Plus | Dr.fone
-date: 2024-04-30T08:05:06.457Z
-updated: 2024-05-01T08:05:06.457Z
+date: 2024-05-20T08:01:26.087Z
+updated: 2024-05-21T08:01:26.087Z
 tags: 
   - virtual location change
   - social app
@@ -379,4 +379,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 14</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

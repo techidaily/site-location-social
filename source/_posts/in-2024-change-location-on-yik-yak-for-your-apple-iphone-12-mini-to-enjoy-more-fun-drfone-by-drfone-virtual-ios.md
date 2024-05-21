@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Location on Yik Yak For your Apple iPhone 12 mini to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:02:18.923Z
-updated: 2024-05-01T08:02:18.923Z
+date: 2024-05-20T08:01:14.568Z
+updated: 2024-05-21T08:01:14.568Z
 tags: 
   - virtual location change
   - social app
@@ -381,4 +381,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 12 4G Phone Pattern Lock</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-x6-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from X6 Pro</u></a></li>
 </ul></div>
+
 

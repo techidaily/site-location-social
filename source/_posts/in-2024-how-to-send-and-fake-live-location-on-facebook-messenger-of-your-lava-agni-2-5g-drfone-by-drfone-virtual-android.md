@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:25.580Z
-updated: 2024-05-01T08:09:25.580Z
+date: 2024-05-20T08:01:42.119Z
+updated: 2024-05-21T08:01:42.119Z
 tags: 
   - virtual location change
   - social app
@@ -399,4 +399,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-find-n3-flip-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo Find N3 Flip Location | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze 2 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

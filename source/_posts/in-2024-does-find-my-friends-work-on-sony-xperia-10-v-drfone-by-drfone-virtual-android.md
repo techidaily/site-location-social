@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:11.939Z
-updated: 2024-05-01T08:06:11.939Z
+date: 2024-05-20T08:01:30.097Z
+updated: 2024-05-21T08:01:30.097Z
 tags: 
   - virtual location change
   - social app
@@ -441,4 +441,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-c55-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco C55 and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

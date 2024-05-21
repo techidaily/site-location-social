@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on HTC U23 | Dr.fone
-date: 2024-04-30T08:07:41.256Z
-updated: 2024-05-01T08:07:41.256Z
+date: 2024-05-20T08:01:35.986Z
+updated: 2024-05-21T08:01:35.986Z
 tags: 
   - virtual location change
   - social app
@@ -384,4 +384,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-reviewing-efectum-app-and-the-best-alternatives-for-smartphone-users/"><u>Updated In 2024, Reviewing Efectum App and The Best Alternatives for Smartphone Users</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-a05ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itel A05ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

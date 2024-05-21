@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T08:10:19.137Z
-updated: 2024-05-01T08:10:19.137Z
+date: 2024-05-20T08:01:45.787Z
+updated: 2024-05-21T08:01:45.787Z
 tags: 
   - virtual location change
   - social app
@@ -450,4 +450,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-script-generator-wondershare-virbo-glossary-for-2024/"><u>Updated What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro? Complete Guide</u></a></li>
 </ul></div>
+
 

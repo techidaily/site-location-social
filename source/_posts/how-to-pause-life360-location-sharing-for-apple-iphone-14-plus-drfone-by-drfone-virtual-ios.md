@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 14 Plus | Dr.fone
-date: 2024-04-30T08:04:24.297Z
-updated: 2024-05-01T08:04:24.297Z
+date: 2024-05-20T08:01:23.344Z
+updated: 2024-05-21T08:01:23.344Z
 tags: 
   - virtual location change
   - social app
@@ -339,4 +339,5 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-f04-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy F04 Devices</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

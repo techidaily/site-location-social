@@ -1,7 +1,7 @@
 ---
 title: How to Change Sony Xperia 1 V Location on Skout | Dr.fone
-date: 2024-04-30T08:05:48.344Z
-updated: 2024-05-01T08:05:48.344Z
+date: 2024-05-20T08:01:28.588Z
+updated: 2024-05-21T08:01:28.588Z
 tags: 
   - virtual location change
   - social app
@@ -465,4 +465,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-mini-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 mini</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2021-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2021 - How to get it back</u></a></li>
 </ul></div>
+
 

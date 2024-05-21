@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 8 | Dr.fone
-date: 2024-04-30T08:00:53.417Z
-updated: 2024-05-01T08:00:53.417Z
+date: 2024-05-20T08:01:06.361Z
+updated: 2024-05-21T08:01:06.361Z
 tags: 
   - virtual location change
   - social app
@@ -435,4 +435,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-11-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 11 with 3 Methods</u></a></li>
 <li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

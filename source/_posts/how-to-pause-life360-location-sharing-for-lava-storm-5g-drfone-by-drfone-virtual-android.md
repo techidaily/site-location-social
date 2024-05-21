@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Storm 5G | Dr.fone
-date: 2024-04-30T08:10:38.718Z
-updated: 2024-05-01T08:10:38.718Z
+date: 2024-05-20T08:01:46.999Z
+updated: 2024-05-21T08:01:46.999Z
 tags: 
   - virtual location change
   - social app
@@ -485,4 +485,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://ai-video-editing.techidaily.com/1713964849784-updated-the-article-is-a-guide-about-the-split-of-the-videos-in-vlc-there-is-also-a-particular-description-of-its-alternative-wondershare-filmora-it-is-suit/"><u>Updated The Article Is a Guide About the Split of the Videos in VLC. There Is Also a Particular Description of Its Alternative Wondershare Filmora. It Is Suitable as Well as Reasonable for 2024</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

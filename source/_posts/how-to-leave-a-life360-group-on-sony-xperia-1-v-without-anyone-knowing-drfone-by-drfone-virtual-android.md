@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Sony Xperia 1 V Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:05:49.247Z
-updated: 2024-05-01T08:05:49.247Z
+date: 2024-05-20T08:01:28.669Z
+updated: 2024-05-21T08:01:28.669Z
 tags: 
   - virtual location change
   - social app
@@ -551,4 +551,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-8-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 8 Plus Stuck On Activation Lock?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-70-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 70 Lite 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

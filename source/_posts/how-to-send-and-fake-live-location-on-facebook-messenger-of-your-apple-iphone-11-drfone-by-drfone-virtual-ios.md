@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 11 | Dr.fone
-date: 2024-04-30T08:01:12.507Z
-updated: 2024-05-01T08:01:12.507Z
+date: 2024-05-20T08:01:09.831Z
+updated: 2024-05-21T08:01:09.831Z
 tags: 
   - virtual location change
   - social app
@@ -479,4 +479,5 @@ For those seeking to master **how to hide your location on Life360 without anyon
 <li><a href="https://ai-editing-video.techidaily.com/overview-of-perfect-moody-luts-for-vn-editor-for-2024/"><u>Overview of Perfect Moody LUTs for VN Editor for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-10-best-mp3-visualizers-windows-mac-android-iphone-and-online-for-2024/"><u>New 10 Best Mp3 Visualizers Windows, Mac, Android, iPhone & Online for 2024</u></a></li>
 </ul></div>
+
 

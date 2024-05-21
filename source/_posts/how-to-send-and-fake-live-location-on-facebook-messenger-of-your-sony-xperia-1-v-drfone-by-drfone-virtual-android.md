@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:48.796Z
-updated: 2024-05-01T08:05:48.796Z
+date: 2024-05-20T08:01:28.644Z
+updated: 2024-05-21T08:01:28.644Z
 tags: 
   - virtual location change
   - social app
@@ -418,4 +418,5 @@ While it’s always recommended to maintain open communication with your Circle 
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated In 2024, 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Could Not Be Activated/Reached Issue</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Defy 2 | Dr.fone
-date: 2024-04-30T08:12:44.758Z
-updated: 2024-05-01T08:12:44.758Z
+date: 2024-05-20T08:01:54.914Z
+updated: 2024-05-21T08:01:54.914Z
 tags: 
   - virtual location change
   - social app
@@ -414,4 +414,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-play-8t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Play 8T Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-marketing-wondershare-virbo-glossary/"><u>Updated What Is AI Marketing? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Sony Xperia 1 V Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:05:52.561Z
-updated: 2024-05-01T08:05:52.561Z
+date: 2024-05-20T08:01:28.882Z
+updated: 2024-05-21T08:01:28.882Z
 tags: 
   - virtual location change
   - social app
@@ -434,4 +434,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-14-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 14 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

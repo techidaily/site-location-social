@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Sony Xperia 10 V in 3 Ways | Dr.fone
-date: 2024-04-30T08:06:00.233Z
-updated: 2024-05-01T08:06:00.233Z
+date: 2024-05-20T08:01:29.370Z
+updated: 2024-05-21T08:01:29.370Z
 tags: 
   - virtual location change
   - social app
@@ -448,4 +448,5 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-f15-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy F15 5G Devices | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-13-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 13 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:14.208Z
-updated: 2024-05-01T08:06:14.208Z
+date: 2024-05-20T08:01:30.232Z
+updated: 2024-05-21T08:01:30.232Z
 tags: 
   - virtual location change
   - social app
@@ -406,4 +406,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-x100-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo X100</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Device</u></a></li>
 </ul></div>
+
 

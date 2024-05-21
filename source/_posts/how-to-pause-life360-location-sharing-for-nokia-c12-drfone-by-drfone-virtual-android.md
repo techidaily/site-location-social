@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Nokia C12 | Dr.fone
-date: 2024-04-30T08:17:44.872Z
-updated: 2024-05-01T08:17:44.872Z
+date: 2024-05-20T08:02:15.022Z
+updated: 2024-05-21T08:02:15.022Z
 tags: 
   - virtual location change
   - social app
@@ -393,4 +393,5 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 14 Plus Without Previous Owner?</u></a></li>
 </ul></div>
+
 

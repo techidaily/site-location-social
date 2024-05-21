@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T08:09:52.898Z
-updated: 2024-05-01T08:09:52.898Z
+date: 2024-05-20T08:01:43.987Z
+updated: 2024-05-21T08:01:43.987Z
 tags: 
   - virtual location change
   - social app
@@ -330,4 +330,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-11-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 11 Pro?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 5Gwith/without a PC</u></a></li>
 </ul></div>
+
 

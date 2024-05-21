@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:07.101Z
-updated: 2024-05-01T08:06:07.101Z
+date: 2024-05-20T08:01:29.802Z
+updated: 2024-05-21T08:01:29.802Z
 tags: 
   - virtual location change
   - social app
@@ -415,4 +415,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-some-facts-that-few-people-know-on-how-to-make-transparent-background-in-canva/"><u>In 2024, Some Facts That Few People Know on How to Make Transparent Background in Canva</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-converting-soundcloud-to-mp3-like-a-pro-insider-tips/"><u>2024 Approved Converting Soundcloud to MP3 Like a Pro Insider Tips</u></a></li>
 </ul></div>
+
 

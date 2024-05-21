@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 | Dr.fone
-date: 2024-04-30T08:02:09.491Z
-updated: 2024-05-01T08:02:09.491Z
+date: 2024-05-20T08:01:13.930Z
+updated: 2024-05-21T08:01:13.930Z
 tags: 
   - virtual location change
   - social app
@@ -452,4 +452,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-xr-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone XR and iPad</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-best-8-ar-apps-for-android-and-ios-help-you-see-the-world-of-ar/"><u>New Best 8 AR Apps for Android and iOS | Help You See the World of AR</u></a></li>
 </ul></div>
+
 

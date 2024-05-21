@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 12 | Dr.fone
-date: 2024-04-30T08:02:03.300Z
-updated: 2024-05-01T08:02:03.300Z
+date: 2024-05-20T08:01:13.499Z
+updated: 2024-05-21T08:01:13.499Z
 tags: 
   - virtual location change
   - social app
@@ -432,4 +432,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-s18-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo S18 Pro Phone? Unlock It Now</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X8b | Dr.fone</u></a></li>
 </ul></div>
+
 

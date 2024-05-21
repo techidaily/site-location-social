@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T08:10:10.353Z
-updated: 2024-05-01T08:10:10.353Z
+date: 2024-05-20T08:01:45.164Z
+updated: 2024-05-21T08:01:45.164Z
 tags: 
   - virtual location change
   - social app
@@ -429,4 +429,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://ai-video-editing.techidaily.com/add-some-sci-fi-touch-to-your-next-video-content-using-wondershare-filmora-editing-tools-to-create-an-alternate-reality-effect-for-2024/"><u>Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-p60-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after P60 has been deleted.</u></a></li>
 </ul></div>
+
 

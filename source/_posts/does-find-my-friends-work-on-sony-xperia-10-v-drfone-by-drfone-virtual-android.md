@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:04.823Z
-updated: 2024-05-01T08:06:04.823Z
+date: 2024-05-20T08:01:29.677Z
+updated: 2024-05-21T08:01:29.677Z
 tags: 
   - virtual location change
   - social app
@@ -421,4 +421,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-g04-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto G04</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 12? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
 

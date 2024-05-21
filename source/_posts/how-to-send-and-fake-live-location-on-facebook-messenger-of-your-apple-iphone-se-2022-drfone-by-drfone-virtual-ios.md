@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone SE (2022) | Dr.fone
-date: 2024-04-30T08:03:45.059Z
-updated: 2024-05-01T08:03:45.059Z
+date: 2024-05-20T08:01:20.814Z
+updated: 2024-05-21T08:01:20.814Z
 tags: 
   - virtual location change
   - social app
@@ -445,4 +445,5 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-10-streaming-services-worth-a-try/"><u>2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
 </ul></div>
+
 

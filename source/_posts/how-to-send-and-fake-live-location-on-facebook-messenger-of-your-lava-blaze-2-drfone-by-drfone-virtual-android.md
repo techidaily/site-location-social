@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 | Dr.fone
-date: 2024-04-30T08:09:05.287Z
-updated: 2024-05-01T08:09:05.287Z
+date: 2024-05-20T08:01:40.914Z
+updated: 2024-05-21T08:01:40.914Z
 tags: 
   - virtual location change
   - social app
@@ -496,4 +496,5 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 <li><a href="https://animation-videos.techidaily.com/in-2024-the-secret-sauce-for-making-gif-instagram-story-more-stunning/"><u>In 2024, The Secret Sauce for Making GIF Instagram Story More Stunning</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A2</u></a></li>
 </ul></div>
+
 

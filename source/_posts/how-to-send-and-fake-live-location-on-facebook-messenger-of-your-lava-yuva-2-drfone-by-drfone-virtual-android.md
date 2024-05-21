@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 2 | Dr.fone
-date: 2024-04-30T08:09:32.018Z
-updated: 2024-05-01T08:09:32.018Z
+date: 2024-05-20T08:01:42.577Z
+updated: 2024-05-21T08:01:42.577Z
 tags: 
   - virtual location change
   - social app
@@ -438,4 +438,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-c33-2023-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme C33 2023 Phone that is Locked?</u></a></li>
 </ul></div>
+
 

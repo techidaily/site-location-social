@@ -1,7 +1,7 @@
 ---
 title: How to Change Location On Facebook Dating for your Lava Yuva 3 | Dr.fone
-date: 2024-04-30T08:10:47.789Z
-updated: 2024-05-01T08:10:47.789Z
+date: 2024-05-20T08:01:47.562Z
+updated: 2024-05-21T08:01:47.562Z
 tags: 
   - virtual location change
   - social app
@@ -476,4 +476,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-s17t-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo S17t.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

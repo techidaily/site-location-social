@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 12 Pro Max | Dr.fone
-date: 2024-04-30T08:02:30.076Z
-updated: 2024-05-01T08:02:30.076Z
+date: 2024-05-20T08:01:15.394Z
+updated: 2024-05-21T08:01:15.394Z
 tags: 
   - virtual location change
   - social app
@@ -381,4 +381,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone XS</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Lava Yuva 3 Pro in 3 Ways | Dr.fone
-date: 2024-04-30T08:10:21.954Z
-updated: 2024-05-01T08:10:21.954Z
+date: 2024-05-20T08:01:45.998Z
+updated: 2024-05-21T08:01:45.998Z
 tags: 
   - virtual location change
   - social app
@@ -451,4 +451,5 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
 </ul></div>
+
 

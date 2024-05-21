@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Nokia C02 | Dr.fone
-date: 2024-04-30T08:16:47.995Z
-updated: 2024-05-01T08:16:47.995Z
+date: 2024-05-20T08:02:11.580Z
+updated: 2024-05-21T08:02:11.580Z
 tags: 
   - virtual location change
   - social app
@@ -464,4 +464,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-narzo-60-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Narzo 60 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-x50-by-fonelab-android-recover-messages/"><u>How to recover old messages from your X50</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T08:11:06.637Z
-updated: 2024-05-01T08:11:06.637Z
+date: 2024-05-20T08:01:48.703Z
+updated: 2024-05-21T08:01:48.703Z
 tags: 
   - virtual location change
   - social app
@@ -472,4 +472,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-t2-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo T2 Pro 5G Device</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-narzo-n53-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme Narzo N53 Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 

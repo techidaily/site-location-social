@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:58.147Z
-updated: 2024-05-01T08:08:58.147Z
+date: 2024-05-20T08:01:40.317Z
+updated: 2024-05-21T08:01:40.317Z
 tags: 
   - virtual location change
   - social app
@@ -502,4 +502,5 @@ For those seeking to master **how to hide your location on Life360 without anyon
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-30i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 30i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-13-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 13 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Yuva 2 | Dr.fone
-date: 2024-04-30T08:09:32.230Z
-updated: 2024-05-01T08:09:32.230Z
+date: 2024-05-20T08:01:42.590Z
+updated: 2024-05-21T08:01:42.590Z
 tags: 
   - virtual location change
   - social app
@@ -537,4 +537,5 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-easy-audio-downloads-top-youtube-to-mp3-converter-reviews/"><u>New 2024 Approved Unlock Easy Audio Downloads Top YouTube to MP3 Converter Reviews</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-htc-u23-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your HTC U23 Pro? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

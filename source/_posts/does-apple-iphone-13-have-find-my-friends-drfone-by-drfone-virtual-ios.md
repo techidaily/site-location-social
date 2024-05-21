@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 13 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:02:51.141Z
-updated: 2024-05-01T08:02:51.141Z
+date: 2024-05-20T08:01:16.858Z
+updated: 2024-05-21T08:01:16.858Z
 tags: 
   - virtual location change
   - social app
@@ -451,4 +451,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y27s-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y27s to Mac? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 Pro Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

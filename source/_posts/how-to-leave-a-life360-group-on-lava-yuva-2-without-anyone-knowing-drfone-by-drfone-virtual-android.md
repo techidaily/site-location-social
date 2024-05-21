@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Lava Yuva 2 Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:09:32.442Z
-updated: 2024-05-01T08:09:32.442Z
+date: 2024-05-20T08:01:42.596Z
+updated: 2024-05-21T08:01:42.596Z
 tags: 
   - virtual location change
   - social app
@@ -472,4 +472,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-se-2020-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone SE (2020) Unlock Chip You Need to Know</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-6-best-free-online-imovie-alternatives/"><u>2024 Approved 6 Best Free Online iMovie Alternatives</u></a></li>
 </ul></div>
+
 

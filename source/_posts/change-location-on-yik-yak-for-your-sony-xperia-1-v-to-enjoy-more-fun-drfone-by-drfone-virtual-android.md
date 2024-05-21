@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Sony Xperia 1 V to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:05:44.729Z
-updated: 2024-05-01T08:05:44.729Z
+date: 2024-05-20T08:01:28.382Z
+updated: 2024-05-21T08:01:28.382Z
 tags: 
   - virtual location change
   - social app
@@ -455,4 +455,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-discover-8-top-rated-video-and-photo-merger-tools-for-desktop-mobile-and-online-use-elevate-your-media-game-and-create-stunning-visuals-with-e/"><u>2024 Approved Discover 8 Top-Rated Video and Photo Merger Tools for Desktop, Mobile, and Online Use. Elevate Your Media Game and Create Stunning Visuals with Ease</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-18-video-editors-for-pc-and-mac/"><u>2024 Approved Top 18 Video Editors for PC and Mac</u></a></li>
 </ul></div>
+
 

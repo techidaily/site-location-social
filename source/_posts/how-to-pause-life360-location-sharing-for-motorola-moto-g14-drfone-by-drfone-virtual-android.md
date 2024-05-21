@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Moto G14 | Dr.fone
-date: 2024-04-30T08:14:42.075Z
-updated: 2024-05-01T08:14:42.075Z
+date: 2024-05-20T08:02:03.132Z
+updated: 2024-05-21T08:02:03.132Z
 tags: 
   - virtual location change
   - social app
@@ -430,4 +430,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>Updated In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-note-30-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Note 30 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

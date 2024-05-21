@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T08:09:51.202Z
-updated: 2024-05-01T08:09:51.202Z
+date: 2024-05-20T08:01:43.879Z
+updated: 2024-05-21T08:01:43.879Z
 tags: 
   - virtual location change
   - social app
@@ -474,4 +474,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-8-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 8 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>2024 Approved System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
 </ul></div>
+
 

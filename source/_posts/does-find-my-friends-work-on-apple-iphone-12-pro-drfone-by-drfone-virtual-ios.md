@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 12 Pro | Dr.fone
-date: 2024-04-30T08:02:42.870Z
-updated: 2024-05-01T08:02:42.870Z
+date: 2024-05-20T08:01:16.281Z
+updated: 2024-05-21T08:01:16.282Z
 tags: 
   - virtual location change
   - social app
@@ -452,4 +452,5 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
 <li><a href="https://ai-editing-video.techidaily.com/how-to-change-sky-background-with-adobe-photoshop-best-ways-for-2024/"><u>How To Change Sky Background With Adobe Photoshop Best Ways for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/itel-data-retrieval-tool-restore-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>Itel Data Retrieval tool – restore lost data from Itel A60s</u></a></li>
 </ul></div>
+
 

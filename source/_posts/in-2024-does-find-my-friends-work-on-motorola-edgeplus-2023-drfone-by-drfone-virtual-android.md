@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Motorola Edge+ (2023) | Dr.fone
-date: 2024-04-30T08:13:44.923Z
-updated: 2024-05-01T08:13:44.923Z
+date: 2024-05-20T08:01:59.118Z
+updated: 2024-05-21T08:01:59.118Z
 tags: 
   - virtual location change
   - social app
@@ -366,4 +366,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-f25-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo F25 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

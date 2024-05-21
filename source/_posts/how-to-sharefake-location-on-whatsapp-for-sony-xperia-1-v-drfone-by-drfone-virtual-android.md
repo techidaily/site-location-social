@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:46.031Z
-updated: 2024-05-01T08:05:46.031Z
+date: 2024-05-20T08:01:28.450Z
+updated: 2024-05-21T08:01:28.450Z
 tags: 
   - virtual location change
   - social app
@@ -594,4 +594,5 @@ We have extensively concluded different methods involved in **How to change loca
 <li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-13-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 13 without Password</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-slow-down-time-lapse-videos-on-iphone-to-make-detailed-and-captivating-slow-motion-effects-in-your-time-lapse-captures/"><u>New Learn How to Slow Down Time-Lapse Videos on iPhone to Make Detailed and Captivating Slow-Motion Effects in Your Time-Lapse Captures</u></a></li>
 </ul></div>
+
 

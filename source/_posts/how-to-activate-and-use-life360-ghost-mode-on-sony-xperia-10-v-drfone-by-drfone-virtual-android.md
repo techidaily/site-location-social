@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:01.536Z
-updated: 2024-05-01T08:06:01.536Z
+date: 2024-05-20T08:01:29.445Z
+updated: 2024-05-21T08:01:29.445Z
 tags: 
   - virtual location change
   - social app
@@ -496,4 +496,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30i-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30i Lock Screen Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Leave a Life360 Group On Sony Xperia 5 V Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:06:24.549Z
-updated: 2024-05-01T08:06:24.549Z
+date: 2024-05-20T08:01:31.278Z
+updated: 2024-05-21T08:01:31.278Z
 tags: 
   - virtual location change
   - social app
@@ -584,4 +584,5 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

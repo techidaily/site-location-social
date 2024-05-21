@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 13 Pro Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:03:16.738Z
-updated: 2024-05-01T08:03:16.738Z
+date: 2024-05-20T08:01:18.767Z
+updated: 2024-05-21T08:01:18.767Z
 tags: 
   - virtual location change
   - social app
@@ -531,4 +531,5 @@ For those seeking to master **how to hide your location on Life360 without anyon
 <li><a href="https://change-location.techidaily.com/honor-magic-vs-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Nokia C12 Pro to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:17:54.745Z
-updated: 2024-05-01T08:17:54.745Z
+date: 2024-05-20T08:02:15.792Z
+updated: 2024-05-21T08:02:15.792Z
 tags: 
   - virtual location change
   - social app
@@ -403,4 +403,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

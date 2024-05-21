@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Huawei P60 | Dr.fone
-date: 2024-04-30T08:08:15.178Z
-updated: 2024-05-01T08:08:15.178Z
+date: 2024-05-20T08:01:37.865Z
+updated: 2024-05-21T08:01:37.865Z
 tags: 
   - virtual location change
   - social app
@@ -419,4 +419,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://techidaily.com/unlock-iphone-12-mini-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 mini lock with iCloud</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-vivo-x100-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Vivo X100</u></a></li>
 </ul></div>
+
 

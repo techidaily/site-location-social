@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Nokia C12 to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:17:41.017Z
-updated: 2024-05-01T08:17:41.017Z
+date: 2024-05-20T08:02:14.750Z
+updated: 2024-05-21T08:02:14.750Z
 tags: 
   - virtual location change
   - social app
@@ -382,4 +382,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-nord-n30-se-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Nord N30 SE Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

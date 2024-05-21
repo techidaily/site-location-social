@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Motorola Edge 40 | Dr.fone
-date: 2024-04-30T08:13:51.514Z
-updated: 2024-05-01T08:13:51.514Z
+date: 2024-05-20T08:01:59.601Z
+updated: 2024-05-21T08:01:59.601Z
 tags: 
   - virtual location change
   - social app
@@ -488,4 +488,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-12-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 12 Pro to PC or Mac | Stellar</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-c50-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco C50 Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
+
 

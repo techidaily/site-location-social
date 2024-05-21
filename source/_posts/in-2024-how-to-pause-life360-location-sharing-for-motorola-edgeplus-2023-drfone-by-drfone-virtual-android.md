@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Motorola Edge+ (2023) | Dr.fone
-date: 2024-04-30T08:13:43.440Z
-updated: 2024-05-01T08:13:43.440Z
+date: 2024-05-20T08:01:59.011Z
+updated: 2024-05-21T08:01:59.011Z
 tags: 
   - virtual location change
   - social app
@@ -449,4 +449,5 @@ For those seeking to master **how to hide your location on Life360 without anyon
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s18-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S18 Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-e13-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto E13 Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

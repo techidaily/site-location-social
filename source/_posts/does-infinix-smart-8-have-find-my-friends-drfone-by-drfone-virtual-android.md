@@ -483,3 +483,4 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 
+

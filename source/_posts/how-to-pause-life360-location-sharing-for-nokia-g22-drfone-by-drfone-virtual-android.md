@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Nokia G22 | Dr.fone
-date: 2024-04-30T08:17:16.117Z
-updated: 2024-05-01T08:17:16.117Z
+date: 2024-05-20T08:02:13.340Z
+updated: 2024-05-21T08:02:13.340Z
 tags: 
   - virtual location change
   - social app
@@ -415,4 +415,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

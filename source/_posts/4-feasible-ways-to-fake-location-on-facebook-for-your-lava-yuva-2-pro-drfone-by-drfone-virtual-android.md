@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:47.786Z
-updated: 2024-05-01T08:08:47.786Z
+date: 2024-05-20T08:01:39.708Z
+updated: 2024-05-21T08:01:39.708Z
 tags: 
   - virtual location change
   - social app
@@ -461,4 +461,5 @@ There are multiple ways to change your country on YouTube to access content that
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-g22-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia G22? Here is How | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-realme-11-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Realme 11 Pro</u></a></li>
 </ul></div>
+
 

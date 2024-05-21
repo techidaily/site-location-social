@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 8 Plus | Dr.fone
-date: 2024-04-30T08:00:53.308Z
-updated: 2024-05-01T08:00:53.308Z
+date: 2024-05-20T08:01:05.502Z
+updated: 2024-05-21T08:01:05.502Z
 tags: 
   - virtual location change
   - social app
@@ -381,4 +381,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-n55-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo N55 by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-12-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi 12 5G without App | Dr.fone</u></a></li>
 </ul></div>
+
 

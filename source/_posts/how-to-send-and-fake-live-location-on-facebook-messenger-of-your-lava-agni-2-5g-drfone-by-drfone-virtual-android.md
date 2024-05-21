@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:18.714Z
-updated: 2024-05-01T08:09:18.714Z
+date: 2024-05-20T08:01:41.739Z
+updated: 2024-05-21T08:01:41.739Z
 tags: 
   - virtual location change
   - social app
@@ -592,4 +592,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic V2? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

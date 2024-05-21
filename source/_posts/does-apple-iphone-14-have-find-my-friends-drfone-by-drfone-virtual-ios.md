@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 14 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:04:35.029Z
-updated: 2024-05-01T08:04:35.029Z
+date: 2024-05-20T08:01:23.984Z
+updated: 2024-05-21T08:01:23.985Z
 tags: 
   - virtual location change
   - social app
@@ -550,4 +550,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

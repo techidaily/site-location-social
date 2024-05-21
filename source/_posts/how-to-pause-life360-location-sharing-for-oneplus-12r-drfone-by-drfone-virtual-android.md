@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For OnePlus 12R | Dr.fone
-date: 2024-04-30T08:20:40.683Z
-updated: 2024-05-01T08:20:40.683Z
+date: 2024-05-20T08:02:26.678Z
+updated: 2024-05-21T08:02:26.678Z
 tags: 
   - virtual location change
   - social app
@@ -400,4 +400,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-g42-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia G42 5G Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

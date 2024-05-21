@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:20.431Z
-updated: 2024-05-01T08:09:20.431Z
+date: 2024-05-20T08:01:41.851Z
+updated: 2024-05-21T08:01:41.851Z
 tags: 
   - virtual location change
   - social app
@@ -474,4 +474,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s24-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S24 Phone</u></a></li>
 </ul></div>
+
 

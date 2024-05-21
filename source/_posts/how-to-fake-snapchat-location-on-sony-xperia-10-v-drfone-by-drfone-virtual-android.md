@@ -1,7 +1,7 @@
 ---
 title: How to Fake Snapchat Location on Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:00.446Z
-updated: 2024-05-01T08:06:00.446Z
+date: 2024-05-20T08:01:29.391Z
+updated: 2024-05-21T08:01:29.391Z
 tags: 
   - virtual location change
   - social app
@@ -394,4 +394,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Yuva 2</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-x-flip-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo X Flip Phone that is Locked?</u></a></li>
 </ul></div>
+
 

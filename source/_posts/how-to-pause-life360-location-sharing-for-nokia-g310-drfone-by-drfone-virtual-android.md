@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Nokia G310 | Dr.fone
-date: 2024-04-30T08:20:01.360Z
-updated: 2024-05-01T08:20:01.360Z
+date: 2024-05-20T08:02:24.009Z
+updated: 2024-05-21T08:02:24.009Z
 tags: 
   - virtual location change
   - social app
@@ -422,4 +422,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-xr-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone XR?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-x-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone X When Its Locked Within Seconds</u></a></li>
 </ul></div>
+
 

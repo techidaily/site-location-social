@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:59.647Z
-updated: 2024-05-01T08:08:59.647Z
+date: 2024-05-20T08:01:40.605Z
+updated: 2024-05-21T08:01:40.605Z
 tags: 
   - virtual location change
   - social app
@@ -355,4 +355,5 @@ It is an excellent way of meeting new friends who live outside your residence ar
 <li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-t2-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo T2 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V29 Phone without Google Account?</u></a></li>
 </ul></div>
+
 

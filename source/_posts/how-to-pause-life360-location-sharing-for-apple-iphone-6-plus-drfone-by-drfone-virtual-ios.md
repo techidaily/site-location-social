@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-30T08:00:52.585Z
-updated: 2024-05-01T08:00:52.585Z
+date: 2024-05-20T08:00:59.592Z
+updated: 2024-05-21T08:00:59.592Z
 tags: 
   - virtual location change
   - social app
@@ -460,4 +460,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-g22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>How to Fix It Nokia G22 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-sharing-violation-error-when-saving-excel-stellar-by-stellar-guide/" ><u>How to Fix Sharing Violation Error when Saving Excel? | Stellar</u></a></li>
 </ul></div>
+
 

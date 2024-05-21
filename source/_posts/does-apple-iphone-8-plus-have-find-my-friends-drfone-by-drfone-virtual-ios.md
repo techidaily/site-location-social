@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 8 Plus Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:00:53.283Z
-updated: 2024-05-01T08:00:53.283Z
+date: 2024-05-20T08:01:05.317Z
+updated: 2024-05-21T08:01:05.317Z
 tags: 
   - virtual location change
   - social app
@@ -391,4 +391,5 @@ It is an excellent way of meeting new friends who live outside your residence ar
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78+ to iPhone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-itel-s23-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Itel S23 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

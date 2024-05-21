@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For HTC U23 | Dr.fone
-date: 2024-04-30T08:07:39.513Z
-updated: 2024-05-01T08:07:39.513Z
+date: 2024-05-20T08:01:35.886Z
+updated: 2024-05-21T08:01:35.886Z
 tags: 
   - virtual location change
   - social app
@@ -493,4 +493,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>In 2024, Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

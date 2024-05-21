@@ -426,3 +426,4 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-12r-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 12R Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change GPS Location on Sony Xperia 5 V Easily & Safely | Dr.fone
-date: 2024-04-30T08:06:25.030Z
-updated: 2024-05-01T08:06:25.030Z
+date: 2024-05-20T08:01:31.309Z
+updated: 2024-05-21T08:01:31.309Z
 tags: 
   - virtual location change
   - social app
@@ -541,4 +541,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-gionee-f3-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Gionee F3 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-htc-u23-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your HTC U23 via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

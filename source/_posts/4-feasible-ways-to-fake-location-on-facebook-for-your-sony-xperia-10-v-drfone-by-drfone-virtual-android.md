@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:05:59.804Z
-updated: 2024-05-01T08:05:59.804Z
+date: 2024-05-20T08:01:29.340Z
+updated: 2024-05-21T08:01:29.340Z
 tags: 
   - virtual location change
   - social app
@@ -416,4 +416,5 @@ While it’s always recommended to maintain open communication with your Circle 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nubia-red-magic-9-proplus-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nubia Red Magic 9 Pro+?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

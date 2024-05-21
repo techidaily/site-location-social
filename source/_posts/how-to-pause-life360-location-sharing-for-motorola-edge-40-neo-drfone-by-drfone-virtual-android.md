@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Edge 40 Neo | Dr.fone
-date: 2024-04-30T08:15:24.670Z
-updated: 2024-05-01T08:15:24.670Z
+date: 2024-05-20T08:02:06.155Z
+updated: 2024-05-21T08:02:06.155Z
 tags: 
   - virtual location change
   - social app
@@ -433,4 +433,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

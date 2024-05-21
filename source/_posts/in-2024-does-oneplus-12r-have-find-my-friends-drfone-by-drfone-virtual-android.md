@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does OnePlus 12R Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:20:44.170Z
-updated: 2024-05-01T08:20:44.170Z
+date: 2024-05-20T08:02:26.931Z
+updated: 2024-05-21T08:02:26.931Z
 tags: 
   - virtual location change
   - social app
@@ -405,4 +405,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 13 5G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Pro Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

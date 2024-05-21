@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Lava Yuva 3 in 3 Ways | Dr.fone
-date: 2024-04-30T08:10:50.118Z
-updated: 2024-05-01T08:10:50.118Z
+date: 2024-05-20T08:01:47.706Z
+updated: 2024-05-21T08:01:47.706Z
 tags: 
   - virtual location change
   - social app
@@ -449,4 +449,5 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lava-yuva-3-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lava Yuva 3 Pro FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x6-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X6 Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 

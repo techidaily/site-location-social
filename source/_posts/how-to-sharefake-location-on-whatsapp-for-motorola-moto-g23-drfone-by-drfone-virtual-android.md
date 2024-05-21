@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Motorola Moto G23 | Dr.fone
-date: 2024-04-30T08:12:29.256Z
-updated: 2024-05-01T08:12:29.256Z
+date: 2024-05-20T08:01:53.847Z
+updated: 2024-05-21T08:01:53.847Z
 tags: 
   - virtual location change
   - social app
@@ -680,4 +680,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-discord-gif-pfp-for-2024/"><u>New How to Make Discord GIF PFP for 2024</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

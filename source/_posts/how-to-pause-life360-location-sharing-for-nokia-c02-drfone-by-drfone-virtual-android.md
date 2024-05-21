@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Nokia C02 | Dr.fone
-date: 2024-04-30T08:16:48.210Z
-updated: 2024-05-01T08:16:48.210Z
+date: 2024-05-20T08:02:11.588Z
+updated: 2024-05-21T08:02:11.588Z
 tags: 
   - virtual location change
   - social app
@@ -508,4 +508,5 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 <li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y02t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y02T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-gt-10-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix GT 10 Pro Easily?</u></a></li>
 </ul></div>
+
 

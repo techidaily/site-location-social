@@ -1,7 +1,7 @@
 ---
 title: Does OnePlus 12R Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:20:37.660Z
-updated: 2024-05-01T08:20:37.660Z
+date: 2024-05-20T08:02:26.476Z
+updated: 2024-05-21T08:02:26.476Z
 tags: 
   - virtual location change
   - social app
@@ -468,4 +468,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://howto.techidaily.com/fix-infinix-note-30i-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Note 30i Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y78plus-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y78+ FRP?</u></a></li>
 </ul></div>
+
 

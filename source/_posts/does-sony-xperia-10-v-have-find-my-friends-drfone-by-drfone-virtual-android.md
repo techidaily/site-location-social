@@ -1,7 +1,7 @@
 ---
 title: Does Sony Xperia 10 V Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:05:59.585Z
-updated: 2024-05-01T08:05:59.585Z
+date: 2024-05-20T08:01:29.331Z
+updated: 2024-05-21T08:01:29.331Z
 tags: 
   - virtual location change
   - social app
@@ -550,4 +550,5 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x9b-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X9b Running Slow and Freezing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-m54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy M54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

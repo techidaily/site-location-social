@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Lava Yuva 2 Pro in 3 Ways | Dr.fone
-date: 2024-04-30T08:08:48.251Z
-updated: 2024-05-01T08:08:48.251Z
+date: 2024-05-20T08:01:39.738Z
+updated: 2024-05-21T08:01:39.738Z
 tags: 
   - virtual location change
   - social app
@@ -419,4 +419,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-13-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 13 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c110-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C110 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

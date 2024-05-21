@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Lava Yuva 2 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:09:35.617Z
-updated: 2024-05-01T08:09:35.617Z
+date: 2024-05-20T08:01:42.806Z
+updated: 2024-05-21T08:01:42.806Z
 tags: 
   - virtual location change
   - social app
@@ -470,4 +470,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-12-mini-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 12 mini to MacBook without Hindrance | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-sony-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Sony FRP?</u></a></li>
 </ul></div>
+
 

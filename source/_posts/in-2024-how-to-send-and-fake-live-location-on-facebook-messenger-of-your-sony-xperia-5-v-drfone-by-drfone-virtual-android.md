@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:24.131Z
-updated: 2024-05-01T08:06:24.131Z
+date: 2024-05-20T08:01:31.264Z
+updated: 2024-05-21T08:01:31.264Z
 tags: 
   - virtual location change
   - social app
@@ -522,4 +522,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 6 Plus</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 8 Plus?</u></a></li>
 </ul></div>
+
 

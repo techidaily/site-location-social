@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12R | Dr.fone
-date: 2024-04-30T08:20:40.471Z
-updated: 2024-05-01T08:20:40.471Z
+date: 2024-05-20T08:02:26.671Z
+updated: 2024-05-21T08:02:26.671Z
 tags: 
   - virtual location change
   - social app
@@ -491,4 +491,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y77t? | Dr.fone</u></a></li>
 </ul></div>
+
 

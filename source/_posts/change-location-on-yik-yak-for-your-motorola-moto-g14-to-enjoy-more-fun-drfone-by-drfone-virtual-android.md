@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Motorola Moto G14 to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:14:38.370Z
-updated: 2024-05-01T08:14:38.370Z
+date: 2024-05-20T08:02:02.870Z
+updated: 2024-05-21T08:02:02.870Z
 tags: 
   - virtual location change
   - social app
@@ -547,4 +547,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S18e | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

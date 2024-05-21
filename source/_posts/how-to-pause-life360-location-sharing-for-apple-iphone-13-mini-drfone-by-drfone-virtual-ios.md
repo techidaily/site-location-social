@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T08:03:07.006Z
-updated: 2024-05-01T08:03:07.006Z
+date: 2024-05-20T08:01:17.926Z
+updated: 2024-05-21T08:01:17.926Z
 tags: 
   - virtual location change
   - social app
@@ -424,4 +424,5 @@ For those seeking to master **how to hide your location on Life360 without anyon
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-hd-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Smart 7 HD PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s18emirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S18eMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

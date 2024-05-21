@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Lava Blaze 2 in 3 Ways | Dr.fone
-date: 2024-04-30T08:09:02.612Z
-updated: 2024-05-01T08:09:02.612Z
+date: 2024-05-20T08:01:40.778Z
+updated: 2024-05-21T08:01:40.778Z
 tags: 
   - virtual location change
   - social app
@@ -539,4 +539,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-11-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme 11 Pro Phones? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-x9b-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor X9b</u></a></li>
 </ul></div>
+
 

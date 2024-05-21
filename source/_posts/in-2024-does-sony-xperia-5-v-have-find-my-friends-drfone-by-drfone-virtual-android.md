@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Sony Xperia 5 V Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:06:21.242Z
-updated: 2024-05-01T08:06:21.242Z
+date: 2024-05-20T08:01:31.066Z
+updated: 2024-05-21T08:01:31.066Z
 tags: 
   - virtual location change
   - social app
@@ -512,4 +512,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo F23 5G Phone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 VIP</u></a></li>
 </ul></div>
+
 

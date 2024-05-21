@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For OnePlus 12R | Dr.fone
-date: 2024-04-30T08:20:47.156Z
-updated: 2024-05-01T08:20:47.156Z
+date: 2024-05-20T08:02:27.074Z
+updated: 2024-05-21T08:02:27.074Z
 tags: 
   - virtual location change
   - social app
@@ -397,4 +397,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Plus Without Swiping Up? 6 Ways</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Lava Blaze 2 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:09:09.069Z
-updated: 2024-05-01T08:09:09.069Z
+date: 2024-05-20T08:01:41.154Z
+updated: 2024-05-21T08:01:41.154Z
 tags: 
   - virtual location change
   - social app
@@ -486,4 +486,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X9a Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
 </ul></div>
+
 

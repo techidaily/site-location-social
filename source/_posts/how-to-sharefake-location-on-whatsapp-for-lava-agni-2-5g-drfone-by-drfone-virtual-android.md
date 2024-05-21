@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:15.996Z
-updated: 2024-05-01T08:09:15.996Z
+date: 2024-05-20T08:01:41.592Z
+updated: 2024-05-21T08:01:41.592Z
 tags: 
   - virtual location change
   - social app
@@ -524,4 +524,5 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-power-of-wax-a-free-video-editor-for-creators/"><u>New In 2024, Discover the Power of Wax A Free Video Editor for Creators</u></a></li>
 </ul></div>
+
 

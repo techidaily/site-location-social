@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Razr 40 | Dr.fone
-date: 2024-04-30T08:14:15.837Z
-updated: 2024-05-01T08:14:15.837Z
+date: 2024-05-20T08:02:01.385Z
+updated: 2024-05-21T08:02:01.385Z
 tags: 
   - virtual location change
   - social app
@@ -334,4 +334,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-7-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 7 Screen with PC | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a14-4g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A14 4G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

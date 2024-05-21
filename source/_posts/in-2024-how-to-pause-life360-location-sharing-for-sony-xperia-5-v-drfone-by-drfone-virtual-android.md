@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:24.339Z
-updated: 2024-05-01T08:06:24.339Z
+date: 2024-05-20T08:01:31.270Z
+updated: 2024-05-21T08:01:31.270Z
 tags: 
   - virtual location change
   - social app
@@ -446,4 +446,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s23-fe-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy S23 FE Data? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo X90S? | Dr.fone</u></a></li>
 </ul></div>
+
 

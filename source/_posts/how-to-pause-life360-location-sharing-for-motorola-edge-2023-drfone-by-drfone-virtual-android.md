@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Edge 2023 | Dr.fone
-date: 2024-04-30T08:15:38.460Z
-updated: 2024-05-01T08:15:38.460Z
+date: 2024-05-20T08:02:07.063Z
+updated: 2024-05-21T08:02:07.063Z
 tags: 
   - virtual location change
   - social app
@@ -463,4 +463,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Max Without iTunes</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
+
 

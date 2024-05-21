@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto E13 | Dr.fone
-date: 2024-04-30T08:12:10.276Z
-updated: 2024-05-01T08:12:10.276Z
+date: 2024-05-20T08:01:52.751Z
+updated: 2024-05-21T08:01:52.751Z
 tags: 
   - virtual location change
   - social app
@@ -455,4 +455,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-xs-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone XS Max?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix</u></a></li>
 </ul></div>
+
 

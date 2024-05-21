@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Location on Yik Yak For your Lava Blaze 2 5G to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:10:13.677Z
-updated: 2024-05-01T08:10:13.677Z
+date: 2024-05-20T08:01:45.334Z
+updated: 2024-05-21T08:01:45.334Z
 tags: 
   - virtual location change
   - social app
@@ -310,4 +310,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme V30T? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Pro Unlock Without Password</u></a></li>
 </ul></div>
+
 

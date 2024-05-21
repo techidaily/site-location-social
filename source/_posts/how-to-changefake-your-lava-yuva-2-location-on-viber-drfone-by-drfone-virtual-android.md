@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Lava Yuva 2 Location on Viber | Dr.fone
-date: 2024-04-30T08:09:28.844Z
-updated: 2024-05-01T08:09:28.844Z
+date: 2024-05-20T08:01:42.350Z
+updated: 2024-05-21T08:01:42.350Z
 tags: 
   - virtual location change
   - social app
@@ -521,4 +521,5 @@ There are multiple ways to change your country on YouTube to access content that
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A05s | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G13 | Dr.fone
-date: 2024-04-30T08:12:14.924Z
-updated: 2024-05-01T08:12:14.924Z
+date: 2024-05-20T08:01:52.991Z
+updated: 2024-05-21T08:01:52.991Z
 tags: 
   - virtual location change
   - social app
@@ -393,4 +393,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Note 50? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-5g-2023-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G Stylus 5G (2023) support AVCHD video?</u></a></li>
 </ul></div>
+
 

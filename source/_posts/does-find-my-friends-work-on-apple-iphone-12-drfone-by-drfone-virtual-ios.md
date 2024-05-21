@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 12 | Dr.fone
-date: 2024-04-30T08:02:04.795Z
-updated: 2024-05-01T08:02:04.795Z
+date: 2024-05-20T08:01:13.622Z
+updated: 2024-05-21T08:01:13.622Z
 tags: 
   - virtual location change
   - social app
@@ -394,4 +394,5 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:55.474Z
-updated: 2024-05-01T08:05:55.474Z
+date: 2024-05-20T08:01:29.088Z
+updated: 2024-05-21T08:01:29.088Z
 tags: 
   - virtual location change
   - social app
@@ -495,4 +495,5 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 <li><a href="https://fix-guide.techidaily.com/in-2024-does-itel-p40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel P40 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Motorola Moto G13 | Dr.fone
-date: 2024-04-30T08:12:24.623Z
-updated: 2024-05-01T08:12:24.623Z
+date: 2024-05-20T08:01:53.574Z
+updated: 2024-05-21T08:01:53.574Z
 tags: 
   - virtual location change
   - social app
@@ -580,4 +580,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y100i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y100i? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T08:03:08.549Z
-updated: 2024-05-01T08:03:08.549Z
+date: 2024-05-20T08:01:18.219Z
+updated: 2024-05-21T08:01:18.219Z
 tags: 
   - virtual location change
   - social app
@@ -438,4 +438,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-m34-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy M34 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

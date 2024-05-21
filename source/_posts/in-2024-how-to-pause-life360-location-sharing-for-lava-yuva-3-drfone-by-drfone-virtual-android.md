@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Lava Yuva 3 | Dr.fone
-date: 2024-04-30T08:11:00.048Z
-updated: 2024-05-01T08:11:00.048Z
+date: 2024-05-20T08:01:48.269Z
+updated: 2024-05-21T08:01:48.269Z
 tags: 
   - virtual location change
   - social app
@@ -431,4 +431,5 @@ It is an excellent way of meeting new friends who live outside your residence ar
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Max Lock Screen</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 

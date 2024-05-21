@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Nokia C12 Plus in 3 Ways | Dr.fone
-date: 2024-04-30T08:18:17.565Z
-updated: 2024-05-01T08:18:17.565Z
+date: 2024-05-20T08:02:17.190Z
+updated: 2024-05-21T08:02:17.190Z
 tags: 
   - virtual location change
   - social app
@@ -406,4 +406,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-poco-c51-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Poco C51</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>In 2024, Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
 </ul></div>
+
 

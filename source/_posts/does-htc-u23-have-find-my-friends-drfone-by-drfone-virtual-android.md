@@ -1,7 +1,7 @@
 ---
 title: Does HTC U23 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:07:36.193Z
-updated: 2024-05-01T08:07:36.193Z
+date: 2024-05-20T08:01:35.704Z
+updated: 2024-05-21T08:01:35.704Z
 tags: 
   - virtual location change
   - social app
@@ -483,4 +483,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 13 Ultra?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:50.938Z
-updated: 2024-05-01T08:08:50.938Z
+date: 2024-05-20T08:01:39.915Z
+updated: 2024-05-21T08:01:39.915Z
 tags: 
   - virtual location change
   - social app
@@ -565,4 +565,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y100-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y100 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lenovo-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lenovo Phone</u></a></li>
 </ul></div>
+
 

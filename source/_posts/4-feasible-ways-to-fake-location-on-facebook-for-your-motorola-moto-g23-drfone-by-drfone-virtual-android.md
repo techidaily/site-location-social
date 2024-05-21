@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G23 | Dr.fone
-date: 2024-04-30T08:12:29.017Z
-updated: 2024-05-01T08:12:29.017Z
+date: 2024-05-20T08:01:53.825Z
+updated: 2024-05-21T08:01:53.825Z
 tags: 
   - virtual location change
   - social app
@@ -355,4 +355,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://howto.techidaily.com/asus-rog-phone-8-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y27-4g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y27 4G?</u></a></li>
 </ul></div>
+
 

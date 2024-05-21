@@ -467,3 +467,4 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-a70-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on A70</u></a></li>
 </ul></div>
 
+

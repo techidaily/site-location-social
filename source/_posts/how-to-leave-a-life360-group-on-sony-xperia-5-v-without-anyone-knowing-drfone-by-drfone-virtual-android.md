@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Sony Xperia 5 V Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:06:17.578Z
-updated: 2024-05-01T08:06:17.578Z
+date: 2024-05-20T08:01:30.853Z
+updated: 2024-05-21T08:01:30.853Z
 tags: 
   - virtual location change
   - social app
@@ -459,4 +459,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v29-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V29 Device</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

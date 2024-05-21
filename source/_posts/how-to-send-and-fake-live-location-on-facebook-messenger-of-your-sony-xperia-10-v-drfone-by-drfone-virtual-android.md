@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:02.624Z
-updated: 2024-05-01T08:06:02.624Z
+date: 2024-05-20T08:01:29.545Z
+updated: 2024-05-21T08:01:29.545Z
 tags: 
   - virtual location change
   - social app
@@ -345,4 +345,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

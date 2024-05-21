@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Sony Xperia 10 V in 3 Ways | Dr.fone
-date: 2024-04-30T08:06:07.525Z
-updated: 2024-05-01T08:06:07.525Z
+date: 2024-05-20T08:01:29.829Z
+updated: 2024-05-21T08:01:29.829Z
 tags: 
   - virtual location change
   - social app
@@ -306,4 +306,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-note-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Note 30 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

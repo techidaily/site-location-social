@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Sony Xperia 5 V Location on Viber | Dr.fone
-date: 2024-04-30T08:06:13.566Z
-updated: 2024-05-01T08:06:13.566Z
+date: 2024-05-20T08:01:30.194Z
+updated: 2024-05-21T08:01:30.194Z
 tags: 
   - virtual location change
   - social app
@@ -358,4 +358,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-moto-g04-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Moto G04 Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-zero-30-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Zero 30 5G Face Lock?</u></a></li>
 </ul></div>
+
 

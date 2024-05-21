@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Nokia C12 | Dr.fone
-date: 2024-04-30T08:17:48.985Z
-updated: 2024-05-01T08:17:48.985Z
+date: 2024-05-20T08:02:15.272Z
+updated: 2024-05-21T08:02:15.272Z
 tags: 
   - virtual location change
   - social app
@@ -504,4 +504,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-z-flip-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy Z Flip 5 to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-the-way-to-make-dynamic-video-collages/"><u>New 2024 Approved The Way to Make Dynamic Video Collages?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 12 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:02:00.188Z
-updated: 2024-05-01T08:02:00.188Z
+date: 2024-05-20T08:01:13.289Z
+updated: 2024-05-21T08:01:13.289Z
 tags: 
   - virtual location change
   - social app
@@ -487,4 +487,5 @@ While reaching towards the end of the article, we are pretty sure that you now f
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 

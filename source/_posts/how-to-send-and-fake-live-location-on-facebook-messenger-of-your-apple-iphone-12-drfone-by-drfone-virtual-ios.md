@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 | Dr.fone
-date: 2024-04-30T08:02:03.093Z
-updated: 2024-05-01T08:02:03.093Z
+date: 2024-05-20T08:01:13.482Z
+updated: 2024-05-21T08:01:13.482Z
 tags: 
   - virtual location change
   - social app
@@ -438,4 +438,5 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-f15-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy F15 5G without App | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-90-lite-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor 90 Lite</u></a></li>
 </ul></div>
+
 

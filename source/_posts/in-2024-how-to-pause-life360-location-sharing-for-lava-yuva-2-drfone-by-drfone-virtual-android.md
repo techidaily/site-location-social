@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Lava Yuva 2 | Dr.fone
-date: 2024-04-30T08:09:38.638Z
-updated: 2024-05-01T08:09:38.638Z
+date: 2024-05-20T08:01:43.051Z
+updated: 2024-05-21T08:01:43.051Z
 tags: 
   - virtual location change
   - social app
@@ -465,4 +465,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Device</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x50-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X50 to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

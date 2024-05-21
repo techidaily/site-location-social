@@ -1,7 +1,7 @@
 ---
 title: Does Lava Blaze 2 5G Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:10:07.229Z
-updated: 2024-05-01T08:10:07.229Z
+date: 2024-05-20T08:01:44.960Z
+updated: 2024-05-21T08:01:44.960Z
 tags: 
   - virtual location change
   - social app
@@ -455,4 +455,5 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 <li><a href="https://howto.techidaily.com/fix-samsung-galaxy-m14-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy M14 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

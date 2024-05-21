@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Moto G13 | Dr.fone
-date: 2024-04-30T08:12:17.995Z
-updated: 2024-05-01T08:12:17.995Z
+date: 2024-05-20T08:01:53.172Z
+updated: 2024-05-21T08:01:53.172Z
 tags: 
   - virtual location change
   - social app
@@ -561,4 +561,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-12r-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-14-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 14 Pro without Apple ID?</u></a></li>
 </ul></div>
+
 

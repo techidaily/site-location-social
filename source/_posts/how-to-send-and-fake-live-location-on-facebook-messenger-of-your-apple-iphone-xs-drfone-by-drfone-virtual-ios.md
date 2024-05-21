@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone XS | Dr.fone
-date: 2024-04-30T08:00:53.532Z
-updated: 2024-05-01T08:00:53.532Z
+date: 2024-05-20T08:01:07.195Z
+updated: 2024-05-21T08:01:07.195Z
 tags: 
   - virtual location change
   - social app
@@ -441,4 +441,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://techidaily.com/things-you-dont-know-about-itel-a70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A70 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-6s-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6s Device from iCloud</u></a></li>
 </ul></div>
+
 

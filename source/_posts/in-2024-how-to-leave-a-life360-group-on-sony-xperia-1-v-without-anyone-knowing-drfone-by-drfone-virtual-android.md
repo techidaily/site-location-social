@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Leave a Life360 Group On Sony Xperia 1 V Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:05:56.002Z
-updated: 2024-05-01T08:05:56.002Z
+date: 2024-05-20T08:01:29.103Z
+updated: 2024-05-21T08:01:29.103Z
 tags: 
   - virtual location change
   - social app
@@ -506,4 +506,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-poco-x6-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Poco X6? Fixed | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

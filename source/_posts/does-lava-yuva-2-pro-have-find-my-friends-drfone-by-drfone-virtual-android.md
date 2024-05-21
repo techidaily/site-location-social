@@ -1,7 +1,7 @@
 ---
 title: Does Lava Yuva 2 Pro Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:08:47.463Z
-updated: 2024-05-01T08:08:47.463Z
+date: 2024-05-20T08:01:39.699Z
+updated: 2024-05-21T08:01:39.699Z
 tags: 
   - virtual location change
   - social app
@@ -498,4 +498,5 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from X6?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-edge-2023-by-drfone-android/"><u>How to Bypass FRP from Motorola Edge 2023?</u></a></li>
 </ul></div>
+
 

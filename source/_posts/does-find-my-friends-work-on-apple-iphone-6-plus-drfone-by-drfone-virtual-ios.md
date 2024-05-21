@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-30T08:00:52.595Z
-updated: 2024-05-01T08:00:52.595Z
+date: 2024-05-20T08:00:59.719Z
+updated: 2024-05-21T08:00:59.719Z
 tags: 
   - virtual location change
   - social app
@@ -405,4 +405,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c12-phone-password-using-emergency-call-by-drfone-android/" ><u>How To Unlock Any Nokia C12 Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/" ><u>How to Recover Lost Data from iPhone 11 After iOS Update? | Stellar</u></a></li>
 </ul></div>
+
 

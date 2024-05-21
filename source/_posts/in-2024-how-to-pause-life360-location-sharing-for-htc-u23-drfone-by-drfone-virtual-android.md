@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For HTC U23 | Dr.fone
-date: 2024-04-30T08:07:47.213Z
-updated: 2024-05-01T08:07:47.213Z
+date: 2024-05-20T08:01:36.280Z
+updated: 2024-05-21T08:01:36.280Z
 tags: 
   - virtual location change
   - social app
@@ -497,4 +497,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 8? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

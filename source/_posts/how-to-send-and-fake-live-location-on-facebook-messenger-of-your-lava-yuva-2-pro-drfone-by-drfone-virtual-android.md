@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:50.710Z
-updated: 2024-05-01T08:08:50.710Z
+date: 2024-05-20T08:01:39.901Z
+updated: 2024-05-21T08:01:39.901Z
 tags: 
   - virtual location change
   - social app
@@ -396,4 +396,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X8b | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a24-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A24 support MOV videos ?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T08:13:01.891Z
-updated: 2024-05-01T08:13:01.891Z
+date: 2024-05-20T08:01:56.182Z
+updated: 2024-05-21T08:01:56.182Z
 tags: 
   - virtual location change
   - social app
@@ -503,4 +503,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-smart-8-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Smart 8</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 14 Pro | Dr.fone
-date: 2024-04-30T08:04:10.903Z
-updated: 2024-05-01T08:04:10.903Z
+date: 2024-05-20T08:01:22.486Z
+updated: 2024-05-21T08:01:22.486Z
 tags: 
   - virtual location change
   - social app
@@ -485,4 +485,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-t2x-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo T2x 5G Fingerprint Lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-google-pixel-fold-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Google Pixel Fold to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

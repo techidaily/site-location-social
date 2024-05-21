@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Lenovo ThinkPhone | Dr.fone
-date: 2024-04-30T08:11:23.466Z
-updated: 2024-05-01T08:11:23.466Z
+date: 2024-05-20T08:01:49.688Z
+updated: 2024-05-21T08:01:49.688Z
 tags: 
   - virtual location change
   - social app
@@ -390,4 +390,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-m14-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy M14 4G Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-v30-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme V30 Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

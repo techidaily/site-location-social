@@ -1,7 +1,7 @@
 ---
 title: How to Change Location On Facebook Dating for your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:44.097Z
-updated: 2024-05-01T08:05:44.097Z
+date: 2024-05-20T08:01:28.338Z
+updated: 2024-05-21T08:01:28.338Z
 tags: 
   - virtual location change
   - social app
@@ -430,4 +430,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone</u></a></li>
 </ul></div>
+
 

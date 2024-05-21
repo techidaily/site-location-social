@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:55.690Z
-updated: 2024-05-01T08:05:55.690Z
+date: 2024-05-20T08:01:29.094Z
+updated: 2024-05-21T08:01:29.094Z
 tags: 
   - virtual location change
   - social app
@@ -443,4 +443,5 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
 <li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-xs-sim-lock-by-drfone-ios/"><u>How to Remove iPhone XS SIM Lock?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-huawei-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Huawei Fingerprint Lock</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 13 Pro | Dr.fone
-date: 2024-04-30T08:03:21.427Z
-updated: 2024-05-01T08:03:21.427Z
+date: 2024-05-20T08:01:19.087Z
+updated: 2024-05-21T08:01:19.087Z
 tags: 
   - virtual location change
   - social app
@@ -389,4 +389,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

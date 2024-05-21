@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Lava Yuva 2 Pro Location on Viber | Dr.fone
-date: 2024-04-30T08:08:47.036Z
-updated: 2024-05-01T08:08:47.036Z
+date: 2024-05-20T08:01:39.658Z
+updated: 2024-05-21T08:01:39.658Z
 tags: 
   - virtual location change
   - social app
@@ -360,4 +360,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c110-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C110 to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-60x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo 60x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

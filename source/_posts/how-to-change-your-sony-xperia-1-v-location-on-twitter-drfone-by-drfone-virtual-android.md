@@ -1,7 +1,7 @@
 ---
 title: How to Change your Sony Xperia 1 V Location on Twitter | Dr.fone
-date: 2024-04-30T08:05:44.520Z
-updated: 2024-05-01T08:05:44.520Z
+date: 2024-05-20T08:01:28.360Z
+updated: 2024-05-21T08:01:28.360Z
 tags: 
   - virtual location change
   - social app
@@ -484,4 +484,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://howto.techidaily.com/best-methods-for-motorola-g54-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola G54 5G Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo V27 | Dr.fone</u></a></li>
 </ul></div>
+
 

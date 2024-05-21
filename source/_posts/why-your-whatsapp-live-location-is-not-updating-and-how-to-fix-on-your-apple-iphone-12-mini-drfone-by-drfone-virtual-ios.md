@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T08:02:17.254Z
-updated: 2024-05-01T08:02:17.254Z
+date: 2024-05-20T08:01:14.448Z
+updated: 2024-05-21T08:01:14.448Z
 tags: 
   - virtual location change
   - social app
@@ -499,4 +499,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-spark-20-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Spark 20 to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-ace-2-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Ace 2 FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

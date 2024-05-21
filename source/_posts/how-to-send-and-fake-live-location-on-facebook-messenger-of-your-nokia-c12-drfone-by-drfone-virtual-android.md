@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 | Dr.fone
-date: 2024-04-30T08:17:44.665Z
-updated: 2024-05-01T08:17:44.665Z
+date: 2024-05-20T08:02:15.015Z
+updated: 2024-05-21T08:02:15.015Z
 tags: 
   - virtual location change
   - social app
@@ -448,4 +448,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-learn-everything-about-leeming-lut-pro/"><u>New In 2024, Learn Everything About Leeming LUT Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-c51-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme C51 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

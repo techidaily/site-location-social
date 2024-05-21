@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T08:08:48.032Z
-updated: 2024-05-01T08:08:48.032Z
+date: 2024-05-20T08:01:39.728Z
+updated: 2024-05-21T08:01:39.728Z
 tags: 
   - virtual location change
   - social app
@@ -589,4 +589,5 @@ There are multiple ways to change your country on YouTube to access content that
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-7-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Razr 40 | Dr.fone
-date: 2024-04-30T08:14:15.622Z
-updated: 2024-05-01T08:14:15.622Z
+date: 2024-05-20T08:02:01.378Z
+updated: 2024-05-21T08:02:01.378Z
 tags: 
   - virtual location change
   - social app
@@ -502,4 +502,5 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-g2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo G2 Is Unlocked</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/1714206683886-updated-in-2024-top-8-video-editing-apps-for-4k-proxy-video-editing/"><u>Updated In 2024, Top 8 Video Editing Apps for 4K Proxy Video Editing</u></a></li>
 </ul></div>
+
 

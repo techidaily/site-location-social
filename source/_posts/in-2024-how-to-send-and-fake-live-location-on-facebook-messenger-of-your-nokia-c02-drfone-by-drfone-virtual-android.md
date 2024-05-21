@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia C02 | Dr.fone
-date: 2024-04-30T08:16:54.946Z
-updated: 2024-05-01T08:16:54.946Z
+date: 2024-05-20T08:02:12.008Z
+updated: 2024-05-21T08:02:12.008Z
 tags: 
   - virtual location change
   - social app
@@ -502,4 +502,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://howto.techidaily.com/calls-on-realme-12plus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 12+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-14-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 14 Plus to iPhone without iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

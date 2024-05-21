@@ -1,7 +1,7 @@
 ---
 title: In 2024, Set Your Preferred Job Location on LinkedIn App of your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:56.234Z
-updated: 2024-05-01T08:05:56.234Z
+date: 2024-05-20T08:01:29.124Z
+updated: 2024-05-21T08:01:29.124Z
 tags: 
   - virtual location change
   - social app
@@ -548,4 +548,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nokia-105-classic-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nokia 105 Classic to iPad | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-14-pro-max-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 14 Pro Max to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
 </ul></div>
+
 

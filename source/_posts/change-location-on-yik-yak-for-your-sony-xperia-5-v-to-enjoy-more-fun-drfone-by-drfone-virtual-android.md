@@ -1,7 +1,7 @@
 ---
 title: Change Location on Yik Yak For your Sony Xperia 5 V to Enjoy More Fun | Dr.fone
-date: 2024-04-30T08:06:13.336Z
-updated: 2024-05-01T08:06:13.336Z
+date: 2024-05-20T08:01:30.183Z
+updated: 2024-05-21T08:01:30.183Z
 tags: 
   - virtual location change
   - social app
@@ -359,4 +359,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X8b | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung with Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

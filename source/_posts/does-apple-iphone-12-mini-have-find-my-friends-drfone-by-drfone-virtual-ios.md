@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 12 mini Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:02:12.924Z
-updated: 2024-05-01T08:02:12.924Z
+date: 2024-05-20T08:01:14.173Z
+updated: 2024-05-21T08:01:14.173Z
 tags: 
   - virtual location change
   - social app
@@ -532,4 +532,5 @@ There are multiple ways to change your country on YouTube to access content that
 <li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-cross-platform-video-editing-35-editors-that-work-seamlessly-across-devices/"><u>Updated Cross-Platform Video Editing 35 Editors That Work Seamlessly Across Devices</u></a></li>
 </ul></div>
+
 

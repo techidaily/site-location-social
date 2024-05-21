@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 14 | Dr.fone
-date: 2024-04-30T08:04:38.400Z
-updated: 2024-05-01T08:04:38.400Z
+date: 2024-05-20T08:01:24.194Z
+updated: 2024-05-21T08:01:24.194Z
 tags: 
   - virtual location change
   - social app
@@ -426,4 +426,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-13-pro-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 13 Pro with 3 Methods</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

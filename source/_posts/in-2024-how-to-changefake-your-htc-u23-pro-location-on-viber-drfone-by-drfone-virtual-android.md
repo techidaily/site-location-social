@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your HTC U23 Pro Location on Viber | Dr.fone
-date: 2024-04-30T08:07:57.076Z
-updated: 2024-05-01T08:07:57.076Z
+date: 2024-05-20T08:01:36.894Z
+updated: 2024-05-21T08:01:36.894Z
 tags: 
   - virtual location change
   - social app
@@ -473,4 +473,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo X Fold 2? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 40 Pro | Dr.fone
-date: 2024-04-30T08:13:10.906Z
-updated: 2024-05-01T08:13:10.906Z
+date: 2024-05-20T08:01:56.790Z
+updated: 2024-05-21T08:01:56.790Z
 tags: 
   - virtual location change
   - social app
@@ -406,4 +406,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70E to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-huawei-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Huawei</u></a></li>
 </ul></div>
+
 

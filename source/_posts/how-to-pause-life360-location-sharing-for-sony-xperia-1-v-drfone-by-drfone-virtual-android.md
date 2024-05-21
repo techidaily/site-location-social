@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:49.035Z
-updated: 2024-05-01T08:05:49.035Z
+date: 2024-05-20T08:01:28.655Z
+updated: 2024-05-21T08:01:28.655Z
 tags: 
   - virtual location change
   - social app
@@ -412,4 +412,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://ai-vdieo-software.techidaily.com/free-online-photo-blur-effects-top-websites-and-tools-for-2024/"><u>Free Online Photo Blur Effects Top Websites and Tools for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-split-audio-from-video-in-adobe-premiere-pro-step-by-step-for-2024/"><u>New Split Audio From Video in Adobe Premiere Pro Step by Step for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 3 | Dr.fone
-date: 2024-04-30T08:10:59.801Z
-updated: 2024-05-01T08:10:59.801Z
+date: 2024-05-20T08:01:48.265Z
+updated: 2024-05-21T08:01:48.265Z
 tags: 
   - virtual location change
   - social app
@@ -475,4 +475,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone SE (2022) | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

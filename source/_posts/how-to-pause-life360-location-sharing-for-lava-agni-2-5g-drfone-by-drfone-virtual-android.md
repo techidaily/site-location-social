@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:18.926Z
-updated: 2024-05-01T08:09:18.926Z
+date: 2024-05-20T08:01:41.755Z
+updated: 2024-05-21T08:01:41.755Z
 tags: 
   - virtual location change
   - social app
@@ -453,4 +453,5 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-color-grading-in-final-cut-pro-for-2024/"><u>How to Use Color Grading in Final Cut Pro for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

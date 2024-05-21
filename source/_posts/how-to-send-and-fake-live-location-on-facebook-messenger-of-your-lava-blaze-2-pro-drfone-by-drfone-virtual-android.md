@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T08:09:44.753Z
-updated: 2024-05-01T08:09:44.753Z
+date: 2024-05-20T08:01:43.490Z
+updated: 2024-05-21T08:01:43.490Z
 tags: 
   - virtual location change
   - social app
@@ -560,4 +560,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a54-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A54 5G without App | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c32-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C32</u></a></li>
 </ul></div>
+
 

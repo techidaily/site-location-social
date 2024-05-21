@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:05:45.718Z
-updated: 2024-05-01T08:05:45.718Z
+date: 2024-05-20T08:01:28.432Z
+updated: 2024-05-21T08:01:28.432Z
 tags: 
   - virtual location change
   - social app
@@ -518,4 +518,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Zero 30 5G Phone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-c51-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on C51.</u></a></li>
 </ul></div>
+
 

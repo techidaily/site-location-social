@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T08:02:15.754Z
-updated: 2024-05-01T08:02:15.754Z
+date: 2024-05-20T08:01:14.349Z
+updated: 2024-05-21T08:01:14.349Z
 tags: 
   - virtual location change
   - social app
@@ -504,4 +504,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-15-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 15?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

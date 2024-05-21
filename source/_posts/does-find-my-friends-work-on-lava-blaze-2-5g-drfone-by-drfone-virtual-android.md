@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T08:10:12.158Z
-updated: 2024-05-01T08:10:12.158Z
+date: 2024-05-20T08:01:45.260Z
+updated: 2024-05-21T08:01:45.260Z
 tags: 
   - virtual location change
   - social app
@@ -426,4 +426,5 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max without Losing Data? | Stellar</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-redmi-13c-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 13C 5G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
+
 

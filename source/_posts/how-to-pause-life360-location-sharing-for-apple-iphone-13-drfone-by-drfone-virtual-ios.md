@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 13 | Dr.fone
-date: 2024-04-30T08:02:54.153Z
-updated: 2024-05-01T08:02:54.153Z
+date: 2024-05-20T08:01:17.051Z
+updated: 2024-05-21T08:01:17.051Z
 tags: 
   - virtual location change
   - social app
@@ -379,4 +379,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor 90 Lite? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

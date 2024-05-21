@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 40 | Dr.fone
-date: 2024-04-30T08:13:49.797Z
-updated: 2024-05-01T08:13:49.797Z
+date: 2024-05-20T08:01:59.474Z
+updated: 2024-05-21T08:01:59.474Z
 tags: 
   - virtual location change
   - social app
@@ -477,4 +477,5 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Lava Blaze 2 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y100t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y100t? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

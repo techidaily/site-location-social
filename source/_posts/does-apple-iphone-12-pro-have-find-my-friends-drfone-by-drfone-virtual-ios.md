@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone 12 Pro Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:02:38.305Z
-updated: 2024-05-01T08:02:38.305Z
+date: 2024-05-20T08:01:15.948Z
+updated: 2024-05-21T08:01:15.948Z
 tags: 
   - virtual location change
   - social app
@@ -475,4 +475,5 @@ We have extensively concluded different methods involved in **How to change loca
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-note-50-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme Note 50 Phone Pattern Lock</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-xr-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone XR Passcode without a Computer</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does Apple iPhone 13 mini Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:03:10.531Z
-updated: 2024-05-01T08:03:10.531Z
+date: 2024-05-20T08:01:18.329Z
+updated: 2024-05-21T08:01:18.329Z
 tags: 
   - virtual location change
   - social app
@@ -405,4 +405,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-11-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 11 Pro Max</u></a></li>
 </ul></div>
+
 

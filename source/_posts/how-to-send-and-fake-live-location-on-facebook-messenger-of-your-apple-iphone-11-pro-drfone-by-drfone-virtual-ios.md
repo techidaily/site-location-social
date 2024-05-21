@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 11 Pro | Dr.fone
-date: 2024-04-30T08:01:37.763Z
-updated: 2024-05-01T08:01:37.763Z
+date: 2024-05-20T08:01:11.581Z
+updated: 2024-05-21T08:01:11.581Z
 tags: 
   - virtual location change
   - social app
@@ -398,4 +398,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-gt-5-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme GT 5 Pro Devices</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Max Without iTunes</u></a></li>
 </ul></div>
+
 

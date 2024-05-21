@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Nokia C12 Pro | Dr.fone
-date: 2024-04-30T08:17:58.567Z
-updated: 2024-05-01T08:17:58.567Z
+date: 2024-05-20T08:02:16.048Z
+updated: 2024-05-21T08:02:16.048Z
 tags: 
   - virtual location change
   - social app
@@ -365,4 +365,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://techidaily.com/how-to-hard-reset-oppo-a58-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A58 4G Without Password | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-create-a-gif-with-sound/"><u>2024 Approved How to Create A GIF with Sound?</u></a></li>
 </ul></div>
+
 

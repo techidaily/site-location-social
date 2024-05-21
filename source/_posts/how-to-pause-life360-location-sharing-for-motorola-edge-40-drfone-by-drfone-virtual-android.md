@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone
-date: 2024-04-30T08:13:50.009Z
-updated: 2024-05-01T08:13:50.009Z
+date: 2024-05-20T08:01:59.487Z
+updated: 2024-05-21T08:01:59.487Z
 tags: 
   - virtual location change
   - social app
@@ -385,4 +385,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 8 Plus in the Best Ways</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v29-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V29 Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

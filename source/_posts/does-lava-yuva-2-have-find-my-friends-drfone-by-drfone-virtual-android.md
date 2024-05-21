@@ -1,7 +1,7 @@
 ---
 title: Does Lava Yuva 2 Have Find My Friends? | Dr.fone
-date: 2024-04-30T08:09:29.263Z
-updated: 2024-05-01T08:09:29.263Z
+date: 2024-05-20T08:01:42.382Z
+updated: 2024-05-21T08:01:42.382Z
 tags: 
   - virtual location change
   - social app
@@ -524,4 +524,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-split-screen-on-tiktok/"><u>In 2024, How To Split Screen On Tiktok</u></a></li>
 </ul></div>
+
 

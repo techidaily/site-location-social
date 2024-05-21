@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Location On Facebook Dating for your Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T08:06:19.722Z
-updated: 2024-05-01T08:06:19.722Z
+date: 2024-05-20T08:01:30.998Z
+updated: 2024-05-21T08:01:30.998Z
 tags: 
   - virtual location change
   - social app
@@ -558,4 +558,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-best-photo-slideshow-video-makers-for-2024/"><u>Elevate Your Storytelling Best Photo Slideshow Video Makers for 2024</u></a></li>
 </ul></div>
+
 

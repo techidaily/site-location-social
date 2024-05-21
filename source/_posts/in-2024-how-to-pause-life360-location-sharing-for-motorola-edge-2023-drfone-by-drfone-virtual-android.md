@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Motorola Edge 2023 | Dr.fone
-date: 2024-04-30T08:15:45.598Z
-updated: 2024-05-01T08:15:45.598Z
+date: 2024-05-20T08:02:07.466Z
+updated: 2024-05-21T08:02:07.466Z
 tags: 
   - virtual location change
   - social app
@@ -381,4 +381,5 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi K70 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-y100-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y100 5G Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing? | Dr.fone
-date: 2024-04-30T08:08:51.150Z
-updated: 2024-05-01T08:08:51.150Z
+date: 2024-05-20T08:01:39.920Z
+updated: 2024-05-21T08:01:39.920Z
 tags: 
   - virtual location change
   - social app
@@ -540,4 +540,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark 10 5G?</u></a></li>
 </ul></div>
+
 

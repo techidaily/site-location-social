@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Sony Xperia 1 V in 3 Ways | Dr.fone
-date: 2024-04-30T08:05:53.197Z
-updated: 2024-05-01T08:05:53.197Z
+date: 2024-05-20T08:01:28.929Z
+updated: 2024-05-21T08:01:28.929Z
 tags: 
   - virtual location change
   - social app
@@ -511,4 +511,5 @@ We have extensively concluded different methods involved in **How to change loca
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-11-video-editing-a-comprehensive-list-of-free-and-paid-solutions/"><u>In 2024, Windows 11 Video Editing A Comprehensive List of Free and Paid Solutions</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on ZTE Nubia Z60 Ultra?</u></a></li>
 </ul></div>
+
 

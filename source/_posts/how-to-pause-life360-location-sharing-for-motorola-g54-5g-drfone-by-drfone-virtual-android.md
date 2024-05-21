@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola G54 5G | Dr.fone
-date: 2024-04-30T08:15:09.773Z
-updated: 2024-05-01T08:15:09.773Z
+date: 2024-05-20T08:02:04.897Z
+updated: 2024-05-21T08:02:04.898Z
 tags: 
   - virtual location change
   - social app
@@ -524,4 +524,5 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/turn-off-screen-lock-lava-yuva-3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Lava Yuva 3 Pro</u></a></li>
 </ul></div>
+
 

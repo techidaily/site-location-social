@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:06:00.016Z
-updated: 2024-05-01T08:06:00.016Z
+date: 2024-05-20T08:01:29.359Z
+updated: 2024-05-21T08:01:29.359Z
 tags: 
   - virtual location change
   - social app
@@ -466,4 +466,5 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On HTC U23? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 15 | Dr.fone
-date: 2024-04-30T08:04:52.212Z
-updated: 2024-05-01T08:04:52.212Z
+date: 2024-05-20T08:01:25.062Z
+updated: 2024-05-21T08:01:25.062Z
 tags: 
   - virtual location change
   - social app
@@ -460,4 +460,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-essentials-working-with-ken-burns-effect-for-engaging-videos-for-2024/"><u>Updated Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T08:02:17.673Z
-updated: 2024-05-01T08:02:17.673Z
+date: 2024-05-20T08:01:14.489Z
+updated: 2024-05-21T08:01:14.489Z
 tags: 
   - virtual location change
   - social app
@@ -381,4 +381,5 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-smart-8-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Smart 8 Black and White | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-splitting-clips-in-adobe-after-effects-step-by-step/"><u>Updated Splitting Clips in Adobe After Effects Step by Step</u></a></li>
 </ul></div>
+
 

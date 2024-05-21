@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T08:09:23.132Z
-updated: 2024-05-01T08:09:23.132Z
+date: 2024-05-20T08:01:41.989Z
+updated: 2024-05-21T08:01:41.989Z
 tags: 
   - virtual location change
   - social app
@@ -537,4 +537,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pop-8-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pop 8? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

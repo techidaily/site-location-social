@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Apple iPhone 8 Plus | Dr.fone
-date: 2024-04-30T08:00:53.390Z
-updated: 2024-05-01T08:00:53.390Z
+date: 2024-05-20T08:01:06.042Z
+updated: 2024-05-21T08:01:06.042Z
 tags: 
   - virtual location change
   - social app
@@ -461,4 +461,5 @@ While it’s always recommended to maintain open communication with your Circle 
 <li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-se-2020-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone SE (2020) without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
