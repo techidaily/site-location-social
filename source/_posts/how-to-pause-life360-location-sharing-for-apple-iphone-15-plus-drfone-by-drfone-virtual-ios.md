@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Apple iPhone 15 Plus | Dr.fone
-date: 2024-05-20T08:01:26.087Z
-updated: 2024-05-21T08:01:26.087Z
+date: 2024-06-10T09:20:43.626Z
+updated: 2024-06-11T09:20:43.626Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Apple iPhone 15 Plus
 excerpt: This article describes How To Pause Life360 Location Sharing For Apple iPhone 15 Plus
 keywords: fake location for iPhone,fake skype location for iPhone,change facebook location for iPhone,fake WhatsApp location for iPhone,change WhatsApp location for iPhone,fake Twitter location for iPhone,fake facebook location for iPhone,change skype location for iPhone,change Twitter location for iPhone
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Apple iPhone 15 Plus

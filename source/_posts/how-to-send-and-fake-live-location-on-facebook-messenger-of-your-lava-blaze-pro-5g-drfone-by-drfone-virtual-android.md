@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Pro 5G | Dr.fone
-date: 2024-05-20T08:01:44.319Z
-updated: 2024-05-21T08:01:44.319Z
+date: 2024-06-10T09:21:43.903Z
+updated: 2024-06-11T09:21:43.903Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Pro 5G
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Pro 5G
 keywords: change facebook location for Android,change location for Lava Blaze Pro 5G,change location for Android,fake facebook location for Android,change skype location for Lava Blaze Pro 5G,fake location for Android,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Pro 5G

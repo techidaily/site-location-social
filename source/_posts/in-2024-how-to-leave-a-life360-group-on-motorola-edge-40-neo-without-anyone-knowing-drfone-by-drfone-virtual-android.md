@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Leave a Life360 Group On Motorola Edge 40 Neo Without Anyone Knowing? | Dr.fone
-date: 2024-05-20T08:02:06.594Z
-updated: 2024-05-21T08:02:06.594Z
+date: 2024-06-10T09:20:45.466Z
+updated: 2024-06-11T09:20:45.466Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Motorola Edge 40 Neo Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Motorola Edge 40 Neo Without Anyone Knowing?
 keywords: change facebook location for Motorola Edge 40 Neo,change skype location for Android,fake facebook location for Android,change facebook location for Android,fake Twitter location for Android,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## How To Leave a Life360 Group On Motorola Edge 40 Neo Without Anyone Knowing?

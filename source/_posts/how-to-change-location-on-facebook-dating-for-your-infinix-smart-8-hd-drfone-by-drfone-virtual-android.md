@@ -1,7 +1,7 @@
 ---
 title: How to Change Location On Facebook Dating for your Infinix Smart 8 HD | Dr.fone
-date: 2024-04-12T13:16:41.414Z
-updated: 2024-04-13T13:16:41.414Z
+date: 2024-06-10T09:20:48.231Z
+updated: 2024-06-11T09:20:48.231Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Location On Facebook Dating for your Infinix Smart 8 HD
 excerpt: This article describes How to Change Location On Facebook Dating for your Infinix Smart 8 HD
 keywords: fake location for Android,change location for Android,change skype location for Android,change facebook location for Android,change WhatsApp location for Android,change Twitter location for Infinix Smart 8 HD,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Change Location On Facebook Dating for your Infinix Smart 8 HD

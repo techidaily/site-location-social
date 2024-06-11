@@ -1,7 +1,7 @@
 ---
 title: How to Change GPS Location on Nokia C300 Easily & Safely | Dr.fone
-date: 2024-05-20T08:02:18.688Z
-updated: 2024-05-21T08:02:18.688Z
+date: 2024-06-10T09:20:55.061Z
+updated: 2024-06-11T09:20:55.061Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change GPS Location on Nokia C300 Easily & Safely
 excerpt: This article describes How to Change GPS Location on Nokia C300 Easily & Safely
 keywords: change facebook location for Nokia C300,change Twitter location for Android,fake skype location for Android,change skype location for Nokia C300,fake Twitter location for Android,change WhatsApp location for Android,change skype location for Android
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## How to Change GPS Location on Nokia C300 Easily & Safely

@@ -1,7 +1,7 @@
 ---
 title: Does Honor 90 Pro Have Find My Friends? | Dr.fone
-date: 2024-04-09T03:39:36.158Z
-updated: 2024-04-10T03:39:36.158Z
+date: 2024-06-10T09:21:30.147Z
+updated: 2024-06-11T09:21:30.147Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Honor 90 Pro Have Find My Friends?
 excerpt: This article describes Does Honor 90 Pro Have Find My Friends?
 keywords: change skype location for Android,fake WhatsApp location for Android,change facebook location for Honor 90 Pro,fake Twitter location for Android,change facebook location for Android,fake facebook location for Android,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Does Honor 90 Pro Have Find My Friends?

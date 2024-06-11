@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Lava Storm 5G | Dr.fone
-date: 2024-05-20T08:01:46.999Z
-updated: 2024-05-21T08:01:46.999Z
+date: 2024-06-10T09:21:51.797Z
+updated: 2024-06-11T09:21:51.797Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Lava Storm 5G
 excerpt: This article describes How To Pause Life360 Location Sharing For Lava Storm 5G
 keywords: fake location for Android,change WhatsApp location for Android,change skype location for Lava Storm 5G,fake facebook location for Android,fake skype location for Android,fake Twitter location for Android,change location for Android,change skype location for Android,change location for Lava Storm 5G
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Lava Storm 5G

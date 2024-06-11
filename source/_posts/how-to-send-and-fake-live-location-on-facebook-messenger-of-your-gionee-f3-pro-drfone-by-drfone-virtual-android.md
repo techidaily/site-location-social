@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Gionee F3 Pro | Dr.fone
-date: 2024-05-20T08:01:34.952Z
-updated: 2024-05-21T08:01:34.952Z
+date: 2024-06-10T09:20:38.950Z
+updated: 2024-06-11T09:20:38.950Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Gionee F3 Pro
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Gionee F3 Pro
 keywords: fake Twitter location for Android,fake skype location for Android,change Twitter location for Gionee F3 Pro,change Twitter location for Android,fake facebook location for Android,change WhatsApp location for Android,fake location for Android,change location for Android,change skype location for Gionee F3 Pro
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Gionee F3 Pro

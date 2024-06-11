@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun | Dr.fone
-date: 2024-05-20T08:02:18.844Z
-updated: 2024-05-21T08:02:18.844Z
+date: 2024-06-10T09:22:41.299Z
+updated: 2024-06-11T09:22:41.299Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun
 excerpt: This article describes Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun
 keywords: change WhatsApp location for Nokia C300,change skype location for Android,change Twitter location for Android,fake location for Android,change facebook location for Nokia C300,fake skype location for Android,fake WhatsApp location for Android,change WhatsApp location for Android,change skype location for Nokia C300,fake Twitter location for Android,fake facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun

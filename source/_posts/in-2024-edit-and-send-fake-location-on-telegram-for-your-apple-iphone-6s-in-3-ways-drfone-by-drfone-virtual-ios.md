@@ -1,7 +1,7 @@
 ---
 title: In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 6s in 3 Ways | Dr.fone
-date: 2024-05-20T08:01:00.696Z
-updated: 2024-05-21T08:01:00.696Z
+date: 2024-06-10T09:20:28.630Z
+updated: 2024-06-11T09:20:28.630Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Apple iPhone 6s in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Apple iPhone 6s in 3 Ways
 keywords: change WhatsApp location for iPhone,change location for iPhone,fake WhatsApp location for iPhone,fake location for iPhone,fake Twitter location for iPhone,change skype location for iPhone,fake skype location for iPhone,change Twitter location for iPhone,fake facebook location for iPhone
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Apple iPhone 6s in 3 Ways

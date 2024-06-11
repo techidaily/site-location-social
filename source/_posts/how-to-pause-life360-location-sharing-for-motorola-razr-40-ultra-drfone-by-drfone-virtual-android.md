@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Razr 40 Ultra | Dr.fone
-date: 2024-05-20T08:02:02.244Z
-updated: 2024-05-21T08:02:02.244Z
+date: 2024-06-10T09:22:51.118Z
+updated: 2024-06-11T09:22:51.118Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Motorola Razr 40 Ultra
 excerpt: This article describes How To Pause Life360 Location Sharing For Motorola Razr 40 Ultra
 keywords: change skype location for Android,change Twitter location for Motorola Razr 40 Ultra,fake skype location for Android,change location for Android,change WhatsApp location for Motorola Razr 40 Ultra,change Twitter location for Android,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Motorola Razr 40 Ultra

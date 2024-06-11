@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Motorola Moto G73 5G in 3 Ways | Dr.fone
-date: 2024-05-20T08:01:55.763Z
-updated: 2024-05-21T08:01:55.763Z
+date: 2024-06-10T09:23:36.963Z
+updated: 2024-06-11T09:23:36.963Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Motorola Moto G73 5G in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Motorola Moto G73 5G in 3 Ways
 keywords: change WhatsApp location for Motorola Moto G73 5G,change skype location for Motorola Moto G73 5G,change facebook location for Motorola Moto G73 5G,fake facebook location for Android,change skype location for Android,change WhatsApp location for Android,change location for Motorola Moto G73 5G
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Edit and Send Fake Location on Telegram For your Motorola Moto G73 5G in 3 Ways

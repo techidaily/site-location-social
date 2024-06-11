@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s Plus | Dr.fone
-date: 2024-05-20T08:01:01.226Z
-updated: 2024-05-21T08:01:01.226Z
+date: 2024-06-10T09:21:38.247Z
+updated: 2024-06-11T09:21:38.247Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s Plus
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s Plus
 keywords: fake skype location for iPhone,fake Twitter location for iPhone,change skype location for iPhone,fake location for iPhone,change Twitter location for iPhone,fake facebook location for iPhone,fake WhatsApp location for iPhone,change WhatsApp location for iPhone,change facebook location for iPhone,change location for iPhone
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s Plus

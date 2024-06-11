@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Apple iPhone 6s | Dr.fone
-date: 2024-05-20T08:01:00.332Z
-updated: 2024-05-21T08:01:00.332Z
+date: 2024-06-10T09:20:48.203Z
+updated: 2024-06-11T09:20:48.203Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Apple iPhone 6s
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Apple iPhone 6s
 keywords: fake facebook location for iPhone,fake WhatsApp location for iPhone,change skype location for iPhone,fake Twitter location for iPhone,fake location for iPhone,change facebook location for iPhone,change location for iPhone,change WhatsApp location for iPhone,change Twitter location for iPhone,fake skype location for iPhone
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Apple iPhone 6s

@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia 130 Music | Dr.fone
-date: 2024-05-20T08:02:21.487Z
-updated: 2024-05-21T08:02:21.487Z
+date: 2024-06-10T09:21:19.739Z
+updated: 2024-06-11T09:21:19.739Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia 130 Music
 excerpt: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia 130 Music
 keywords: change WhatsApp location for Android,change skype location for Nokia 130 Music,change location for Nokia 130 Music,fake WhatsApp location for Android,change facebook location for Nokia 130 Music,fake facebook location for Android,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia 130 Music

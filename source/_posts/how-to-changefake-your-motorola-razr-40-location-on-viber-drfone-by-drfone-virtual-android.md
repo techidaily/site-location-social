@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Motorola Razr 40 Location on Viber | Dr.fone
-date: 2024-05-20T08:02:01.134Z
-updated: 2024-05-21T08:02:01.134Z
+date: 2024-06-10T09:23:21.054Z
+updated: 2024-06-11T09:23:21.054Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change/Fake Your Motorola Razr 40 Location on Viber
 excerpt: This article describes How to Change/Fake Your Motorola Razr 40 Location on Viber
 keywords: fake location for Android,change Twitter location for Android,change Twitter location for Motorola Razr 40,change WhatsApp location for Android,change skype location for Android,change location for Android,fake facebook location for Android,fake skype location for Android,change skype location for Motorola Razr 40,change WhatsApp location for Motorola Razr 40,change facebook location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## How to Change/Fake Your Motorola Razr 40 Location on Viber

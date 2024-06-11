@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Motorola Edge 2023 Location on Viber | Dr.fone
-date: 2024-05-20T08:02:06.814Z
-updated: 2024-05-21T08:02:06.814Z
+date: 2024-06-10T09:22:23.701Z
+updated: 2024-06-11T09:22:23.701Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change/Fake Your Motorola Edge 2023 Location on Viber
 excerpt: This article describes How to Change/Fake Your Motorola Edge 2023 Location on Viber
 keywords: change location for Motorola Edge 2023,change facebook location for Android,fake Twitter location for Android,fake facebook location for Android,change WhatsApp location for Motorola Edge 2023,change WhatsApp location for Android,change Twitter location for Motorola Edge 2023
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## How to Change/Fake Your Motorola Edge 2023 Location on Viber

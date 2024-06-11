@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Vivo Y28 5G | Dr.fone
-date: 2024-04-12T13:16:19.987Z
-updated: 2024-04-13T13:16:19.987Z
+date: 2024-06-10T09:22:42.327Z
+updated: 2024-06-11T09:22:42.327Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Vivo Y28 5G
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Vivo Y28 5G
 keywords: change Twitter location for Android,change facebook location for Vivo Y28 5G,fake Twitter location for Android,change location for Android,change skype location for Vivo Y28 5G,change skype location for Android,change facebook location for Android,fake skype location for Android,change Twitter location for Vivo Y28 5G,change location for Vivo Y28 5G,change WhatsApp location for Vivo Y28 5G
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Vivo Y28 5G

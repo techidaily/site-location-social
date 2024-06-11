@@ -1,7 +1,7 @@
 ---
 title: Does Infinix Smart 7 HD Have Find My Friends? | Dr.fone
-date: 2024-04-09T03:39:38.827Z
-updated: 2024-04-10T03:39:38.827Z
+date: 2024-06-10T09:21:30.168Z
+updated: 2024-06-11T09:21:30.168Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Infinix Smart 7 HD Have Find My Friends?
 excerpt: This article describes Does Infinix Smart 7 HD Have Find My Friends?
 keywords: change Twitter location for Android,change WhatsApp location for Android,change facebook location for Android,change facebook location for Infinix Smart 7 HD,change skype location for Android,change skype location for Infinix Smart 7 HD,fake Twitter location for Android,fake facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Does Infinix Smart 7 HD Have Find My Friends?

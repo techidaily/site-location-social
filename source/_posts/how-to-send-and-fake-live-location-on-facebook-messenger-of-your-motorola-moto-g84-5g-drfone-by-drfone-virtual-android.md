@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G | Dr.fone
-date: 2024-05-20T08:02:03.986Z
-updated: 2024-05-21T08:02:03.986Z
+date: 2024-06-10T09:21:16.145Z
+updated: 2024-06-11T09:21:16.145Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G
 keywords: fake location for Android,change WhatsApp location for Motorola Moto G84 5G,change facebook location for Motorola Moto G84 5G,change Twitter location for Motorola Moto G84 5G,change skype location for Android,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G84 5G

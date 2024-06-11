@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Xiaomi Redmi K70 | Dr.fone
-date: 2024-04-08T04:44:34.125Z
-updated: 2024-04-09T04:44:34.125Z
+date: 2024-06-10T09:21:53.798Z
+updated: 2024-06-11T09:21:53.798Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Xiaomi Redmi K70
 excerpt: This article describes Does find my friends work on Xiaomi Redmi K70
 keywords: change WhatsApp location for Android,change skype location for Xiaomi Redmi K70,fake WhatsApp location for Android,change facebook location for Android,fake location for Android,fake facebook location for Android,change facebook location for Xiaomi Redmi K70,change Twitter location for Android,fake Twitter location for Android,change WhatsApp location for Xiaomi Redmi K70,change location for Android
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Does find my friends work on Xiaomi Redmi K70

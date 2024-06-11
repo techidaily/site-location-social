@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Edge 40 Pro | Dr.fone
-date: 2024-05-20T08:01:56.804Z
-updated: 2024-05-21T08:01:56.804Z
+date: 2024-06-10T09:22:17.659Z
+updated: 2024-06-11T09:22:17.659Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Motorola Edge 40 Pro
 excerpt: This article describes How To Pause Life360 Location Sharing For Motorola Edge 40 Pro
 keywords: change facebook location for Motorola Edge 40 Pro,fake WhatsApp location for Android,fake facebook location for Android,change Twitter location for Android,change skype location for Android,change WhatsApp location for Motorola Edge 40 Pro,change location for Motorola Edge 40 Pro,fake Twitter location for Android,change WhatsApp location for Android,change location for Android,change Twitter location for Motorola Edge 40 Pro
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Motorola Edge 40 Pro

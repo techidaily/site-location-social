@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Nokia C300 | Dr.fone
-date: 2024-05-20T08:02:18.633Z
-updated: 2024-05-21T08:02:18.633Z
+date: 2024-06-10T09:22:17.550Z
+updated: 2024-06-11T09:22:17.550Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Nokia C300
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Nokia C300
 keywords: change location for Android,change Twitter location for Nokia C300,change WhatsApp location for Android,fake WhatsApp location for Android,change location for Nokia C300,change Twitter location for Android,fake location for Android,fake Twitter location for Android,change facebook location for Nokia C300,change WhatsApp location for Nokia C300,change facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Nokia C300

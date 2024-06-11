@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Nokia 105 Classic | Dr.fone
-date: 2024-05-20T08:02:24.671Z
-updated: 2024-05-21T08:02:24.671Z
+date: 2024-06-10T09:22:32.890Z
+updated: 2024-06-11T09:22:32.890Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Share/Fake Location on WhatsApp for Nokia 105 Classic
 excerpt: This article describes How to Share/Fake Location on WhatsApp for Nokia 105 Classic
 keywords: change location for Nokia 105 Classic,change facebook location for Nokia 105 Classic,change WhatsApp location for Nokia 105 Classic,change location for Android,fake skype location for Android,fake Twitter location for Android,fake location for Android,fake WhatsApp location for Android,change skype location for Android,change Twitter location for Android,change WhatsApp location for Android,change Twitter location for Nokia 105 Classic
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## How to Share/Fake Location on WhatsApp for Nokia 105 Classic

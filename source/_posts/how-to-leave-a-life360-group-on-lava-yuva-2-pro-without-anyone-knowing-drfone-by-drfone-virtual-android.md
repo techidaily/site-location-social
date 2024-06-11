@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing? | Dr.fone
-date: 2024-05-20T08:01:39.920Z
-updated: 2024-05-21T08:01:39.920Z
+date: 2024-06-10T09:22:36.604Z
+updated: 2024-06-11T09:22:36.604Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing?
 keywords: change location for Android,change Twitter location for Lava Yuva 2 Pro,change facebook location for Lava Yuva 2 Pro,change WhatsApp location for Lava Yuva 2 Pro,change facebook location for Android,change skype location for Lava Yuva 2 Pro,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing?

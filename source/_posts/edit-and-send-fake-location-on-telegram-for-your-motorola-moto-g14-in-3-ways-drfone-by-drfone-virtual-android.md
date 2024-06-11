@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Motorola Moto G14 in 3 Ways | Dr.fone
-date: 2024-05-20T08:02:02.963Z
-updated: 2024-05-21T08:02:02.963Z
+date: 2024-06-10T09:22:51.036Z
+updated: 2024-06-11T09:22:51.036Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Motorola Moto G14 in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Motorola Moto G14 in 3 Ways
 keywords: fake Twitter location for Android,fake location for Android,change facebook location for Android,change Twitter location for Motorola Moto G14,change Twitter location for Android,fake skype location for Android,change facebook location for Motorola Moto G14,change WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Motorola Moto G14 in 3 Ways

@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Huawei P60 | Dr.fone
-date: 2024-05-20T08:01:37.393Z
-updated: 2024-05-21T08:01:37.393Z
+date: 2024-06-10T09:21:52.780Z
+updated: 2024-06-11T09:21:52.780Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Huawei P60
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Huawei P60
 keywords: change location for Huawei P60,fake WhatsApp location for Android,change Twitter location for Huawei P60,fake Twitter location for Android,change WhatsApp location for Huawei P60,change skype location for Android,change WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Huawei P60

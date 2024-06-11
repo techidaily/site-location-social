@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G23 | Dr.fone
-date: 2024-05-20T08:01:54.089Z
-updated: 2024-05-21T08:01:54.089Z
+date: 2024-06-10T09:22:15.620Z
+updated: 2024-06-11T09:22:15.620Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G23
 excerpt: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G23
 keywords: fake Twitter location for Android,change WhatsApp location for Motorola Moto G23,change Twitter location for Motorola Moto G23,fake skype location for Android,fake location for Android,change WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G23

@@ -1,7 +1,7 @@
 ---
 title: Does ZTE Axon 40 Lite Have Find My Friends? | Dr.fone
-date: 2024-04-09T06:12:36.599Z
-updated: 2024-04-10T06:12:36.599Z
+date: 2024-06-10T09:22:08.315Z
+updated: 2024-06-11T09:22:08.315Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does ZTE Axon 40 Lite Have Find My Friends?
 excerpt: This article describes Does ZTE Axon 40 Lite Have Find My Friends?
 keywords: change skype location for ZTE Axon 40 Lite,fake skype location for Android,change WhatsApp location for ZTE Axon 40 Lite,fake location for Android,fake WhatsApp location for Android,change facebook location for Android,change location for Android
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## Does ZTE Axon 40 Lite Have Find My Friends?

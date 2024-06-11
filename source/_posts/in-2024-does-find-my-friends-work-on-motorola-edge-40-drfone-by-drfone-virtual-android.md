@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Motorola Edge 40 | Dr.fone
-date: 2024-05-20T08:02:00.009Z
-updated: 2024-05-21T08:02:00.009Z
+date: 2024-06-10T09:20:37.041Z
+updated: 2024-06-11T09:20:37.041Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Motorola Edge 40
 excerpt: This article describes Does find my friends work on Motorola Edge 40
 keywords: fake location for Android,fake Twitter location for Android,change facebook location for Android,fake skype location for Android,change Twitter location for Motorola Edge 40,change skype location for Motorola Edge 40,change location for Motorola Edge 40,fake facebook location for Android,change skype location for Android,change WhatsApp location for Android,fake WhatsApp location for Android,change facebook location for Motorola Edge 40
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Does find my friends work on Motorola Edge 40

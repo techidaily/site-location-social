@@ -1,7 +1,7 @@
 ---
 title: Does Infinix Hot 40i Have Find My Friends? | Dr.fone
-date: 2024-04-09T03:39:38.517Z
-updated: 2024-04-10T03:39:38.517Z
+date: 2024-06-10T09:22:50.083Z
+updated: 2024-06-11T09:22:50.083Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Infinix Hot 40i Have Find My Friends?
 excerpt: This article describes Does Infinix Hot 40i Have Find My Friends?
 keywords: change facebook location for Android,change facebook location for Infinix Hot 40i,change WhatsApp location for Android,change location for Android,fake skype location for Android,change Twitter location for Android,fake Twitter location for Android,change location for Infinix Hot 40i,change skype location for Android
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Does Infinix Hot 40i Have Find My Friends?

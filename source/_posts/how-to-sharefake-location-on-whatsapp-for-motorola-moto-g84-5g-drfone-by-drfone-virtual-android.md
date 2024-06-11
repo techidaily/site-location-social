@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Motorola Moto G84 5G | Dr.fone
-date: 2024-05-20T08:02:03.808Z
-updated: 2024-05-21T08:02:03.808Z
+date: 2024-06-10T09:20:42.697Z
+updated: 2024-06-11T09:20:42.697Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Share/Fake Location on WhatsApp for Motorola Moto G84 5G
 excerpt: This article describes How to Share/Fake Location on WhatsApp for Motorola Moto G84 5G
 keywords: fake facebook location for Android,change WhatsApp location for Motorola Moto G84 5G,fake WhatsApp location for Android,change skype location for Motorola Moto G84 5G,fake Twitter location for Android,change location for Android,fake skype location for Android,change WhatsApp location for Android,change facebook location for Motorola Moto G84 5G,change facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## How to Share/Fake Location on WhatsApp for Motorola Moto G84 5G

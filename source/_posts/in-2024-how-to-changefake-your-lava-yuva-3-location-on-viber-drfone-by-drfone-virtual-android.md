@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Lava Yuva 3 Location on Viber | Dr.fone
-date: 2024-05-20T08:01:48.056Z
-updated: 2024-05-21T08:01:48.056Z
+date: 2024-06-10T09:20:55.029Z
+updated: 2024-06-11T09:20:55.029Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change/Fake Your Lava Yuva 3 Location on Viber
 excerpt: This article describes How to Change/Fake Your Lava Yuva 3 Location on Viber
 keywords: fake facebook location for Android,change Twitter location for Android,change Twitter location for Lava Yuva 3,change WhatsApp location for Android,fake Twitter location for Android,change facebook location for Lava Yuva 3,change location for Lava Yuva 3,change facebook location for Android,change skype location for Lava Yuva 3,fake skype location for Android
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## How to Change/Fake Your Lava Yuva 3 Location on Viber

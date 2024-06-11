@@ -1,7 +1,7 @@
 ---
 title: Does Apple iPhone SE (2020) Have Find My Friends? | Dr.fone
-date: 2024-05-20T08:01:12.269Z
-updated: 2024-05-21T08:01:12.269Z
+date: 2024-06-10T09:21:15.165Z
+updated: 2024-06-11T09:21:15.165Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Apple iPhone SE (2020) Have Find My Friends?
 excerpt: This article describes Does Apple iPhone SE (2020) Have Find My Friends?
 keywords: change Twitter location for iPhone,fake WhatsApp location for iPhone,change skype location for iPhone,fake location for iPhone,change location for iPhone,fake facebook location for iPhone
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Does Apple iPhone SE (2020) Have Find My Friends?
