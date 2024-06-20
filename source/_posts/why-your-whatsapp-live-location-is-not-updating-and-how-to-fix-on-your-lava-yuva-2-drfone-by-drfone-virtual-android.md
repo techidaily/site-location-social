@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2 | Dr.fone
-date: 2024-05-20T08:01:42.647Z
-updated: 2024-05-21T08:01:42.647Z
+date: 2024-06-19T12:00:13.191Z
+updated: 2024-06-20T12:00:13.191Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2
 excerpt: This article describes Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2
 keywords: change WhatsApp location for Android,change location for Lava Yuva 2,change location for Android,change skype location for Lava Yuva 2,fake location for Android,fake WhatsApp location for Android,fake skype location for Android,change Twitter location for Lava Yuva 2
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2

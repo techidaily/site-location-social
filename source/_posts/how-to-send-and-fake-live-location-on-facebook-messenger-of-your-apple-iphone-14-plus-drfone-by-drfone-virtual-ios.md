@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Plus | Dr.fone
-date: 2024-05-20T08:01:23.328Z
-updated: 2024-05-21T08:01:23.328Z
+date: 2024-06-19T12:01:07.646Z
+updated: 2024-06-20T12:01:07.646Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Plus
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Plus
 keywords: fake location for iPhone,fake WhatsApp location for iPhone,change facebook location for iPhone,fake facebook location for iPhone,fake skype location for iPhone,change WhatsApp location for iPhone,change Twitter location for iPhone
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Plus
@@ -152,7 +152,7 @@ Launch XCode and then create a new project
 
 Then choose the option marked “Single View iOS application.
 
-![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
+![Choose the](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 Now customize the project options and give it any name that you desire.
 
@@ -204,7 +204,7 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
-![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
+![select your iOS device in the app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
 

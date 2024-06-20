@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing? | Dr.fone
-date: 2024-05-20T08:04:29.731Z
-updated: 2024-05-21T08:04:29.731Z
+date: 2024-06-19T12:01:14.054Z
+updated: 2024-06-20T12:01:14.054Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing?
 keywords: change facebook location for Android,change skype location for Android,change WhatsApp location for Vivo G2,change location for Vivo G2,change skype location for Vivo G2,change Twitter location for Android,change location for Android,change WhatsApp location for Android,change facebook location for Vivo G2,change Twitter location for Vivo G2,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing?
@@ -199,7 +199,7 @@ It means you'll be able to publish your own Yik Yak posts from different locatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -215,7 +215,7 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 **Step 1:** Install and launch Dr.Fone - Virtual Location on your computer. Double-click on its icon to launch the applications and click the “Virtual Location” option.
 
-![ click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Now, tap “Get Started” to proceed further.
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Moto G73 5G | Dr.fone
-date: 2024-05-20T08:01:55.909Z
-updated: 2024-05-21T08:01:55.909Z
+date: 2024-06-19T12:00:25.278Z
+updated: 2024-06-20T12:00:25.278Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Motorola Moto G73 5G
 excerpt: This article describes How To Pause Life360 Location Sharing For Motorola Moto G73 5G
 keywords: change facebook location for Motorola Moto G73 5G,change WhatsApp location for Motorola Moto G73 5G,fake location for Android,change location for Android,change location for Motorola Moto G73 5G,change skype location for Android,change Twitter location for Android,change Twitter location for Motorola Moto G73 5G
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Motorola Moto G73 5G

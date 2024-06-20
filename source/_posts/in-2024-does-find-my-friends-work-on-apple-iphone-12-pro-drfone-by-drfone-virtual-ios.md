@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Apple iPhone 12 Pro | Dr.fone
-date: 2024-05-20T08:01:16.723Z
-updated: 2024-05-21T08:01:16.723Z
+date: 2024-06-19T11:59:37.681Z
+updated: 2024-06-20T11:59:37.681Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Apple iPhone 12 Pro
 excerpt: This article describes Does find my friends work on Apple iPhone 12 Pro
 keywords: fake location for iPhone,fake facebook location for iPhone,fake skype location for iPhone,change facebook location for iPhone,change skype location for iPhone,fake WhatsApp location for iPhone,change location for iPhone,fake Twitter location for iPhone,change Twitter location for iPhone,change WhatsApp location for iPhone
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Does find my friends work on Apple iPhone 12 Pro
@@ -243,7 +243,7 @@ Or you can also make use of a third-party app - Dr.Fone - Data Eraser to wipe ou
 
 
 
-### [Dr.Fone - Data Eraser](https://drfone.wondershare.com/ios-data-eraser.html "Erase")
+### Dr.Fone - Data Eraser
 
 Stop mSpy from Spying on You by Factory Reset
 
@@ -320,7 +320,7 @@ Launch XCode and then create a new project
 
 Then choose the option marked “Single View iOS application.
 
-![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
+![Choose the](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 Now customize the project options and give it any name that you desire.
 
@@ -372,7 +372,7 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
-![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
+![select your iOS device in the app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
 

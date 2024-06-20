@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Xiaomi Civi 3 | Dr.fone
-date: 2024-05-20T08:05:12.375Z
-updated: 2024-05-21T08:05:12.375Z
+date: 2024-06-19T11:59:02.568Z
+updated: 2024-06-20T11:59:02.568Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Xiaomi Civi 3
 excerpt: This article describes How To Pause Life360 Location Sharing For Xiaomi Civi 3
 keywords: change WhatsApp location for Xiaomi Civi 3,change WhatsApp location for Android,change Twitter location for Xiaomi Civi 3,fake WhatsApp location for Android,change skype location for Android,fake skype location for Android,change skype location for Xiaomi Civi 3,change location for Xiaomi Civi 3,change Twitter location for Android,change facebook location for Xiaomi Civi 3,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## How To Pause Life360 Location Sharing For Xiaomi Civi 3
@@ -396,7 +396,7 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

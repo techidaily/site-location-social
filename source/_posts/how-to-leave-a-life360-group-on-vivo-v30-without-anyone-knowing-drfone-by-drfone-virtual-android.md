@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Vivo V30 Without Anyone Knowing? | Dr.fone
-date: 2024-06-10T09:22:17.474Z
-updated: 2024-06-11T09:22:17.474Z
+date: 2024-06-19T11:59:21.457Z
+updated: 2024-06-20T11:59:21.457Z
 tags: 
   - virtual location change
   - social app
@@ -197,7 +197,7 @@ It means you'll be able to publish your own Yik Yak posts from different locatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -213,7 +213,7 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 **Step 1:** Install and launch Dr.Fone - Virtual Location on your computer. Double-click on its icon to launch the applications and click the “Virtual Location” option.
 
-![ click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![click the virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Now, tap “Get Started” to proceed further.
 
