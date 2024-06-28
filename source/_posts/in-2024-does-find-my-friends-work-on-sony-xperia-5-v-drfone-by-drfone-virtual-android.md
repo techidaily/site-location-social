@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Sony Xperia 5 V | Dr.fone
-date: 2024-05-20T08:01:31.372Z
-updated: 2024-05-21T08:01:31.372Z
+date: 2024-06-27T05:51:06.579Z
+updated: 2024-06-28T05:51:06.579Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Sony Xperia 5 V
 excerpt: This article describes Does find my friends work on Sony Xperia 5 V
 keywords: change facebook location for Sony Xperia 5 V,change Twitter location for Sony Xperia 5 V,fake WhatsApp location for Android,fake facebook location for Android,fake skype location for Android,change location for Sony Xperia 5 V,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Does find my friends work on Sony Xperia 5 V

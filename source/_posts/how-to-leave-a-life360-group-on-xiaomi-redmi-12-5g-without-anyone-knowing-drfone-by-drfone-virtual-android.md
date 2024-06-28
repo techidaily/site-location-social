@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Xiaomi Redmi 12 5G Without Anyone Knowing? | Dr.fone
-date: 2024-05-20T08:04:38.896Z
-updated: 2024-05-21T08:04:38.896Z
+date: 2024-06-27T05:51:28.017Z
+updated: 2024-06-28T05:51:28.017Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Xiaomi Redmi 12 5G Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Xiaomi Redmi 12 5G Without Anyone Knowing?
 keywords: fake facebook location for Android,change WhatsApp location for Android,fake skype location for Android,change Twitter location for Xiaomi Redmi 12 5G,change location for Android,change facebook location for Xiaomi Redmi 12 5G,change skype location for Android,fake location for Android,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## How To Leave a Life360 Group On Xiaomi Redmi 12 5G Without Anyone Knowing?
@@ -265,7 +265,7 @@ As said earlier, the reason why Facebook gives the wrong location is because of 
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Does find my friends work on Xiaomi Redmi 12 5G
 

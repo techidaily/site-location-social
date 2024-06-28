@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For HTC U23 | Dr.fone
-date: 2024-05-20T08:01:35.886Z
-updated: 2024-05-21T08:01:35.886Z
+date: 2024-06-27T05:51:36.480Z
+updated: 2024-06-28T05:51:36.480Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For HTC U23
 excerpt: This article describes How To Pause Life360 Location Sharing For HTC U23
 keywords: fake Twitter location for Android,change facebook location for Android,fake WhatsApp location for Android,change WhatsApp location for Android,change skype location for HTC U23,fake skype location for Android,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For HTC U23
@@ -158,7 +158,7 @@ The program will no longer take time and easily understand the location. It will
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Lava Blaze 2 Pro | Dr.fone
-date: 2024-05-20T08:01:43.602Z
-updated: 2024-05-21T08:01:43.602Z
+date: 2024-06-27T05:52:42.866Z
+updated: 2024-06-28T05:52:42.866Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Lava Blaze 2 Pro
 excerpt: This article describes Does find my friends work on Lava Blaze 2 Pro
 keywords: change Twitter location for Lava Blaze 2 Pro,fake Twitter location for Android,fake skype location for Android,change Twitter location for Android,fake WhatsApp location for Android,change skype location for Android,change skype location for Lava Blaze 2 Pro,fake location for Android,change facebook location for Android,change location for Lava Blaze 2 Pro,fake facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8db94af4f668119ff4d60331.jpg
 ---
 
 ## Does find my friends work on Lava Blaze 2 Pro
@@ -269,7 +269,7 @@ So, without dilly-dallying much, here's how to fake a **Snapchat location tag** 
 
 
 
-### [Dr.Fone - Virtual Location](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -287,7 +287,7 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 2.** Next, install and run Dr.Fone on your computer. Then, tap the **Virtual Location** button on the home window, and tap **Get Started**.
 
-![ how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3.** Now allow USB debugging on your Lava Blaze 2 Pro before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
