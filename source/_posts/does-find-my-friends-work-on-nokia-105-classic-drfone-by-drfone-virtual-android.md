@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Nokia 105 Classic | Dr.fone
-date: 2024-05-20T08:02:24.968Z
-updated: 2024-05-21T08:02:24.968Z
+date: 2024-07-04T17:12:32.059Z
+updated: 2024-07-05T17:12:32.059Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Nokia 105 Classic
 excerpt: This article describes Does find my friends work on Nokia 105 Classic
 keywords: change location for Nokia 105 Classic,change facebook location for Nokia 105 Classic,change facebook location for Android,fake facebook location for Android,change WhatsApp location for Android,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Does find my friends work on Nokia 105 Classic
@@ -152,7 +152,7 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
@@ -180,7 +180,7 @@ The Virtual Location map will launch after successfully connecting your smartpho
 
 See, you don't need an expensive VPN service to fake your GPS location on Facebook convincingly. With Dr.Fone, you can easily change your Nokia 105 Classic or iPhone location, which will immediately reflect on apps like Facebook, Google Maps, Telegram, and so on. And guess what? There are a host of other phone management features to exploit. You should try it!
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## How to Share/Fake Location on WhatsApp for Nokia 105 Classic
 
@@ -369,7 +369,7 @@ Bonus Tip: How to transfer WhatsApp data from one device to another device witho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from One Device to Another Device.
 

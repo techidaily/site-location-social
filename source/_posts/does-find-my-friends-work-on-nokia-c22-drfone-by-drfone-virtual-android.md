@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Nokia C22 | Dr.fone
-date: 2024-05-20T08:02:14.259Z
-updated: 2024-05-21T08:02:14.259Z
+date: 2024-07-04T17:11:35.382Z
+updated: 2024-07-05T17:11:35.382Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Nokia C22
 excerpt: This article describes Does find my friends work on Nokia C22
 keywords: fake location for Android,change skype location for Android,change facebook location for Android,fake skype location for Android,fake WhatsApp location for Android,change WhatsApp location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Does find my friends work on Nokia C22
@@ -123,7 +123,7 @@ Launch XCode and then create a new project
 
 Then choose the option marked “Single View iOS application.
 
-![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
+![Choose the](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 Now customize the project options and give it any name that you desire.
 
@@ -175,7 +175,7 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
-![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
+![select your iOS device in the app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
 
@@ -290,7 +290,7 @@ The program will no longer take time and easily understand the location. It will
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Itel S23+ | Dr.fone
-date: 2024-05-20T08:05:00.720Z
-updated: 2024-05-21T08:05:00.720Z
+date: 2024-07-04T17:13:49.094Z
+updated: 2024-07-05T17:13:49.094Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Itel S23+
 excerpt: This article describes How To Pause Life360 Location Sharing For Itel S23+
 keywords: change facebook location for Android,fake Twitter location for Android,fake facebook location for Android,change skype location for Android,change facebook location for Itel S23+,change WhatsApp location for Android,change Twitter location for Android,change location for Android,change WhatsApp location for Itel S23+,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Itel S23+

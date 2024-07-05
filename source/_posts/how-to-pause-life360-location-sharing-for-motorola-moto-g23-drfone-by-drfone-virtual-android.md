@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Motorola Moto G23 | Dr.fone
-date: 2024-05-20T08:01:54.022Z
-updated: 2024-05-21T08:01:54.022Z
+date: 2024-07-04T17:11:48.132Z
+updated: 2024-07-05T17:11:48.132Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Motorola Moto G23
 excerpt: This article describes How To Pause Life360 Location Sharing For Motorola Moto G23
 keywords: change Twitter location for Android,change WhatsApp location for Motorola Moto G23,change facebook location for Android,change location for Android,change location for Motorola Moto G23,fake facebook location for Android,fake location for Android,change WhatsApp location for Android,change facebook location for Motorola Moto G23
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Motorola Moto G23
@@ -170,7 +170,7 @@ That said, learning to fake location on WhatsApp is super simple with [Dr.Fone -
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

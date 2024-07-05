@@ -1,7 +1,7 @@
 ---
 title: Does Nokia C02 Have Find My Friends? | Dr.fone
-date: 2024-05-20T08:02:11.370Z
-updated: 2024-05-21T08:02:11.370Z
+date: 2024-07-04T17:13:00.884Z
+updated: 2024-07-05T17:13:00.884Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does Nokia C02 Have Find My Friends?
 excerpt: This article describes Does Nokia C02 Have Find My Friends?
 keywords: change skype location for Android,change Twitter location for Nokia C02,change WhatsApp location for Android,fake facebook location for Android,change Twitter location for Android,change facebook location for Android,change location for Android,change facebook location for Nokia C02,fake location for Android,fake WhatsApp location for Android,fake skype location for Android,change skype location for Nokia C02
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Does Nokia C02 Have Find My Friends?
@@ -339,7 +339,7 @@ The program will no longer take time and easily understand the location. It will
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone
-date: 2024-05-20T08:01:59.898Z
-updated: 2024-05-21T08:01:59.898Z
+date: 2024-07-04T17:13:18.066Z
+updated: 2024-07-05T17:13:18.066Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Motorola Edge 40
 excerpt: This article describes How To Pause Life360 Location Sharing For Motorola Edge 40
 keywords: change facebook location for Motorola Edge 40,change location for Android,change WhatsApp location for Android,fake skype location for Android,change skype location for Motorola Edge 40,change facebook location for Android,fake facebook location for Android,change Twitter location for Android,fake location for Android,change skype location for Android
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Motorola Edge 40
@@ -178,7 +178,7 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
-![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+![change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
@@ -192,7 +192,7 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -413,7 +413,7 @@ Bonus Tip: How to transfer WhatsApp data from one device to another device witho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
+### Dr.Fone - WhatsApp Transfer
 
 One-click to transfer WhatsApp messages from One Device to Another Device.
 
