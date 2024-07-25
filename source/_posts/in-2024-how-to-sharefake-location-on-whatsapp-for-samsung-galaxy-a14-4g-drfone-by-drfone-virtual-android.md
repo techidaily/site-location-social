@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G | Dr.fone
-date: 2024-03-26 10:56:48
-updated: 2024-03-29 14:19:54
+date: 2024-07-24T18:57:14.205Z
+updated: 2024-07-25T18:57:14.205Z
 tags: 
   - virtual location change
   - social app
@@ -10,13 +10,16 @@ categories:
 description: This article describes How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G
 excerpt: This article describes How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G
 keywords: fake skype location for Android,change Twitter location for Android,change location for Samsung Galaxy A14 4G,fake location for Android,change facebook location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G
 
 Whether you have Android or iPhone, at some point, you need to trick your phone that you are somewhere else. It can be weird as most of us use the GPS app to get our real location, find directions, and see weather updates. However, in some situations, we need to **[fake locations](https://www.virtuallocation.com/fake-location/)** to get access to some features on our phones or do something else legitly. So, if you want to know how to send a fake location on WhatsApp, then we have a detailed guide for you.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Common Scenarios to Share Fake Location on WhatsApp
 
 There are many situations where users might need to set up fake locations, for fun, and other reasons. Some of the common scenarios where you have to fake live location on WhatsApp are listed below:
@@ -73,6 +76,9 @@ Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
@@ -97,16 +103,34 @@ To start with, launch the Dr.Fone toolkit on your computer and launch the “Vir
 
 Using an authentic lightning cable, connect your Samsung Galaxy A14 4G to the computer and click on the “Get Started” button.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![connect your Samsung Galaxy A14 4G to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 _Step 3: Share fake location on WhatsApp_
@@ -129,10 +153,16 @@ You already know how to send fake locations on WhatsApp via teleport mode, you c
 
 Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top right side of the screen and set the points on the screen in which you want to show your movement on WhatsApp.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 
@@ -147,6 +177,9 @@ Step 1: Install the iTools software on your computer and connect your Samsung Ga
 
 Step 2: Enter the fake location in the search box and let the software detect the location. The marker will automatically land on the map. Tap on the "Move Here" option on the screen, and your Samsung Galaxy A14 4G location will instantly move to that particular location.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
@@ -172,10 +205,16 @@ You will be glad to know that it is not that hard to fake live location for What
 
 Step 1: Open Settings > Privacy > Location Services and turn the setting on. Also, make sure that WhatsApp has access to your GPS location and install the app on your Samsung Galaxy A14 4G from the Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Play Store](https://images.wondershare.com/drfone/article/2019/10/fake-gps-location-app.jpg)
 
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
@@ -188,10 +227,16 @@ Step 4: Now, open WhatsApp and click on the Share location option. Choose the op
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
 
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
@@ -212,6 +257,9 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 
 **3,480,561** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
@@ -220,6 +268,9 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
@@ -232,10 +283,16 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
@@ -244,6 +301,9 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
 ## Part 3: Can I send a fake location on Viber, and How?
@@ -280,20 +340,32 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -306,6 +378,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -338,6 +413,9 @@ Talking about Snapchat, this app offers you different badges and filters dependi
 
 Sounds interesting, right? Let’s understand more about the tutorials on how to hide/fake location on Snapchat map.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. What Snapchat is using your location for?
 
 Snapchat basically utilizes your location for the SnapMap feature that furnishes the location-based filters etc. over your device. This SnapMap feature was unveiled in 2017. If you haven’t deliberately enabled it yet or you’re unaware of this feature, implies that you’re still “off the grid”. If you wish to enable this feature, you literally need to authorize Snapchat “3x times” and the last, fourth one to authorize your device.
@@ -346,6 +424,9 @@ With the SnapMap feature enabled, you can easily get to know about the whereabou
 
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 2. Why people want to hide/fake location on Snapchat?
 
 When it comes to **fake Snapchat location** there can be several reasons behind that. Here are some scenarios where people do wish to hide/fake location on Snapchat. Let’s explore.
@@ -356,6 +437,9 @@ When it comes to **fake Snapchat location** there can be several reasons behind 
 - Another reason is that is absolutely fun to trick people into believing that you’re spending your leisure time on an expensive tour. For instance, you can check in to a classy restaurant (you’ve never been to in real) in Dubai by mocking the GPS location.
 - Even better for the kids who wish to fake GPS location to hide their real location over the location-sharing SnapMap feature from their parents, family, or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. How to hide location on Snapchat
 
 When it comes to disabling or hiding the location on Snapchat, the tutorial is extremely easy. Snapchat itself offers you a setting called Ghost mode. You just need to enable it. Here’s how to get it done.
@@ -375,6 +459,9 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to fake Snapchat location on iPhone
 
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
@@ -393,18 +480,35 @@ Step 2: After successful downloading, open the tool. Now, you need to opt for th
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![current actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 4: It’s time to activate the “Teleport Mode”. To do this, all you need is to click on the first icon given on the upper right side. After this, you need to enter the location where you desire to teleport in the blank field given on the upper left. Hit on “Go” when you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Step 5: A few moments later, the system will perceive the desired location you have entered. A pop-up box will come up where the distance will be shown. Click on the “Move Here” option in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![distance shown](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
@@ -421,14 +525,24 @@ Step 1: Install Xcode and Set up a Dummy app
 
 1. Grab your Mac computer first and then head over to the App Store. Now, look for the Xcode application and get it installed on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![look for Xcode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-5.jpg)
 
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![setup a new project](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-6.jpg)
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
@@ -468,6 +582,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 3. Install the Fake GPS Free app for Snapchat and then launch it afterwards. On the main screen, you’ll be asked to“ENABLE MOCK LOCATIONS”. Hit on it and you’ll be redirected to the“Developer options” screen.
 4. Here, you need to simply tap on the “Select Mock Location App” option and opt for “FakeGPS Free” from the list of options appearing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
     ![FakeGPS Free](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-12.jpg)
 
 **Note:** You may need to enable the “Developer options” first to access these settings. For this, head to the “Settings”>“About Phone”> hit on “Build Number” – x7 times.
@@ -476,6 +593,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 7. Now, hit on the “Search” icon over the top to find the desired location. Or, simply double tap over the map on your desired location to drop the pin.
 8. Lastly, hit the “play” button available over the right bottom of your screen to activate the fake GPS location for Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
     ![activate the fake gps location](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-13.jpg)
 
 ### Final Words
@@ -497,3 +617,32 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 6 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-6-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 6 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-6-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 6 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-6-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 6 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6 | Dr.fone</u></a></li>
+</ul></div>

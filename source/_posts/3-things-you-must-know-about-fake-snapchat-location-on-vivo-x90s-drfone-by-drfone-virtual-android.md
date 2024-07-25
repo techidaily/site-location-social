@@ -1,7 +1,7 @@
 ---
 title: 3 Things You Must Know about Fake Snapchat Location On Vivo X90S | Dr.fone
-date: 2024-03-26 10:41:31
-updated: 2024-03-29 19:15:13
+date: 2024-07-24T19:48:31.329Z
+updated: 2024-07-25T19:48:31.329Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Things You Must Know about Fake Snapchat Location On Vivo X90S
 excerpt: This article describes 3 Things You Must Know about Fake Snapchat Location On Vivo X90S
 keywords: fake WhatsApp location for Android,change WhatsApp location for Vivo X90S,change skype location for Android,fake skype location for Android,change Twitter location for Vivo X90S,change facebook location for Android,change location for Vivo X90S,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## 3 Things You Must Know about Fake Snapchat Location On Vivo X90S
@@ -35,26 +35,42 @@ Snap is the best feature that is loved by all, and it is the core feature of Sna
 
 The lens features are also included in the Snapchat feature. This feature is a combination of machine learning and artificial intelligence, as it allows you to see your younger and older version. This feature helps you to boost your engagement on your application.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![snapchat lenses](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-3.jpg)
 
 - **Voice and video calls**
 
 Snapchat includes the voice and video call feature that could help you to connect your friends and family globally easily.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![voice and video calls](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-4.jpg)
 
 - **Story**
 
 The story feature that Snapchat includes is best as it could help you to broadcast your latest snap. The story format only lasts for twenty-four hours. This story features allow you to connect and effectively engage your users easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![snapchat story](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-5.jpg)
 
 - **Filters**
 
 Snapchat comes with an amazing feature that is called as filters. It includes many best filters that you must check to get the best results. These effective filters could be used to increase usage and connect with the audience effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![snapchat filters](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Ways to Fake Snapchat Location
 
 There are many effective ways of fake Snapchat locations without jailbreak. And some of the effective ways are mentioned below:
@@ -67,6 +83,9 @@ If you are an iOS user and wish to fake location for a Snapchat map, [Dr.Fone-Vi
 
 **Step 1:** You must download this Dr.Fone-Virtual Location tool from its official website and install it. After you have installed the tool, you must opt for the virtual location module from the main interface
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr.Fone for fake snapchat location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -103,24 +122,43 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 **Step 4:** Now, install the older Google Play Services version that you downgraded earlier. Head to “File Explorer” > “Downloads” and click apk file of Google Play Services. Tap “Install”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap install](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-9.jpg)
 
 **Step 5:** Now, go to “Settings” > “Apps” and tap the menu. Choose “Show System” > “Google Play Store” and disable it.
 
 **Step 6:** Now, you need to set the FGL Pro as a mock location app. Please make sure to enable Developer options first. Then, in the menu of Developer Options, select “Select mock location app” > “FGL Pro”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set fgl as mock location app](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-10.jpg)
 
 **Step 7:** Open the app now and set the desired location. Tap on the “Play” button, and you’re good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on play button](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Using VPN
 
 The second effective method to Snapchat fake location is through the help of a VPN. There are a lot of options when it comes to VPN. However, you can choose Surshark if you can’t decide whether it is one of the best VPN that comes with build-in fake GPS tech. It is the cheapest and the VPN that provides you with the perfect way to enhance your Snapchat experience.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use vpn for snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Using Xcode
 
 The third method of fake GPS for Snapchat includes Xcode. Through Xcode, you could easily change the Snapchat location. Steps to a fake location with Xcode includes:
@@ -152,14 +190,23 @@ You are required to enter the commands in “Terminal”. Open it and type the f
 
 **Step 6:** You can now click on “Debug” menu and choose “Simulate Location”. Choose the desired location now and fake GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![click on debug](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What to pay attention to while faking Snapchat location?
 
 There is a certain risk that you may face while using a fake GPS Snapchat map, so you must pay attention while faking Snapchat location. Some of the fake location tools could simulate latitude and longitude perfectly but do not simulate altitude, which may sometime ban your account in Snapchat. Hence you must choose the best tool that could spoof any location without any range limitation.
 
 Some of the Snapchat spoof does not work immediately and may also provide you with some difficulty. Hence here you must wait for some time or restart the Vivo X90S device and recheck it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Many different tools could help you to spoof Snapchat. But you must always prefer to choose the right one that could perfectly meet your needs. And it could provide you with the best experience of using Snapchat without any difficulty.
@@ -186,6 +233,18 @@ Understanding this question is crucial. Here, we’ll break down the possibility
 
 ![life360 location sharing app interface](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-01.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What Is Life360 and What Does It Do?
 
 Life360 is a popular family safety app that allows users to share their real-time location with others they trust. Think of it as a digital family map where everyone can see where everyone else is. It’s popular with families who want to stay connected and ensure everyone’s safety.
@@ -198,6 +257,9 @@ Each member of a Circle installs the app on their phone. Life360 uses GPS and ce
 - **Crash detection:**Automatically alerts emergency services and contacts if a car crash is detected.
 - **Family messaging:**Allows members to chat within the app, plus read receipts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![life360 private messaging feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-02.jpg)
 
 What Does Life360 Track About You?
@@ -234,6 +296,9 @@ You need to be aware of what the app can and can’t do. It balances convenience
 
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
@@ -267,6 +332,9 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 - **Step 1:** Connect your smartphone to your desktop using a USB cable after downloading Dr.Fone. Once installed, launch it and select **Virtual Location** from the **Toolbox** homepage to continue with the feature.
 - **Step 2:** Click **Get Started** and select the checkbox to acknowledge the disclaimer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![start dr.fone virtual location changer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Step 3:** Click **No Device** on the upper right side of the map.
@@ -275,6 +343,9 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
@@ -283,6 +354,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![setup travel mode and destination](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
@@ -307,6 +382,10 @@ Location Bubble
 
 Some Life360 plans offer location Bubble. It shares your general vicinity without revealing your exact coordinates. This provides a sense of security while maintaining a degree of privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![life360 bubble feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-12.jpg)
 
 Open Communication
@@ -317,16 +396,34 @@ Consider Alternatives
 
 Explore apps with granular privacy controls. Some focus on user privacy and allow for more customized sharing settings. Change your location on Life360 responsibly to balance safety and privacy.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 So, let’s go back to the main question. **Can you change your location on Life360 without anyone knowing?** Yes, it is possible to fake your location using spoofing apps for Android and iOS. But it’s crucial to value trust in relationships. Instead of resorting to faking your location, consider responsible alternatives.
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Vivo X90S Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
@@ -343,6 +440,9 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
@@ -351,6 +451,9 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
 ## Part 3: Can I send a fake location on Viber, and How?
@@ -401,6 +504,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -450,3 +556,35 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y36-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y36 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y36-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y36 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y36-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y36 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y36-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y36 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y36-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y36 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y36-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y36 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y36-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y36 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y36-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y36 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y36 | Dr.fone</u></a></li>
+</ul></div>

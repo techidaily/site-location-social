@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro | Dr.fone
-date: 2024-03-28 12:17:45
-updated: 2024-03-29 23:45:17
+date: 2024-07-24T18:12:50.024Z
+updated: 2024-07-25T18:12:50.024Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro
 keywords: change Twitter location for Android,change skype location for OnePlus Ace 2 Pro,fake skype location for Android,change Twitter location for OnePlus Ace 2 Pro,change WhatsApp location for Android,change location for Android
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro
@@ -45,12 +45,18 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -71,12 +77,18 @@ Start by downloading and installing Dr.Fone from the official website and launch
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
 
 **Step 3. Launch the map and choose a fake location for Messenger.**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
@@ -93,6 +105,15 @@ So, use Dr.Fone to fake location on Messenger with unreal precision. This third-
 
 ## Part 5. FAQ: What People Also Ask about Facebook Location Services
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 1\. Why is my Facebook Messenger location wrong?
 
 The issue of the wrong Facebook location is commonplace these days. Fortunately, it's nothing complicated as it's mainly about the incorrect GPS settings on your phone. So, go ahead and enable GPS tracking on your device.
@@ -103,14 +124,23 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 ## How to Change GPS Location on OnePlus Ace 2 Pro Easily & Safely
@@ -137,10 +167,25 @@ Your 'Reminder or Alarm' apps also use location to send you notifications and po
 
 The Maps is one of the main apps that desperately rely on Location Settings. It tells where your favorite pub is, where the closest bookstore is and how to find the nearest Pharmacy in the locality. Name the necessity, and the Maps will find it for you. Letting this app access Location is important to get accurate results.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location apps](https://images.wondershare.com/drfone/2020/2020/location-apps-pic4.jpg)
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
@@ -153,10 +198,16 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 1:** You have to download the [Dr. Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is easily available for everyone. Launch the application, and the options will display on your screen. Choose the 'Virtual Location' option.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
@@ -165,6 +216,10 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 4:** Then click on 'Move Here' when you are completely sure that this is the place you want to be in 'Virtually'. The map makes the shift for you, and the same will mirror in your OnePlus Ace 2 Pro too.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
@@ -193,12 +248,18 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 4: Change GPS location on iPhone using Xcode
 
 XCode is a computer program. It is very useful for those who have sound coding language knowledge. It works well with Mac devices, and it is a good Gps changer for iPhone.
 
 **Step 1:** Firstly, Install the App from the App Store (on Mac) And then Launch it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic14.jpg)
 
 **Step 2:** Once you launch the app, the Xcode Window will open. Click on 'Single View Application' to start a new Project and proceed by clicking on 'Next'. Set up a name and then proceed.
@@ -217,18 +278,27 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 6:** Now, you need to select your device from the 'Build Device' option and while you do this, keep your phone unblocked for quick detection. Then the program will process the Symbol Files.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process-detection-on-iphone](https://images.wondershare.com/drfone/2020/2020/process-detection-on-iphone-pic19.jpg)
 
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your OnePlus Ace 2 Pro device.
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Change GPS location on iPhone using Cydia
 
 Cydia offers an app named Location Spoofer. This one is a very good option for those ready/okay with jailbreaking their iPhone devices. You can change the Phone Location iPhone without jailbreak in the previous suggestions, but that is not possible here. This is how you do it -
 
 **Step 1:** Download the Cyndia LocationSpoofer app from their website. You will find LocationSpoofer8 if you are using the iOS 8.0 model.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic21.jpg)
 
 **Step 2:** Launch the app and enter your virtual address into the search box at the top.
@@ -237,6 +307,9 @@ Cydia offers an app named Location Spoofer. This one is a very good option for t
 
 **Step 3:** Once you are sure about your location, change the toggle from 'OFF' to 'ON' at the bottom of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic23.jpg)
 
 **Step 4:** Then, right at the end of this bottom line, you will find an 'i' icon. Click on that and then go with the wishlist. There you can choose the apps that can access your virtually changed location. Then Click on 'Done' when you are finished.
@@ -251,6 +324,9 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 
 Whether you have Android or iPhone, at some point, you need to trick your phone that you are somewhere else. It can be weird as most of us use the GPS app to get our real location, find directions, and see weather updates. However, in some situations, we need to **[fake locations](https://www.virtuallocation.com/fake-location/)** to get access to some features on our phones or do something else legitly. So, if you want to know how to send a fake location on WhatsApp, then we have a detailed guide for you.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Common Scenarios to Share Fake Location on WhatsApp
 
 There are many situations where users might need to set up fake locations, for fun, and other reasons. Some of the common scenarios where you have to fake live location on WhatsApp are listed below:
@@ -261,8 +337,15 @@ There are many situations where users might need to set up fake locations, for f
 
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -307,6 +390,9 @@ Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
@@ -331,16 +417,26 @@ To start with, launch the Dr.Fone toolkit on your computer and launch the “Vir
 
 Using an authentic lightning cable, connect your OnePlus Ace 2 Pro to the computer and click on the “Get Started” button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![connect your OnePlus Ace 2 Pro to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 _Step 3: Share fake location on WhatsApp_
@@ -351,6 +447,9 @@ To change your location, move the pin as per your requirements, and click on the
 
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 You can also open any app on your OnePlus Ace 2 Pro and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
@@ -363,6 +462,9 @@ You already know how to send fake locations on WhatsApp via teleport mode, you c
 
 Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top right side of the screen and set the points on the screen in which you want to show your movement on WhatsApp.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
@@ -381,14 +483,23 @@ Step 1: Install the iTools software on your computer and connect your OnePlus Ac
 
 Step 2: Enter the fake location in the search box and let the software detect the location. The marker will automatically land on the map. Tap on the "Move Here" option on the screen, and your OnePlus Ace 2 Pro location will instantly move to that particular location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
 
 To get your real location back, you will have to reboot your OnePlus Ace 2 Pro. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
 The main purpose of using [third-party apps to fake locations](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) on WhatsApp is to triangulate your current position. That is why the most important thing in a good GPS faking app is accuracy. If you browse the Google Play Store, you will find unlimited applications that can serve this purpose. But don’t always go for the first choice. Look for features in the app you want such as:
@@ -400,6 +511,9 @@ The main purpose of using [third-party apps to fake locations](https://drfone.wo
 
 You can use [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&&hl=en) (or any other app you see proper) to help fake WhatsApp locations on Android. You can also use any other app considered suitable. The operations are just similar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2. How to Fake Your Location?
 
 You will be glad to know that it is not that hard to fake live location for WhatsApp if you are using the right application. Here, we will explore using the Fake GPS Location app to share a fake location.
@@ -410,6 +524,9 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
@@ -418,6 +535,9 @@ Step 3: Now, open the app and search the location that you want to send. Once yo
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
@@ -467,3 +587,39 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-pro-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12 Pro 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12R to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-12t-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 12T Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-zte-axon-40-lite-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your ZTE Axon 40 Lite to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-90-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Note 30i | Dr.fone</u></a></li>
+</ul></div>

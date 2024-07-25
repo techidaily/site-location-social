@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 Pro | Dr.fone
-date: 2024-05-20T08:01:46.481Z
-updated: 2024-05-21T08:01:46.481Z
+date: 2024-07-24T17:07:35.093Z
+updated: 2024-07-25T17:07:35.093Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 Pro
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 Pro
 keywords: change Twitter location for Lava Yuva 3 Pro,fake facebook location for Android,change facebook location for Android,fake location for Android,change Twitter location for Android,fake WhatsApp location for Android,change skype location for Lava Yuva 3 Pro,change WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Lava Yuva 3 Pro
@@ -19,8 +19,14 @@ Life360 is a popular location-sharing app among families and friends. The platfo
 
 If you’re intrigued by maintaining privacy on Life360, read on further. Learn how to activate the **Life360 Ghost Mode**. It’s a valuable feature when you need personal space without alerting your family or friends. Uncover the steps to use **Ghost Mode in Life360** through a location-sharing app. Enjoy a balance between staying connected and maintaining your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
 **Life360 Ghost Mode** is a workaround and not an official feature. It’s an unofficial term for those who hide or spoof their GPS location within the Life360 platform.
@@ -58,6 +64,9 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
 Follow these step-by-step instructions to activate **Ghost Mode on Life360** using Dr.Fone - Virtual Location:
@@ -78,6 +87,9 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
 Activating Ghost Mode on Life360 through a virtual location changer presents both advantages and potential drawbacks.
@@ -114,6 +126,9 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -124,6 +139,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -131,6 +149,9 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
@@ -152,6 +173,9 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
@@ -160,16 +184,25 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Use a VPN Service
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 **Life360 Ghost Mode**, though not an official feature, provides a discreet way to enhance privacy within the app. While it’s a valuable tool for moments when you need personal space, be aware of its downsides. If Ghost Mode seems too risky, explore alternative methods.
 
 The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient option. Striking the right balance between connectivity and privacy in Life360 requires thoughtful consideration. Explore the dynamics of **Ghost Mode in Life360** to decide if it aligns with your preferences and needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Does find my friends work on Lava Yuva 3 Pro
 
 Find my friends app is becoming a norm for most people. The Smartphone and app developers are now aware of this. As a result, most Smartphone platforms are adding tools that allow users to share their whereabouts with others. Apple has its native Find my friends for their iPhone. The app works great for a group of iOS users, but you may need to share location with Android devices, which the built-in app can't help you with. When you want to use the "find friends" app, they certainly need to add people from Android and iPhone users. And, you can't dictate what people are choosing as their smartphone platform. While some prefer Android, many of us are dedicated to the iPhone too. Therefore, if you need to keep track of the real-time location of your family members or friends, you need the assistance of a third-party tool. These apps are the most logical way to create a link to find my friends app for Android and iPhone.
@@ -177,8 +210,14 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: How to track friends using iPhone or Android
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.1 Tracking Friends using iPhone
 
 As an Apple user, you might already know about the "Find my friends" app on your device. It is the most convenient way to share your location with your friends. You can also keep track of your peers with it. If you ever feel lost in a new area, you can use this app to notify your friends. You can use this app to create a route for all to meet in a selected location. If your friends are heading toward the destination, the app will notify you.
@@ -187,6 +226,10 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.1 You will find the "Find Friend" on your Home screen. In IOS 13, you will have to launch the "Find MY" app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![How to use Find my friends app 1](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-1.jpg)
 
 1.1.2 Tap "Add Friends."
@@ -223,22 +266,34 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.3 Glympse
 
 What makes Glympse different from others is the fact that you don't even need to sign up here! You can set up a group for a specific time, and share your location to anyone you want to. You can even share your places via the web. If you wish to track your friends temporarily or contact someone for a specific period, Glympse is the right choice for you. And, if someone is not comfortable with the idea of location sharing, you can send your location via the web. They can use the shared link to know your area without ever installing the app. But, if you want to check up on your loved ones continually, then Glympse cannot satisfy your demand. As a temporary service, your location sharing link will be activated for four hours at most.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![glympse app](https://images.wondershare.com/drfone/2023/virtuallocation/glympse-app.jpg)
 
 ### Conclusion
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hide/Fake Snapchat Location on Your Lava Yuva 3 Pro
 
 The GPS functionality is very prominent these days. Especially when various apps or websites are making use of your geological location to deliver more relevant content. Be it, social networking apps or gaming apps, for instance, Snapchat, and Pokemon Go respectively.
@@ -257,6 +312,9 @@ With the SnapMap feature enabled, you can easily get to know about the whereabou
 
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Why people want to hide/fake location on Snapchat?
 
 When it comes to **fake Snapchat location** there can be several reasons behind that. Here are some scenarios where people do wish to hide/fake location on Snapchat. Let’s explore.
@@ -267,6 +325,9 @@ When it comes to **fake Snapchat location** there can be several reasons behind 
 - Another reason is that is absolutely fun to trick people into believing that you’re spending your leisure time on an expensive tour. For instance, you can check in to a classy restaurant (you’ve never been to in real) in Dubai by mocking the GPS location.
 - Even better for the kids who wish to fake GPS location to hide their real location over the location-sharing SnapMap feature from their parents, family, or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How to hide location on Snapchat
 
 When it comes to disabling or hiding the location on Snapchat, the tutorial is extremely easy. Snapchat itself offers you a setting called Ghost mode. You just need to enable it. Here’s how to get it done.
@@ -274,6 +335,9 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 1. First, get into the Snapchat app and then visit either the Discover screen or the Camera or Friends. Next, tap on the magnifying glass and hit on Map.
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
@@ -284,10 +348,19 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
 5. Selecting either of the aforementioned settings will hide your location from SnapMap. Implies, other than you no one will be able to locate you over SnapMap.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to fake Snapchat location on iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
 
 You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This tool is easy to operate and works perfectly when it comes to spoofing any location. Here is how to **fake GPS Snapchat iPhone without jailbreak**.
@@ -324,6 +397,9 @@ Also, on your iOS device, you can now Fake Snapchat location or in any other loc
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
 Now, if we talk about fake location for Snapchat map on iPhone, it’s not as easy as it looks. You need to be an extremely tech-savvy person to **fake Snapchat location without jailbreaking** your Lava Yuva 3 Pro. You simply can’t download a Snapchat location spoofer app over your Lava Yuva 3 Pro and fake it. But fret not, we’re glad to bring you a detailed tutorial with which you can easily perform location spoofing on Snapchat and that too, without jailbreaking your Lava Yuva 3 Pro.
@@ -332,20 +408,32 @@ Step 1: Install Xcode and Set up a Dummy app
 
 1. Grab your Mac computer first and then head over to the App Store. Now, look for the Xcode application and get it installed on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
     ![look for Xcode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-5.jpg)
 
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![setup a new project](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-6.jpg)
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
 
 1. On the upcoming screen, Xcode will throw up a pop-up message stating “Please tell me who you are” and some GIT commands that you need to execute.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
     ![Setup GIT](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-8.jpg)
 
 2. For this, fire up the “Terminal”over your Mac and then execute the commands as follows:
@@ -355,6 +443,9 @@ Step 2: Setup GIT on Xcode
 
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Lava Yuva 3 Pro to your Mac computer.
@@ -364,12 +455,18 @@ Step 2: Setup GIT on Xcode
 7. Once done, opt it in as the build device and while you do it, ensure to keep it unlocked.
 8. Lastly, if everything is performed correctly, Xcode will now process some symbol files, please be patient and wait for it to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![process some symbol files](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-11.jpg)
 
 Step 3: Move Bitmoji
 
 Now, you’re all set to fake location for Snapchat map. For this, simply hit on the “Debug” menu and then opt for “Simulate Location” from the drop-down window. Lastly, select the location from the list as per your preference and you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. How to fake Snapchat location on Android
 
 Last but not least, the next method to fake Snapchat location is for Android devices. For this, you need to download a Snapchat spoof app (easily available over Google Play Store) on your Lava Yuva 3 Pro. Here’s all that you need to do.
@@ -412,3 +509,28 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a59-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A59 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a59-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A59 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-a59-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo A59 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a59-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A59 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a59-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A59 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a59-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A59 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a59-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo A59 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-a59-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo A59 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A59 5G | Dr.fone</u></a></li>
+</ul></div>

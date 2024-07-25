@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Activate and Use Life360 Ghost Mode On Lava Blaze Pro 5G | Dr.fone
-date: 2024-05-20T08:01:44.646Z
-updated: 2024-05-21T08:01:44.646Z
+date: 2024-07-24T17:05:29.747Z
+updated: 2024-07-25T17:05:29.747Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Lava Blaze Pro 5G
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Lava Blaze Pro 5G
 keywords: change facebook location for Lava Blaze Pro 5G,change skype location for Lava Blaze Pro 5G,change Twitter location for Android,fake Twitter location for Android,change WhatsApp location for Lava Blaze Pro 5G,fake WhatsApp location for Android,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Lava Blaze Pro 5G
@@ -40,6 +40,9 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Spoof your location without leaving home**
@@ -58,6 +61,10 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
 Follow these step-by-step instructions to activate **Ghost Mode on Life360** using Dr.Fone - Virtual Location:
@@ -68,16 +75,34 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
 Activating Ghost Mode on Life360 through a virtual location changer presents both advantages and potential drawbacks.
@@ -94,6 +119,9 @@ Others won’t know your location, potentially leading to miscommunication or em
 
 You can engage in activities like sneaking out without being monitored by their Life360 circle.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Pros of Ghost Mode Activation
 
 Here are the pros of using **Ghost Mode on Life360**.
@@ -124,6 +152,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -136,12 +167,18 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Method 3: Low Data Mode
 
 Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone to your offline status. An alternative method to deactivate Life360 awareness is by using Low Data Mode:
 
 **For iOS**: Open the **Settings** app on your Lava Blaze Pro 5G or iPad. Tap on **Wi-Fi**. Select the **i** icon beside the connected Wi-Fi network. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
@@ -152,6 +189,18 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
@@ -180,6 +229,9 @@ Understanding this question is crucial. Here, we’ll break down the possibility
 
 ![life360 location sharing app interface](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What Is Life360 and What Does It Do?
 
 Life360 is a popular family safety app that allows users to share their real-time location with others they trust. Think of it as a digital family map where everyone can see where everyone else is. It’s popular with families who want to stay connected and ensure everyone’s safety.
@@ -202,6 +254,10 @@ Life360 tracks a variety of things, including:
 - **Places visited:**You can see where family members have been. It helps you understand their daily routines and ensure they’re in safe areas.
 - **Driving habits:**Life360 tracks speed, braking, and other driving behaviors. It provides insights into how safely family members drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![life360 driver reports feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-03.jpg)
 
 Benefits
@@ -224,16 +280,25 @@ Privacy concerns arise, especially regarding the questions by its users. “**Ca
 
 You need to be aware of what the app can and can’t do. It balances convenience and privacy when using tracking services like Life360. So, here’s the deal – always think twice before faking, hiding, or changing your location. Now, let’s explore whether you can bypass these concerns and keep your location hidden or fake on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Can You Change Your Location on Life360 Without Anyone Knowing?
 
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
 
 In different scenarios, the same question – “**Can you change your location on Life360 without anyone knowing?**” Let’s explore this together. No matter what your reasons are, as long as you have good intentions, keep reading. In the next section, you’ll learn more about Dr.Fone and its one-click virtual location changer feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Part 3: Changing/Faking Location With Dr.Fone – Virtual Location
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location can be a playful tool for the digitally adventurous. Want to impress your Instagram followers with Parisian sunsets without leaving your couch? Dr.Fone can transport you there with a click. For the romantics, Dr.Fone can also help you spark connections on dating apps by setting your location to a city or a scenic getaway.
@@ -269,10 +334,17 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
 
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
@@ -281,10 +353,16 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust travel speed and route type](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 8:** Simulation initiated. Track your movement on the map at your set speed. You can click **Pause** or **Clear** to control the flow.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 4: Other Ways for Responsible Location Sharing on Life360
 
 Life360 is a valuable tool for staying connected with loved ones and ensuring safety. However, concerns about privacy and changing your location on Life360 are valid. Doing so might seem tempting, but it can undermine the app’s purpose. Here are alternatives for safety and communication without compromising privacy.
@@ -301,6 +379,9 @@ Location Bubble
 
 Some Life360 plans offer location Bubble. It shares your general vicinity without revealing your exact coordinates. This provides a sense of security while maintaining a degree of privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![life360 bubble feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-12.jpg)
 
 Open Communication
@@ -323,6 +404,9 @@ Life360 has become a household name in location-sharing apps, renowned for its a
 
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 
@@ -330,6 +414,9 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Purpose of Life360
 
 At its core, Life360 is about safety and connectivity. The app includes features like location history, driving reports, and even crash detection, making it a versatile tool for modern families. It provides several benefits, like:
@@ -338,6 +425,9 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
@@ -353,6 +443,9 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
 #### Pausing the Whole App
@@ -365,16 +458,25 @@ By understanding and utilizing these features wisely, you can maintain your conn
 
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pause Life360 From Android Settings
 
 First, navigate to your Lava Blaze Pro 5G’s **Settings**. Then, look for the section listing all installed apps. This is usually named as “Apps.” Locate Life360 on the list of apps and open it. You should be able to see a **Force Stop** button at the bottom of the screen.
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 ### Pause by Using Airplane Mode
@@ -397,6 +499,9 @@ Sometimes, pausing your location sharing on Life360 may raise questions or conce
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
 To learn how to pause location on Life360 without them knowing using Dr.Fone, follow the steps below:
@@ -435,3 +540,31 @@ While it’s always recommended to maintain open communication with your Circle 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-edge-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Edge 2023 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-edge-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Edge 2023 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-motorola-edge-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Motorola Edge 2023 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 2023 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola Edge 2023 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Edge 2023 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-edge-2023-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Edge 2023 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Edge 2023 | Dr.fone</u></a></li>
+</ul></div>

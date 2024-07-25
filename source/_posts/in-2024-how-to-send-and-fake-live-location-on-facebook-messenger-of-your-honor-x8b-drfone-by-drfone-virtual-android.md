@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor X8b | Dr.fone
-date: 2024-03-27 17:49:47
-updated: 2024-03-29 11:13:22
+date: 2024-07-24T19:56:40.048Z
+updated: 2024-07-25T19:56:40.048Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Honor X8b
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Honor X8b
 keywords: change skype location for Honor X8b,change facebook location for Android,change WhatsApp location for Honor X8b,change location for Android,change skype location for Android,change Twitter location for Android,change location for Honor X8b,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Honor X8b
@@ -37,6 +37,9 @@ Your online security is paramount. And one way to protect yourself from online s
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change Location on Facebook Messenger
 
 After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
@@ -45,6 +48,18 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
@@ -65,18 +80,27 @@ Here's how to fake live location on Messenger with Dr.Fone:
 
 **Step 1. Download Dr.Fone and fire it up.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Start by downloading and installing Dr.Fone from the official website and launch the software on your Mac or Windows PC. Then, connect your smartphone to the PC using a USB wire. Please ensure to select the "Transfer Files" option.
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
 
 **Step 3. Launch the map and choose a fake location for Messenger.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
@@ -103,6 +127,9 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
@@ -113,6 +140,9 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Share/Fake Location on WhatsApp for Honor X8b
 
 Whether you have Android or iPhone, at some point, you need to trick your phone that you are somewhere else. It can be weird as most of us use the GPS app to get our real location, find directions, and see weather updates. However, in some situations, we need to **[fake locations](https://www.virtuallocation.com/fake-location/)** to get access to some features on our phones or do something else legitly. So, if you want to know how to send a fake location on WhatsApp, then we have a detailed guide for you.
@@ -129,6 +159,9 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -145,8 +178,14 @@ As you've learned some essential merits and demerits about sharing locations on 
 
 2\. This leads you to a new screen that shows your location status. Look for the "Search" bar on the top and type in the location you want to send. Observe the search results and tap on the location to send it to the individual.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![send whatsapp location](https://images.wondershare.com/drfone/article/2024/01/share-fake-location-on-whatsapp-android-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Pin a Location in WhatsApp Location Service
 
 #### 2.2.1 Merits & Demerits
@@ -193,6 +232,9 @@ _Step 1: Launch the Virtual Location app_
 
 To start with, launch the Dr.Fone toolkit on your computer and launch the “Virtual Location” feature from its home.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Using an authentic lightning cable, connect your Honor X8b to the computer and click on the “Get Started” button.
@@ -217,10 +259,20 @@ To change your location, move the pin as per your requirements, and click on the
 
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 You can also open any app on your Honor X8b and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
@@ -229,6 +281,9 @@ You already know how to send fake locations on WhatsApp via teleport mode, you c
 
 Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top right side of the screen and set the points on the screen in which you want to show your movement on WhatsApp.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
@@ -253,8 +308,23 @@ Step 3: Now, launch the WhatsApp app and click on the Share Location option. The
 
 To get your real location back, you will have to reboot your Honor X8b. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
 The main purpose of using [third-party apps to fake locations](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) on WhatsApp is to triangulate your current position. That is why the most important thing in a good GPS faking app is accuracy. If you browse the Google Play Store, you will find unlimited applications that can serve this purpose. But don’t always go for the first choice. Look for features in the app you want such as:
@@ -266,6 +336,9 @@ The main purpose of using [third-party apps to fake locations](https://drfone.wo
 
 You can use [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&&hl=en) (or any other app you see proper) to help fake WhatsApp locations on Android. You can also use any other app considered suitable. The operations are just similar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2. How to Fake Your Location?
 
 You will be glad to know that it is not that hard to fake live location for WhatsApp if you are using the right application. Here, we will explore using the Fake GPS Location app to share a fake location.
@@ -284,6 +357,9 @@ Step 3: Now, open the app and search the location that you want to send. Once yo
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
@@ -292,14 +368,23 @@ If you have shared the fake live location, remember to change it after 15 or 30 
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
 
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
 
 Bonus Tip: How to transfer WhatsApp data from one device to another device without any hassle?
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from One Device to Another Device.
@@ -316,26 +401,41 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Honor X8b Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Honor X8b/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
@@ -344,6 +444,9 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
 ## Part 3: Can I send a fake location on Viber, and How?
@@ -380,6 +483,9 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
@@ -443,3 +549,43 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X6 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find X6 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-find-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Find X6 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x6-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Find X6 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-find-x6-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Find X6 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-find-x6-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Find X6 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-find-x6-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Find X6 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-find-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Find X6 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-x6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Find X6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-x6-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Find X6 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-find-x6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Find X6 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-find-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Find X6 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find X6 Pro | Dr.fone</u></a></li>
+</ul></div>

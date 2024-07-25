@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing? | Dr.fone
-date: 2024-03-27 15:14:49
-updated: 2024-03-29 13:52:31
+date: 2024-07-24T19:19:28.406Z
+updated: 2024-07-25T19:19:28.406Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing?
 excerpt: This article describes How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing?
 keywords: fake facebook location for Android,change facebook location for Samsung Galaxy A15 4G,fake WhatsApp location for Android,fake Twitter location for Android,change location for Android,change skype location for Samsung Galaxy A15 4G,change WhatsApp location for Samsung Galaxy A15 4G
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing?
@@ -21,6 +21,10 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1. How To Leave a Life360 Circle
 
 Life360 has become a household name. It’s a digital haven for families to stay connected through its “Circle.” The Circle functions as a virtual space where family members’ locations are shared. While this can be beneficial, there are times when you wish to leave a Circle for personal reasons.
@@ -31,6 +35,9 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 - **Step 1:** Launch the Life360 app on your device and go to **Settings**. Tap on **Circle Management** and select the Circle you intend to exit.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![life360 circle management option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-02.jpg)
 
 - **Step 2:** Choose the option **Leave Circle**. If you were the admin, ensure that you designated a new admin before leaving. Apart from that, the process is straightforward. Follow the on-screen instructions.
@@ -47,12 +54,21 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
 Leaving a Life360 Circle through the standard method may not align with your preference in certain scenarios. In such cases, there are many methods you can use to maintain your privacy without alerting fellow Circle members. Here are some strategic approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Method 1: Using an App To Spoof Your Location
 
 One of the most effective and safe ways to trick Life360 without triggering notifications is by using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location. The tool offers a seamless solution for location spoofing with the following key features:
@@ -80,14 +96,23 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 - **Step 3:** On the map, enter the number of movements and select **Round** or **Loop** trip. Adjust the speed, then click **Move Here** to start the simulation. **Pause** or clear to revert.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![dr.fone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 The next method can serve as a last resort if using Dr.Fone is impossible. Be aware that they come with the trade-off of notifying other Circle members. Maintaining open communication within the Circle is crucial. Do these alternatives only when it’s necessary for your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Turning Off Mobile Data and Wi-Fi
 
 If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi-Fi.
@@ -105,10 +130,17 @@ Another option is to activate Airplane Mode, severing all connections, including
 
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Turning Off Your Samsung Galaxy A15 4G
 
 A straightforward yet noticeable method involves turning off your device. While it suspends location tracking on Life360, frequent use may draw attention.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Method 5: Disabling Background App Refresh
 
 In your device settings, disable **Background App Refresh** for Life360. Although this may impact location accuracy, it’s an option to consider if Dr.Fone isn’t accessible.
@@ -125,10 +157,16 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 - **Step 1:** Go to your device **Settings**. Look for the **Battery** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
 
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Method 7: Getting a Burner Phone
 
 Acquiring a secondary, inexpensive phone for Life360 use may be an alternative if all else fails. This method involves monetary considerations and may not be practical for everyone.
@@ -143,6 +181,9 @@ Life360’s Circle feature serves as the cornerstone of the app. It fosters conn
 
 As the admin, you have the authority to remove someone from a Life360 Circle. The control ensures that you can manage the group dynamics and permissions.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Know if Someone Leaves the Circle?
 
 Life360 notifies Circle members when someone leaves. The transparency feature aims to keep everyone informed about changes within the group.
@@ -165,10 +206,16 @@ Leaving a Life360 Circle can be achieved through the standard method. However, i
 
 The platform is proficient in location spoofing without alerting the Circle. Whether addressing privacy concerns or aiming for a quick escape, Dr.Fone proves its worth. It’s the preferred choice if you google the question, “**How do I leave a life360 group** online.” Ensure a seamless alone time without notifying other members.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change GPS Location on Samsung Galaxy A15 4G Easily & Safely
 
 Change GPS Location iPhone and everything else will be alright! - Did you hear your friends suggest this to you? Whenever you cannot access the content of your choice or when you want to play some games, they must have asked you to change your location or spoof it. Creating a fake location iOS will not just help you with games and content, but also hide your identity and keep stalkers away.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![location change in iphone](https://images.wondershare.com/drfone/2020/2020/location-change-iphone-pic1.jpg)
 
 The changed location will reflect in all of your social media databases and other everyday apps. No one can track you down using the over-smart softwares that pry on user locations on different apps they use. By doing so, you are enhancing your online security, protecting your privacy, and, in some cases, also keeping your personal information a secret. Trust us when we say that certain apps need your information worth plenty of bucks but get away with procuring it without your permission.
@@ -181,14 +228,37 @@ The iPhone Location settings are useful for providing optimum and smooth service
 
 The in-built apps like 'Camera' use Location to add the time and date stamp to your images. They also detect where the photo is taken and provide appropriate tags to pinpoint the location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![photo with date stamp](https://images.wondershare.com/drfone/2020/2020/photo-with-time-date-stamp-pic2.jpg)
 
 Your 'Reminder or Alarm' apps also use location to send you notifications and pop-ups to intimate you that you've reached a specific location. If you have somewhere to be, they can also tell you how long it will take to be there. It completely depends on the type of app you are using.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reminder app](https://images.wondershare.com/drfone/2020/2020/reminder-apps-iphone-pic3.jpg)
 
 The Maps is one of the main apps that desperately rely on Location Settings. It tells where your favorite pub is, where the closest bookstore is and how to find the nearest Pharmacy in the locality. Name the necessity, and the Maps will find it for you. Letting this app access Location is important to get accurate results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![location apps](https://images.wondershare.com/drfone/2020/2020/location-apps-pic4.jpg)
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
@@ -217,6 +287,9 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 4:** Then click on 'Move Here' when you are completely sure that this is the place you want to be in 'Virtually'. The map makes the shift for you, and the same will mirror in your Samsung Galaxy A15 4G too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
@@ -243,8 +316,14 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Change GPS location on iPhone using Xcode
 
 XCode is a computer program. It is very useful for those who have sound coding language knowledge. It works well with Mac devices, and it is a good Gps changer for iPhone.
@@ -255,10 +334,16 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 2:** Once you launch the app, the Xcode Window will open. Click on 'Single View Application' to start a new Project and proceed by clicking on 'Next'. Set up a name and then proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![single view application project](https://images.wondershare.com/drfone/2020/2020/single-view-application-project-pic15.jpg)
 
 **Step 3:** A pop-up will appear asking you who you are, and you need to apply some GIT commands to this particular part of the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic16.jpg)
 
 **Step 4:** Launch the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name". (Add your information)
@@ -269,12 +354,18 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 6:** Now, you need to select your device from the 'Build Device' option and while you do this, keep your phone unblocked for quick detection. Then the program will process the Symbol Files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![process-detection-on-iphone](https://images.wondershare.com/drfone/2020/2020/process-detection-on-iphone-pic19.jpg)
 
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your Samsung Galaxy A15 4G device.
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Change GPS location on iPhone using Cydia
 
 Cydia offers an app named Location Spoofer. This one is a very good option for those ready/okay with jailbreaking their iPhone devices. You can change the Phone Location iPhone without jailbreak in the previous suggestions, but that is not possible here. This is how you do it -
@@ -299,10 +390,16 @@ The problem with this method is that certain apps downright refuse to function w
 
 If you've been wondering how can I change my location on iPhone, then I am sure this article must have at least given you one suitable way to do that. Weighing your necessities, choose the most suitable option that will safely transfer you from one place to another - Virtually, Of course! You can settle on the best location changer for iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Samsung Galaxy A15 4G Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
@@ -315,6 +412,9 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
@@ -323,12 +423,21 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -353,6 +462,9 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
@@ -369,10 +481,16 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 **Step 4. Enter the GPS coordinates or location address.**
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -426,3 +544,39 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-xr-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone XR by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-xr-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone XR to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-xr-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone XR Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-xr-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone XR in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-xr-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone XR Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-xr-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone XR Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xr-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone XR Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xr-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone XR Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-xr-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone XR Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-xr-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone XR Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone XR | Dr.fone</u></a></li>
+</ul></div>

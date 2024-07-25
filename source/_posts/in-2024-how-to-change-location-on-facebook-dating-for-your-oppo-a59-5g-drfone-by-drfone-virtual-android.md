@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Location On Facebook Dating for your Oppo A59 5G | Dr.fone
-date: 2024-03-27 23:41:21
-updated: 2024-03-29 16:57:55
+date: 2024-07-24T18:43:30.595Z
+updated: 2024-07-25T18:43:30.595Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Location On Facebook Dating for your Oppo A59 5G
 excerpt: This article describes How to Change Location On Facebook Dating for your Oppo A59 5G
 keywords: change location for Oppo A59 5G,change Twitter location for Android,fake skype location for Android,fake Twitter location for Android,fake location for Android,change WhatsApp location for Android,fake WhatsApp location for Android,change skype location for Oppo A59 5G,fake facebook location for Android,change Twitter location for Oppo A59 5G,change facebook location for Android,change location for Android
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## How to Change Location On Facebook Dating for your Oppo A59 5G
@@ -31,6 +31,9 @@ As far as Facebook Dating is concerned, you can change your location quickly to 
 
 ![fb dating location](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Fake Location to Match More Friends
 
 Here is another option, significantly if you **can't change your Facebook dating location**. Dr.Fone - Virtual Location becomes your better option. You can change the Facebook Dating location and the location that other platforms such as Wizards Unite, Jurassic World, Ingress Prime, Minecraft Earth, and Pokémon GO.
@@ -76,10 +79,16 @@ Android users can also turn the Facebook Location services on or off. The proced
 - Click on "Locations."
 - Turn the Locations off by choosing “Don’t Allow.”
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![turn off facebook location android](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-3.jpg)
 
 ## Part 4: FAQs About Facebook Dating
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.Can my friends see if I use Facebook Dating?
 
 It is one of the many advantages of using Facebook dating. It will ensure that no one, even your friends can see your Facebook dating profile. This hiding of the dating profile is automatic. So, don't expect your friends who are using Facebook dating to notice that you are using the platform. In the same vein, don't expect to see your friends who are using Facebook Dating.
@@ -112,32 +121,54 @@ That said and done, there are other more specific ways of identifying if that pe
 
 Unfortunately, Facebook Dating doesn't support read receipts. Your option is to keep waiting for the response until they respond or hope to forget about it altogether. For someone genuinely interested, the wait can be pretty frustrating. It could mean that the other parties are genuinely busy or not interested. If the case is the latter, the other party will most likely see the message and ignore it. Please tell him whether they have yet to see your message or chose not to respond.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 5\. How anonymous is a Facebook Dating profile?
 
 Seeing someone's Facebook Dating profile can be a daunting task. Despite that being the case, anonymity is something you can't expect from this platform. If someone gets lucky and sees your dating profile, recognizing you are pretty high. After all, your profile displays the name you use on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 It is an excellent way of meeting new friends who live outside your residence area. In addition to that, you can also use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to fake your location when using other social media platforms, games, and dating sites. It ensures that no one can easily track you, which is ideal for your safety and privacy. If you **can't change your Facebook dating location**, you can always turn Facebook location services off. Last but not least, it puts at your disposal the answers to frequently asked questions on Facebook Dating. So, don't let your location determine the features and services you get to use, especially the restricted ones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Oppo A59 5G Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Oppo A59 5G/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
@@ -150,8 +181,14 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -176,6 +213,9 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
@@ -186,12 +226,18 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
@@ -228,12 +274,18 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fake Snapchat Location on Oppo A59 5G
 
 In this case, you can either turn off the location sharing feature or even fake your Snapchat location. Trust me - with the help of a Snapchat location spoofer, you can easily do it and that too without jailbreaking/rooting your phone. In this post, I will share these tips to fake GPS for Snapchat like a pro!
@@ -244,6 +296,9 @@ A while back, Snapchat has integrated the GPS feature, which means it can track 
 
 If the feature is enabled, then you can also share your location with others and even post it in your stories too.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to turn it off?
 
 Well, to be honest, a lot of people don't like to share their location with others on Snapchat. Thankfully, you can just disable it by visiting your Snapchat Settings and turning on the Ghost Mode. When the Ghost Mode is enabled, your location won't be shared with others. To start sharing your location, you can just turn off the Ghost Most and select with whom you wish to share your whereabouts (all or selected contacts).
@@ -274,6 +329,9 @@ You can search for a location by its name, address, or specific coordinates and 
 
 - In the end, you can just adjust the pin around or zoom in/out the map as per your requirements. Once you are done, click on the "Move Here" button to fake GPS location on Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![to fake gps on snapchat](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 You can later launch Snapchat and check your location, which would be changed now.
@@ -311,3 +369,28 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-poco-m6-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Poco M6 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-m6-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco M6 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-poco-m6-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco M6 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-m6-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco M6 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-m6-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco M6 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco M6 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco M6 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-m6-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco M6 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

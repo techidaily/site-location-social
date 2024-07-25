@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Realme V30T | Dr.fone
-date: 2024-03-26 10:14:50
-updated: 2024-03-29 23:47:59
+date: 2024-07-24T20:27:30.501Z
+updated: 2024-07-25T20:27:30.501Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Realme V30T
 excerpt: This article describes Does find my friends work on Realme V30T
 keywords: change facebook location for Realme V30T,change location for Realme V30T,change Twitter location for Android,change WhatsApp location for Android,fake location for Android,change skype location for Realme V30T,change skype location for Android
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Does find my friends work on Realme V30T
@@ -20,8 +20,14 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: How to track friends using iPhone or Android
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.1 Tracking Friends using iPhone
 
 As an Apple user, you might already know about the "Find my friends" app on your device. It is the most convenient way to share your location with your friends. You can also keep track of your peers with it. If you ever feel lost in a new area, you can use this app to notify your friends. You can use this app to create a route for all to meet in a selected location. If your friends are heading toward the destination, the app will notify you.
@@ -38,6 +44,9 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.4 Tap Send.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to use Find my friends app 2](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-2.jpg)
 
 1.1.5 Now select a time option.
@@ -46,6 +55,9 @@ If you want to share your location, launch the app first. Then Tap "Me." Then, k
 
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.2 Tracking Friends Using Android
 
 Android users can also use this find my friends app. Even if someone in your group does not use a smartphone (seriously?), you can track them. You can send an invite, and if they agree, you can find your friend anytime. Remember, iPhone or Android, whatever the platform, all the members of the group have to agree with location sharing; otherwise, you cannot track them.
@@ -54,10 +66,16 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### 2.1 Find my friends
 
 This app is straightforward and pretty simple to use. You can look at the map and find your friends at any time. Your friends also can keep track of you. SO, if security is your concern," "Find my friend" is perfect for you. You can also chat with friends while they are on route.
@@ -66,6 +84,9 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
@@ -92,6 +113,9 @@ Talking about Snapchat, this app offers you different badges and filters dependi
 
 Sounds interesting, right? Let’s understand more about the tutorials on how to hide/fake location on Snapchat map.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. What Snapchat is using your location for?
 
 Snapchat basically utilizes your location for the SnapMap feature that furnishes the location-based filters etc. over your device. This SnapMap feature was unveiled in 2017. If you haven’t deliberately enabled it yet or you’re unaware of this feature, implies that you’re still “off the grid”. If you wish to enable this feature, you literally need to authorize Snapchat “3x times” and the last, fourth one to authorize your device.
@@ -100,6 +124,9 @@ With the SnapMap feature enabled, you can easily get to know about the whereabou
 
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part 2. Why people want to hide/fake location on Snapchat?
 
 When it comes to **fake Snapchat location** there can be several reasons behind that. Here are some scenarios where people do wish to hide/fake location on Snapchat. Let’s explore.
@@ -117,6 +144,9 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 1. First, get into the Snapchat app and then visit either the Discover screen or the Camera or Friends. Next, tap on the magnifying glass and hit on Map.
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
@@ -129,8 +159,14 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to fake Snapchat location on iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
 
 You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This tool is easy to operate and works perfectly when it comes to spoofing any location. Here is how to **fake GPS Snapchat iPhone without jailbreak**.
@@ -143,6 +179,9 @@ Step 1: To begin with this Snapchat location spoofer, simply head to the officia
 
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![opt for the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
@@ -151,6 +190,9 @@ Step 3: You can notice your current virtual location on the map in the next wind
 
 Step 4: It’s time to activate the “Teleport Mode”. To do this, all you need is to click on the first icon given on the upper right side. After this, you need to enter the location where you desire to teleport in the blank field given on the upper left. Hit on “Go” when you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Step 5: A few moments later, the system will perceive the desired location you have entered. A pop-up box will come up where the distance will be shown. Click on the “Move Here” option in the box.
@@ -159,6 +201,9 @@ Step 5: A few moments later, the system will perceive the desired location you h
 
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
@@ -167,6 +212,11 @@ Also, on your iOS device, you can now Fake Snapchat location or in any other loc
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
 Now, if we talk about fake location for Snapchat map on iPhone, it’s not as easy as it looks. You need to be an extremely tech-savvy person to **fake Snapchat location without jailbreaking** your Realme V30T. You simply can’t download a Snapchat location spoofer app over your Realme V30T and fake it. But fret not, we’re glad to bring you a detailed tutorial with which you can easily perform location spoofing on Snapchat and that too, without jailbreaking your Realme V30T.
@@ -175,14 +225,23 @@ Step 1: Install Xcode and Set up a Dummy app
 
 1. Grab your Mac computer first and then head over to the App Store. Now, look for the Xcode application and get it installed on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
     ![look for Xcode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-5.jpg)
 
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
     ![setup a new project](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-6.jpg)
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
@@ -198,6 +257,9 @@ Step 2: Setup GIT on Xcode
 
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Realme V30T to your Mac computer.
@@ -213,6 +275,9 @@ Step 3: Move Bitmoji
 
 Now, you’re all set to fake location for Snapchat map. For this, simply hit on the “Debug” menu and then opt for “Simulate Location” from the drop-down window. Lastly, select the location from the list as per your preference and you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. How to fake Snapchat location on Android
 
 Last but not least, the next method to fake Snapchat location is for Android devices. For this, you need to download a Snapchat spoof app (easily available over Google Play Store) on your Realme V30T. Here’s all that you need to do.
@@ -222,6 +287,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 3. Install the Fake GPS Free app for Snapchat and then launch it afterwards. On the main screen, you’ll be asked to“ENABLE MOCK LOCATIONS”. Hit on it and you’ll be redirected to the“Developer options” screen.
 4. Here, you need to simply tap on the “Select Mock Location App” option and opt for “FakeGPS Free” from the list of options appearing.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![FakeGPS Free](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-12.jpg)
 
 **Note:** You may need to enable the “Developer options” first to access these settings. For this, head to the “Settings”>“About Phone”> hit on “Build Number” – x7 times.
@@ -232,10 +300,17 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 
     ![activate the fake gps location](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Final Words
 
 While reaching towards the end of the article, we are pretty sure that you now fully understand what it takes to **fake Snapchat location** on Android or iPhone. The aforementioned ways are fully tested and work even without rooting or jailbreaking your devices respectively. Happy Spoofing!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Realme V30T Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
@@ -252,6 +327,9 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
@@ -264,8 +342,14 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -290,6 +374,9 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
@@ -363,3 +450,45 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-sony-xperia-10-v-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Sony Xperia 10 V by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-sony-xperia-10-v-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Sony Xperia 10 V Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-sony-xperia-10-v-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Sony Xperia 10 V Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-sony-xperia-10-v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Sony Xperia 10 V Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-sony-xperia-10-v-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Sony Xperia 10 V by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-sony-xperia-10-v-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Sony Xperia 10 V to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-sony-xperia-10-v-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Sony Xperia 10 V Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-sony-xperia-10-v-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Sony Xperia 10 V in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-sony-xperia-10-v-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Sony Xperia 10 V Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-sony-xperia-10-v-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Sony Xperia 10 V Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-sony-xperia-10-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Sony Xperia 10 V Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-sony-xperia-10-v-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Sony Xperia 10 V Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Sony Xperia 10 V | Dr.fone</u></a></li>
+</ul></div>

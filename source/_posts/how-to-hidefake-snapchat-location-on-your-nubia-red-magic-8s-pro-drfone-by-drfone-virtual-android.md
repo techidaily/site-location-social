@@ -1,7 +1,7 @@
 ---
 title: How to Hide/Fake Snapchat Location on Your Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-03-28 13:32:58
-updated: 2024-03-29 22:57:37
+date: 2024-07-24T20:05:06.612Z
+updated: 2024-07-25T20:05:06.612Z
 tags: 
   - virtual location change
   - social app
@@ -10,13 +10,16 @@ categories:
 description: This article describes How to Hide/Fake Snapchat Location on Your Nubia Red Magic 8S Pro
 excerpt: This article describes How to Hide/Fake Snapchat Location on Your Nubia Red Magic 8S Pro
 keywords: change skype location for Android,change WhatsApp location for Android,change Twitter location for Nubia Red Magic 8S Pro,change WhatsApp location for Nubia Red Magic 8S Pro,change skype location for Nubia Red Magic 8S Pro,fake skype location for Android,fake Twitter location for Android,change facebook location for Nubia Red Magic 8S Pro,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## How to Hide/Fake Snapchat Location on Your Nubia Red Magic 8S Pro
 
 The GPS functionality is very prominent these days. Especially when various apps or websites are making use of your geological location to deliver more relevant content. Be it, social networking apps or gaming apps, for instance, Snapchat, and Pokemon Go respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat interface](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-1.jpg)
 
 Talking about Snapchat, this app offers you different badges and filters depending upon your Geographical location. It actually utilizes the GPS feature of your device to determine where you are located. This can sometimes be annoying as you may wish to access a filter or badge that is not available at your Geological location. Now, this is where you need the Snapchat spoof location app. You not only can hide your actual location from Snapchat. Instead, cast a fake location on Snapchat map, and eventually, you can easily access the badges/filters at your convenience!
@@ -41,6 +44,9 @@ When it comes to **fake Snapchat location** there can be several reasons behind 
 - Another reason is that is absolutely fun to trick people into believing that you’re spending your leisure time on an expensive tour. For instance, you can check in to a classy restaurant (you’ve never been to in real) in Dubai by mocking the GPS location.
 - Even better for the kids who wish to fake GPS location to hide their real location over the location-sharing SnapMap feature from their parents, family, or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. How to hide location on Snapchat
 
 When it comes to disabling or hiding the location on Snapchat, the tutorial is extremely easy. Snapchat itself offers you a setting called Ghost mode. You just need to enable it. Here’s how to get it done.
@@ -74,6 +80,9 @@ Step 1: To begin with this Snapchat location spoofer, simply head to the officia
 
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![opt for the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
@@ -86,14 +95,29 @@ Step 4: It’s time to activate the “Teleport Mode”. To do this, all you nee
 
 Step 5: A few moments later, the system will perceive the desired location you have entered. A pop-up box will come up where the distance will be shown. Click on the “Move Here” option in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![distance shown](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![view the new location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 
@@ -106,6 +130,9 @@ Step 1: Install Xcode and Set up a Dummy app
 
 1. Grab your Mac computer first and then head over to the App Store. Now, look for the Xcode application and get it installed on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
     ![look for Xcode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-5.jpg)
 
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
@@ -114,12 +141,18 @@ Step 1: Install Xcode and Set up a Dummy app
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
 
 1. On the upcoming screen, Xcode will throw up a pop-up message stating “Please tell me who you are” and some GIT commands that you need to execute.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![Setup GIT](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-8.jpg)
 
 2. For this, fire up the “Terminal”over your Mac and then execute the commands as follows:
@@ -129,10 +162,16 @@ Step 2: Setup GIT on Xcode
 
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Nubia Red Magic 8S Pro to your Mac computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
     ![connect iphone to mac](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-10.jpg)
 
 7. Once done, opt it in as the build device and while you do it, ensure to keep it unlocked.
@@ -153,6 +192,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 3. Install the Fake GPS Free app for Snapchat and then launch it afterwards. On the main screen, you’ll be asked to“ENABLE MOCK LOCATIONS”. Hit on it and you’ll be redirected to the“Developer options” screen.
 4. Here, you need to simply tap on the “Select Mock Location App” option and opt for “FakeGPS Free” from the list of options appearing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
     ![FakeGPS Free](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-12.jpg)
 
 **Note:** You may need to enable the “Developer options” first to access these settings. For this, head to the “Settings”>“About Phone”> hit on “Build Number” – x7 times.
@@ -175,8 +217,14 @@ When it comes to dating application or website, Skout has made its appearance in
 
 Since it is a location-based app, many times you might have questioned like “how can I change my location on Skout”. If yes, this article is what just you need. We will assist you how to change location on Skout on Android as well as iOS devices. Scroll down and get to know more!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: 2 Solutions to Change Skout Location on iOS
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.1 Change Skout Location on iOS using a GPS Simulator
 
 When you are an iPhone user, the best way to change Skout location is using [dr.fone – Virtual Location (iOS)](https://www.wondershare.com/ios-virtual-location.html). This tool performs way better than any other in the market when you want to change iOS location. With the help of this, you can easily teleport anywhere across the world. Moreover, you can fake routes and show moving from various places. It is completely safe to use and a user-friendly one. Here is how you can do Skout location change on PC using this tool.
@@ -209,6 +257,9 @@ Now, from the three icons available at the upper right side of the page, click o
 
 The program will no longer take time and easily understand the location. It will display a pop-up from where you need to click on the “Move Here” button. The location will be successfully changed now. You can now see the changed or spoofed location on your Nubia Red Magic 8S Pro easily.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![spoof location for skout](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 
@@ -237,16 +288,25 @@ Another way to get the Skout location changed is through Cydia. Cydia is basical
 
 If you are still comfortable using Cydia to change Skout location, let us move on the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step by Step Guide on how to change location on Skout app
 
 **Step 1:** Open CYdia in the first place and search for “FakeLocation”.
 
 **Step 2:** Tap on “Modify” and get back to the Homescreen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Home screen](https://images.wondershare.com/drfone/article/2019/11/cydia-1.jpg)
 
 **Step 3:** Look for the FakeLocation app icon now and tap on it. Once you open it, tap on “Choose my fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Choose my fake location](https://images.wondershare.com/drfone/article/2019/11/cydia-2.jpg)
 
 **Step 4:** Use the map to adjust at the location you want to spoof.
@@ -257,10 +317,16 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 ![enjoy new location](https://images.wondershare.com/drfone/article/2019/11/cydia-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Change Skout Location on Android with a Spoofer App
 
 If you are an Android user and wondering how to change your location on Skout, all you need is a spoofer app. You can get a lot of options from Play Store. However, one of the popular apps that can be relied upon is Fake GPS GO Location Spoofer Free. This app doesn’t require rooting if your device is having Android version 6 and more. You can easily create routes with this app. Let us know how this works.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step by Step Guide to change Skout location via FakeGPS Go
 
 **Step 1:** Before you get the app installed it is important to turn on the developer options firstly. And to do this, all you need is to go to the “Settings” in your device and tap on “About Phone”.
@@ -279,6 +345,9 @@ If you are an Android user and wondering how to change your location on Skout, a
 
 **Step 6:** Now, get back to the Fake GPS app and the look for the route that you want to spoof. Press on the Play button and you are good to go. Your location will be changed on Skout.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps android](https://images.wondershare.com/drfone/article/2019/11/fake-gps-android.jpg)
 
 **Limitations:**
@@ -288,6 +357,9 @@ If you are an Android user and wondering how to change your location on Skout, a
 - Some apps require you to root your device in order to let you proceed with spoofing properly.
 - When you spoof your location with the app too frequently, this may make your profile under suspicious activity monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Use Tinder instead
 
 Tinder has its own popularity among today’s generation and it has revolutionized the way of dating. If you are interested in faking location on a dating app, using Tinder will be our next suggestion. Unlike Skout, Tinder offers it own Tinder + feature in order to assist you in changing the location of your device. The condition is to subscribe the plan for Tinder +.
@@ -304,18 +376,31 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 **Step 4:** Choose “Settings” and hit on “Swiping in” option. Next, tap on “Add a new location” and then you know what to do.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tinder plus](https://images.wondershare.com/drfone/article/2019/11/tinder+.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Nubia Red Magic 8S Pro Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Nubia Red Magic 8S Pro/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -326,6 +411,9 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
@@ -336,6 +424,9 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -380,6 +471,9 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -396,6 +490,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -431,3 +528,26 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-yuva-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Yuva 2 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-yuva-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Yuva 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-lava-yuva-2-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Lava Yuva 2 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-yuva-2-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Yuva 2 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Yuva 2 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Yuva 2 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lava-yuva-2-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lava Yuva 2 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 | Dr.fone
-date: 2024-03-27 23:11:51
-updated: 2024-03-29 19:39:36
+date: 2024-07-24T18:06:45.549Z
+updated: 2024-07-25T18:06:45.549Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2
 keywords: change skype location for Android,change skype location for OnePlus Ace 2,change Twitter location for OnePlus Ace 2,fake skype location for Android,change facebook location for Android,fake location for Android
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2
@@ -45,12 +45,18 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -71,6 +77,9 @@ Start by downloading and installing Dr.Fone from the official website and launch
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
@@ -81,6 +90,9 @@ On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 _**Bonus tip: How to make your new Messenger location more believable**_
@@ -103,16 +115,28 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## How to Share/Fake Location on WhatsApp for OnePlus Ace 2
 
 Whether you have Android or iPhone, at some point, you need to trick your phone that you are somewhere else. It can be weird as most of us use the GPS app to get our real location, find directions, and see weather updates. However, in some situations, we need to **[fake locations](https://www.virtuallocation.com/fake-location/)** to get access to some features on our phones or do something else legitly. So, if you want to know how to send a fake location on WhatsApp, then we have a detailed guide for you.
@@ -129,6 +153,9 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -147,6 +174,9 @@ As you've learned some essential merits and demerits about sharing locations on 
 
 ![send whatsapp location](https://images.wondershare.com/drfone/article/2024/01/share-fake-location-on-whatsapp-android-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Pin a Location in WhatsApp Location Service
 
 #### 2.2.1 Merits & Demerits
@@ -163,10 +193,16 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 2\. Select the icon that looks like a paperclip and choose the Location option.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
 
 Specify the period and continue you begin the sharing.
@@ -203,6 +239,9 @@ _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
@@ -217,10 +256,16 @@ To change your location, move the pin as per your requirements, and click on the
 
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 You can also open any app on your OnePlus Ace 2 and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
@@ -233,6 +278,9 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 
@@ -255,6 +303,9 @@ To get your real location back, you will have to reboot your OnePlus Ace 2. But 
 
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
 The main purpose of using [third-party apps to fake locations](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) on WhatsApp is to triangulate your current position. That is why the most important thing in a good GPS faking app is accuracy. If you browse the Google Play Store, you will find unlimited applications that can serve this purpose. But don’t always go for the first choice. Look for features in the app you want such as:
@@ -266,6 +317,9 @@ The main purpose of using [third-party apps to fake locations](https://drfone.wo
 
 You can use [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&&hl=en) (or any other app you see proper) to help fake WhatsApp locations on Android. You can also use any other app considered suitable. The operations are just similar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2. How to Fake Your Location?
 
 You will be glad to know that it is not that hard to fake live location for WhatsApp if you are using the right application. Here, we will explore using the Fake GPS Location app to share a fake location.
@@ -288,10 +342,16 @@ Step 4: Now, open WhatsApp and click on the Share location option. Choose the op
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
 
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
@@ -300,6 +360,9 @@ Bonus Tip: How to transfer WhatsApp data from one device to another device witho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from One Device to Another Device.
@@ -312,6 +375,9 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 
 **3,480,561** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
@@ -324,6 +390,9 @@ If you’re intrigued by maintaining privacy on Life360, read on further. Learn 
 
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
 **Life360 Ghost Mode** is a workaround and not an official feature. It’s an unofficial term for those who hide or spoof their GPS location within the Life360 platform.
@@ -335,6 +404,9 @@ If you’re intrigued by maintaining privacy on Life360, read on further. Learn 
 
 Now that you know all of **Life360 Ghost Mode updates** and their significance, let’s explore the steps to enable it. Learn how to activate Ghost Mode within the Life360 app by using a dedicated tool.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
 ## Part 2. How To Activate Ghost Mode on Life360
@@ -361,6 +433,9 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
 Follow these step-by-step instructions to activate **Ghost Mode on Life360** using Dr.Fone - Virtual Location:
@@ -371,10 +446,16 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
@@ -397,6 +478,9 @@ Others won’t know your location, potentially leading to miscommunication or em
 
 You can engage in activities like sneaking out without being monitored by their Life360 circle.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Pros of Ghost Mode Activation
 
 Here are the pros of using **Ghost Mode on Life360**.
@@ -405,6 +489,18 @@ Here are the pros of using **Ghost Mode on Life360**.
 - **Freedom of movement.**Offers freedom in activities without constant location tracking.
 - **Privacy control**. You have control over when and how you share your location information.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cons of Ghost Mode Activation
 
 Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
@@ -413,10 +509,17 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 - **Accident risk.**Lack of real-time tracking may hinder quick assistance in case of accidents.
 - **Communication challenges.** Potential for miscommunication as your true whereabouts remain undisclosed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 4. Other Methods To Turn Off Location on Life360
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -434,6 +537,9 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
@@ -449,6 +555,9 @@ Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone 
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 4: Turn on Airplane Mode
 
 Activating Airplane Mode deactivates all network connections. It includes GPS, offering a swift solution to cease location sharing on Life360. The action also suspends calls, texts, and internet access, so keep that in mind. Follow the steps:
@@ -490,3 +599,31 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-11r-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus 11R by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Does find my friends work on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-11r-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus 11R in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-11r-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus 11R Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-11r-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus 11R Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus 11R Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus 11R | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Samsung Galaxy A23 5G in 3 Ways | Dr.fone
-date: 2024-03-27 13:50:21
-updated: 2024-03-29 13:18:11
+date: 2024-07-24T18:49:49.516Z
+updated: 2024-07-25T18:49:49.516Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Samsung Galaxy A23 5G in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Samsung Galaxy A23 5G in 3 Ways
 keywords: change location for Samsung Galaxy A23 5G,change location for Android,change WhatsApp location for Samsung Galaxy A23 5G,change Twitter location for Android,fake facebook location for Android,change skype location for Samsung Galaxy A23 5G,change facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Samsung Galaxy A23 5G in 3 Ways
@@ -21,10 +21,17 @@ Telegram is an ad-free messaging application for Android and iOS. This app was e
 
 There are numerous reasons to fake location on Telegram. However, here are the main ones:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### 1\. Protect your privacy
 
 While signing up on Telegram, you’ll often allow the messaging app to track your GPS location. Unfortunately, this also applies to other messaging apps like Facebook, WhatsApp, Instagram, etc. Therefore, to prevent Telegram from accessing and sharing your real-time location, you’ll need to spoof GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 2\. Prank your friends
 
 Social media pressure is real. But instead of the negativity, you can concentrate on the prank side of it. For example, you might want to convince your close cousin or new girlfriend that you live and work in Las Vegas when you’re actually in Texas. Whichever the case, spoofing your location can give you a new social status.
@@ -60,6 +67,15 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 #### Step 2. Link your smartphone to Dr.Fone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![ connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
@@ -68,12 +84,18 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 #### Step 3. Choose your desired location and move
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
 Using a VPN (Virtual Private Network) is arguably the most reliable way to create a **Telegram fake GPS**. With a professional VPN service, you can change your device’s IP address and access international websites, TV stations, movie channels, and so on. In other words, it connects you to a computer server in a country where you’re typically restricted. Popular VPN services include NordVPN and ExpressVPN.
@@ -92,12 +114,21 @@ Step 1. Fire up Play Store and search for “fake GPS location.” You’ll see 
 
 Step 2. Next, open **Additional Settings** and choose **Developer options** on your phone. Then, set Fake GPS location as the mock location app.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q1: Can my friends know when I fake a Telegram location?
 
 Unfortunately, you can easily detect if someone is faking their Telegram GPS location. A fake location usually has a “red pin” on the address. The actual location doesn’t.
@@ -110,6 +141,9 @@ You’ll be surprised to learn that Telegram offers better security features tha
 
 Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as Android. In other words, you can’t just install a GPS app from Play Store and enjoy the new sites. So, use a program like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) or purchase a VPN service.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
@@ -118,6 +152,9 @@ There you go; you can now create a new Telegram location to prank your friends o
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## How to Change Location on TikTok to See More Content On your Samsung Galaxy A23 5G
 
 TikTok is a famous entertainment application that shows exciting content worldwide. It is now a popular application with a recorded 3 billion downloads while surpassing the popularity of Facebook and Twitter in 2018. But, sadly, the application keeps on being the victim of restrictions and bans in different countries worldwide.
@@ -134,6 +171,10 @@ Your information becomes easily accessible to everyone. Moreover, it is also men
 
 If you don't want to add your location on TikTok, you will have to deny the permissions on your phone. Hence, knowing how to change location on TikTok is necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 2: Why We Need to Change Location on TikTok
 
 We have discussed how TikTok gets to know about your location in the first part. Now, we will share why do we need to **change location on TikTok:**
@@ -180,12 +221,18 @@ The first step demands you download Dr. Fone's Virtual location and install it. 
 
 A new window will be opened, and your real location will be displayed on the Dr.Fone map. If you can't see it, click on the “Center On” icon at the right sidebar to show the location.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access your real location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3: Activate the Teleport Mode**
 
 Now, click on "Teleport Mode" by pressing the first icon on the upper-right side. Now, provide the place you want to teleport to in the search bar. Next, press the "Go" button and press the "Move Here" button from the popup box.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![move to displayed location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 4: Your Location is Changed**
@@ -234,14 +281,23 @@ With the given following steps, you can set up ExpressVPN on your computer and a
 
 **Step 3:** Once you are connected, you will be able to use TikTok and watch content from the selected region with enhanced privacy and security.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change tiktok location with expressvpn](https://images.wondershare.com/drfone/article/2022/05/change-location-on-tiktok-4.jpg)
 
 ## Part 4: FAQs about TikTok Location
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### **1\. Is it not legal to change the TikTok location?**
 
 It is legal to do so unless you are not misusing the application and watching objectional content from the region.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### **2\. How to turn off the GPS on TikTok?**
 
 For Android devices, open the "Settings: and reach the "Location" tab. Now, press on the "App Permission" option and search for TikTok. Now, click on "Don't Allow."
@@ -252,12 +308,22 @@ For the iOS device, open the "Settings" app and click on "Privacy." Further, cli
 
 Yes, TikTok will not be able to detect that you are using a VPN. Therefore, you will not be banned from using the application. It is safe to access TikTok with a VPN because it hides your IP address and location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 We have extensively concluded different methods involved in **How to change location on TikTok**. For iOS and Android devices, you can do so with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Besides, you can manually change your language or SIM card to access the content of the particular region. If you use a computer, you can use ExpressVPN and change the location of your device while hiding your IP address.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A23 5G
 
 Life360 is a popular location-sharing app among families and friends. The platform enables real-time tracking of loved ones’ whereabouts on smartphones. But there are moments when you might want to disable it for privacy.
@@ -266,6 +332,9 @@ If you’re intrigued by maintaining privacy on Life360, read on further. Learn 
 
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
 **Life360 Ghost Mode** is a workaround and not an official feature. It’s an unofficial term for those who hide or spoof their GPS location within the Life360 platform.
@@ -279,6 +348,9 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
@@ -317,12 +389,18 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
 Activating Ghost Mode on Life360 through a virtual location changer presents both advantages and potential drawbacks.
@@ -339,6 +417,9 @@ Others won’t know your location, potentially leading to miscommunication or em
 
 You can engage in activities like sneaking out without being monitored by their Life360 circle.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Pros of Ghost Mode Activation
 
 Here are the pros of using **Ghost Mode on Life360**.
@@ -347,6 +428,9 @@ Here are the pros of using **Ghost Mode on Life360**.
 - **Freedom of movement.**Offers freedom in activities without constant location tracking.
 - **Privacy control**. You have control over when and how you share your location information.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cons of Ghost Mode Activation
 
 Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
@@ -355,6 +439,9 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 - **Accident risk.**Lack of real-time tracking may hinder quick assistance in case of accidents.
 - **Communication challenges.** Potential for miscommunication as your true whereabouts remain undisclosed.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Other Methods To Turn Off Location on Life360
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
@@ -369,6 +456,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -376,6 +466,9 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
@@ -387,10 +480,16 @@ Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone 
 
 **For iOS**: Open the **Settings** app on your Samsung Galaxy A23 5G or iPad. Tap on **Wi-Fi**. Select the **i** icon beside the connected Wi-Fi network. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Turn on Airplane Mode
 
 Activating Airplane Mode deactivates all network connections. It includes GPS, offering a swift solution to cease location sharing on Life360. The action also suspends calls, texts, and internet access, so keep that in mind. Follow the steps:
@@ -405,6 +504,9 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Method 6: Use a VPN Service
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
@@ -430,3 +532,43 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Does find my friends work on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-12r-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus 12R Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus 12R Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-12r-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus 12R by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-12r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus 12R to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-12r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus 12R Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-12r-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus 12R in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oneplus-12r-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on OnePlus 12R Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-12r-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 12R Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-12r-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus 12R Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-12r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus 12R Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-12r-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus 12R Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On OnePlus 12R Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus 12R | Dr.fone</u></a></li>
+</ul></div>

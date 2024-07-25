@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro | Dr.fone
-date: 2024-03-28 13:48:40
-updated: 2024-03-29 13:36:44
+date: 2024-07-24T20:49:36.221Z
+updated: 2024-07-25T20:49:36.221Z
 tags: 
   - virtual location change
   - social app
@@ -10,13 +10,16 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro
 keywords: fake facebook location for Android,change skype location for Realme GT 5 Pro,change facebook location for Realme GT 5 Pro,change facebook location for Android,fake skype location for Android,change WhatsApp location for Android,change Twitter location for Realme GT 5 Pro,fake location for Android,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro
 
 Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: The Benefits of Changing Location on Facebook Messenger
 
 There are numerous reasons to learn how to send fake locations on Messenger, just as initially said. Here are some of them:
@@ -37,6 +40,9 @@ Your online security is paramount. And one way to protect yourself from online s
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Change Location on Facebook Messenger
 
 After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
@@ -65,12 +71,18 @@ Here's how to fake live location on Messenger with Dr.Fone:
 
 **Step 1. Download Dr.Fone and fire it up.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Start by downloading and installing Dr.Fone from the official website and launch the software on your Mac or Windows PC. Then, connect your smartphone to the PC using a USB wire. Please ensure to select the "Transfer Files" option.
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
@@ -91,6 +103,9 @@ Up to this point, you shouldn't have any qualms spoofing your live location on F
 
 So, use Dr.Fone to fake location on Messenger with unreal precision. This third-party location changer allows you to teleport your location to anywhere. You can even change Messenger location by walking, driving, or cycling. Then to make it more believable, you can share a post with a screenshot of your new location. Remember, your new location will be visible to all your Facebook friends.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. FAQ: What People Also Ask about Facebook Location Services
 
 ### 1\. Why is my Facebook Messenger location wrong?
@@ -122,6 +137,9 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: How to track friends using iPhone or Android
 
 ### 1.1 Tracking Friends using iPhone
@@ -132,6 +150,9 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.1 You will find the "Find Friend" on your Home screen. In IOS 13, you will have to launch the "Find MY" app.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to use Find my friends app 1](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-1.jpg)
 
 1.1.2 Tap "Add Friends."
@@ -140,6 +161,9 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.4 Tap Send.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![How to use Find my friends app 2](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-2.jpg)
 
 1.1.5 Now select a time option.
@@ -160,6 +184,9 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Find my friends
 
 This app is straightforward and pretty simple to use. You can look at the map and find your friends at any time. Your friends also can keep track of you. SO, if security is your concern," "Find my friend" is perfect for you. You can also chat with friends while they are on route.
@@ -178,8 +205,14 @@ Familo is the best working "finding friend" app. The app is regularly updated, a
 
 What makes Glympse different from others is the fact that you don't even need to sign up here! You can set up a group for a specific time, and share your location to anyone you want to. You can even share your places via the web. If you wish to track your friends temporarily or contact someone for a specific period, Glympse is the right choice for you. And, if someone is not comfortable with the idea of location sharing, you can send your location via the web. They can use the shared link to know your area without ever installing the app. But, if you want to check up on your loved ones continually, then Glympse cannot satisfy your demand. As a temporary service, your location sharing link will be activated for four hours at most.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![glympse app](https://images.wondershare.com/drfone/2023/virtuallocation/glympse-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
@@ -190,8 +223,14 @@ Life360 is a popular location-sharing app among families and friends. The platfo
 
 If you’re intrigued by maintaining privacy on Life360, read on further. Learn how to activate the **Life360 Ghost Mode**. It’s a valuable feature when you need personal space without alerting your family or friends. Uncover the steps to use **Ghost Mode in Life360** through a location-sharing app. Enjoy a balance between staying connected and maintaining your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
 **Life360 Ghost Mode** is a workaround and not an official feature. It’s an unofficial term for those who hide or spoof their GPS location within the Life360 platform.
@@ -211,6 +250,10 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Spoof your location without leaving home**
@@ -239,16 +282,28 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
 Activating Ghost Mode on Life360 through a virtual location changer presents both advantages and potential drawbacks.
@@ -265,6 +320,9 @@ Others won’t know your location, potentially leading to miscommunication or em
 
 You can engage in activities like sneaking out without being monitored by their Life360 circle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Pros of Ghost Mode Activation
 
 Here are the pros of using **Ghost Mode on Life360**.
@@ -285,16 +343,25 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
 
 - **Step 1**: Launch Life360 on your phone. Turn off WiFi and data; you can specifically disable them on iPhones for the Life360 app.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning off life360 wifi and data](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-08.jpg)
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -302,6 +369,9 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
@@ -317,12 +387,19 @@ Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone 
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Method 4: Turn on Airplane Mode
 
 Activating Airplane Mode deactivates all network connections. It includes GPS, offering a swift solution to cease location sharing on Life360. The action also suspends calls, texts, and internet access, so keep that in mind. Follow the steps:
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
@@ -335,6 +412,10 @@ While it may seem cumbersome, using a burner phone is a straightforward method t
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 **Life360 Ghost Mode**, though not an official feature, provides a discreet way to enhance privacy within the app. While it’s a valuable tool for moments when you need personal space, be aware of its downsides. If Ghost Mode seems too risky, explore alternative methods.
@@ -356,3 +437,36 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+</ul></div>

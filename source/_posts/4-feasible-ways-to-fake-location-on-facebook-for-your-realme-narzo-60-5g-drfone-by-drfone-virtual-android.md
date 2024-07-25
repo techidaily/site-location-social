@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo 60 5G | Dr.fone
-date: 2024-03-27 10:39:16
-updated: 2024-03-29 13:36:30
+date: 2024-07-24T20:41:44.613Z
+updated: 2024-07-25T20:41:44.613Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo 60 5G
 excerpt: This article describes 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo 60 5G
 keywords: change location for Android,change Twitter location for Realme Narzo 60 5G,fake WhatsApp location for Android,fake location for Android,change WhatsApp location for Realme Narzo 60 5G,fake skype location for Android,change facebook location for Realme Narzo 60 5G,change skype location for Realme Narzo 60 5G
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## 4 Feasible Ways to Fake Location on Facebook For your Realme Narzo 60 5G
@@ -31,10 +31,16 @@ Step 3. Now tap the **Pencil** icon to change the current city/town. You can als
 
 Step 4. Finally, tap the **Save** button, and Facebook will automatically update your current location. To see if the changes have been applied, tap the **About** tab to see your new profile.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![changing location on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-01.jpg)
 
 **Note:** Although you can successfully change your bio, Facebook will still access your actual location. Now this means your Facebook recommendations and adverts will still be based on your locality. So, keep reading to learn other reliable ways to spoof your Facebook location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Change Facebook Location on Android phone
 
 Unlike the strict iPhones, Android allows you to install a third-party app to change the GPS location of your device and Facebook, to be precise. This means you don't need to fork out some serious money for a VPN service. So, in this section, you'll learn to fake a Facebook location on Android using the [Fake GPS location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US) app. It is a free program for teleporting your phone IP address to new places with a simple screen tap. Let's see how to do that:
@@ -63,6 +69,9 @@ Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key i
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Fake Location for Facebook's Nearby Friends via a Tool
 
 While signing up on Facebook, you'll be requested to allow the platform access to your actual GPS location. This will enable Facebook to correctly tailor adverts, friends, and other recommendations based on your location. But unfortunately, it can be challenging to change the actual location unless you're willing to spend top dollar on a VPN service. Put, you'll need to spoof your IP address to change the exact location.
@@ -87,6 +96,9 @@ Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
 **Step 1. Download and open Dr.Fone.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Dr.Fone on your Mac or Windows PC and then connect your phone to your computer using a USB cable. After that, select the file transfer option on your phone and then tap **Virtual Location** on Dr.Fone.
@@ -111,6 +123,15 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## How to Change your Realme Narzo 60 5G Location on Twitter
 
 Twitter is one of the most used social media platforms of today's time, where anyone can voice their opinion regarding any trend or event in the form of short messages. Moreover, it's a free platform that displays the hot debates and news based on your country, which is usually a good thing.
@@ -143,22 +164,34 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 **Step 1:** First, go to the Twitter website and log in with your username and password.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
 
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open account information settings](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-5.jpg)
 
 **Step 3:** You will be asked to enter your password. After confirming your password, click on the “Country” you wish to change your Location.
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is the Difference between My Profile Location and My Country Setting on Twitter?
 
 Country setting and profile location are both entirely different things. The country setting determines what trends and news will be displayed on your discovery page.
 
 In contrast, profile location is your public location that other users can see when visiting your profile. Therefore, changing your country setting will not impact your original profile location unless you make a change yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Fake Location on Twitter
 
 In this technological era, changing your location to the other end of the world is just a few clicks of tasks; various software is available on the market, such as Dr.Fone, which can easily spoof your location.
@@ -195,6 +228,9 @@ One of the reasons people prefer to spoof their location is to socialize and mak
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Fake Twitter Location by Dr.Fone - Virtual Location
 
 With Dr.Fone – Virtual Location, you can easily fake your Twitter location with a few simple steps:
@@ -203,6 +239,9 @@ With Dr.Fone – Virtual Location, you can easily fake your Twitter location wit
 
 Firstly, download and install the Dr.Fone – Virtual Location tool on your computer and launch it. Then, select the “Virtual Location” tool from the displayed Dr. Fone tools.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect your Mobile**
@@ -221,12 +260,18 @@ You can now see your actual location on the displayed maps and if the location i
 
 Finally, click on the “Move Here” icon in the popup box, and your GPS will be located at that particular location. Now launch the Twitter app, and it will directly display your selected spoof location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: FAQs About Twitter Location
 
 1. **Could your location be tracked via Twitter?**
@@ -249,6 +294,9 @@ In 2020, Twitter changed its privacy by removing worldwide trends. Still, few gl
 
 Twitter is one of the most content-consuming social platforms globally. Its users are always thirsty to debate and share their opinions on various topics, which can, unfortunately, be restricted because of the limited exposure to global trends. But with the help of this detailed article, anyone can easily **change Twitter location** to the desired region.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 
@@ -269,6 +317,9 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -285,8 +336,14 @@ As you've learned some essential merits and demerits about sharing locations on 
 
 2\. This leads you to a new screen that shows your location status. Look for the "Search" bar on the top and type in the location you want to send. Observe the search results and tap on the location to send it to the individual.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![send whatsapp location](https://images.wondershare.com/drfone/article/2024/01/share-fake-location-on-whatsapp-android-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.2. Pin a Location in WhatsApp Location Service
 
 #### 2.2.1 Merits & Demerits
@@ -303,6 +360,9 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 2\. Select the icon that looks like a paperclip and choose the Location option.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
@@ -333,10 +393,16 @@ _Step 1: Launch the Virtual Location app_
 
 To start with, launch the Dr.Fone toolkit on your computer and launch the “Virtual Location” feature from its home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Using an authentic lightning cable, connect your Realme Narzo 60 5G to the computer and click on the “Get Started” button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect your Realme Narzo 60 5G to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 _Step 2: Look for any location of your choice_
@@ -347,16 +413,25 @@ A map-like interface would be launched on the screen with dedicated options at t
 
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 _Step 3: Share fake location on WhatsApp_
 
 To change your location, move the pin as per your requirements, and click on the “Move Here” button to mock your location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![mock your location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 You can also open any app on your Realme Narzo 60 5G and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
@@ -369,6 +444,10 @@ You already know how to send fake locations on WhatsApp via teleport mode, you c
 
 Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top right side of the screen and set the points on the screen in which you want to show your movement on WhatsApp.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
@@ -377,6 +456,9 @@ Step 2: Afterward, select the trip type, number of rounds, and speed according t
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
 Unfortunately, faking your WhatsApp location on iPhone is not as easy as you think. You can't just download an app that will help you to fake WhatsApp live location. Instead, you will have to use a computer program for this. There is a special tool designed by ThinkSky called iTools. It will allow the users to pick any location and trick your Realme Narzo 60 5G apps into believing that you are actually at that location.
@@ -387,6 +469,9 @@ Step 1: Install the iTools software on your computer and connect your Realme Nar
 
 Step 2: Enter the fake location in the search box and let the software detect the location. The marker will automatically land on the map. Tap on the "Move Here" option on the screen, and your Realme Narzo 60 5G location will instantly move to that particular location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
@@ -395,6 +480,9 @@ To get your real location back, you will have to reboot your Realme Narzo 60 5G.
 
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
 The main purpose of using [third-party apps to fake locations](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) on WhatsApp is to triangulate your current position. That is why the most important thing in a good GPS faking app is accuracy. If you browse the Google Play Store, you will find unlimited applications that can serve this purpose. But don’t always go for the first choice. Look for features in the app you want such as:
@@ -412,6 +500,9 @@ You will be glad to know that it is not that hard to fake live location for What
 
 Step 1: Open Settings > Privacy > Location Services and turn the setting on. Also, make sure that WhatsApp has access to your GPS location and install the app on your Realme Narzo 60 5G from the Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Play Store](https://images.wondershare.com/drfone/article/2019/10/fake-gps-location-app.jpg)
 
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
@@ -420,10 +511,16 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
@@ -432,6 +529,9 @@ If you have shared the fake live location, remember to change it after 15 or 30 
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
 
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
@@ -440,6 +540,9 @@ Bonus Tip: How to transfer WhatsApp data from one device to another device witho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
 One-click to transfer WhatsApp messages from One Device to Another Device.
@@ -471,3 +574,27 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-c300-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia C300 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-nokia-c300-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-nokia-c300-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia C300 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-c300-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia C300 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c300-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C300 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c300-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nokia C300 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-c300-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia C300 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia C300 | Dr.fone</u></a></li>
+</ul></div>

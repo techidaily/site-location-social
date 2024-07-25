@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Samsung Galaxy A05s | Dr.fone
-date: 2024-03-26 10:15:52
-updated: 2024-03-29 22:40:55
+date: 2024-07-24T19:17:23.324Z
+updated: 2024-07-25T19:17:23.324Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Does find my friends work on Samsung Galaxy A05s
 excerpt: This article describes Does find my friends work on Samsung Galaxy A05s
 keywords: fake facebook location for Android,change Twitter location for Samsung Galaxy A05s,change location for Samsung Galaxy A05s,change facebook location for Android,change skype location for Android,fake skype location for Android,change skype location for Samsung Galaxy A05s,change WhatsApp location for Samsung Galaxy A05s,change WhatsApp location for Android,fake WhatsApp location for Android,change facebook location for Samsung Galaxy A05s
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Does find my friends work on Samsung Galaxy A05s
@@ -20,6 +20,9 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: How to track friends using iPhone or Android
 
 ### 1.1 Tracking Friends using iPhone
@@ -30,6 +33,9 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.1 You will find the "Find Friend" on your Home screen. In IOS 13, you will have to launch the "Find MY" app.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to use Find my friends app 1](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-1.jpg)
 
 1.1.2 Tap "Add Friends."
@@ -38,20 +44,32 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 1.1.4 Tap Send.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![How to use Find my friends app 2](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-2.jpg)
 
 1.1.5 Now select a time option.
 
 If you want to share your location, launch the app first. Then Tap "Me." Then, keep your "Share My Location" switched on.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.2 Tracking Friends Using Android
 
 Android users can also use this find my friends app. Even if someone in your group does not use a smartphone (seriously?), you can track them. You can send an invite, and if they agree, you can find your friend anytime. Remember, iPhone or Android, whatever the platform, all the members of the group have to agree with location sharing; otherwise, you cannot track them.
 
 You can use find my friends from iPhone to an android user via Google Maps. You need to download the app and activate location service by taping "Allow While Using App" Then you have to select" "Share your location" You can then send your location to your android user friend from the message icon of the Google map.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
@@ -64,6 +82,10 @@ This app is straightforward and pretty simple to use. You can look at the map an
 
 You can also issue an alert to your friends whenever you are in an emergency. All your loved ones will get the address details, current time, and the remaining battery life. If your group has a mix of Android, iOS, and Blackberry, this app is excellent for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
 ### 2.2 Familo
@@ -76,18 +98,30 @@ Familo is the best working "finding friend" app. The app is regularly updated, a
 
 What makes Glympse different from others is the fact that you don't even need to sign up here! You can set up a group for a specific time, and share your location to anyone you want to. You can even share your places via the web. If you wish to track your friends temporarily or contact someone for a specific period, Glympse is the right choice for you. And, if someone is not comfortable with the idea of location sharing, you can send your location via the web. They can use the shared link to know your area without ever installing the app. But, if you want to check up on your loved ones continually, then Glympse cannot satisfy your demand. As a temporary service, your location sharing link will be activated for four hours at most.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![glympse app](https://images.wondershare.com/drfone/2023/virtuallocation/glympse-app.jpg)
 
 ### Conclusion
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A05s
 
 You must know that many social media platforms could track your location. And Snapchat is one of the social media platforms that easily tracks your location and use this information to improve its features and services. But many people concern about their privacy when using social media apps. If in case if you do not want Snapchat to track our location, then a fake Snapchat location could perfectly meet your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Do you really know Snapchat?
 
 Snapchat comes with many effective and best features that could perfectly meet your needs. Some of the best features of Snapchat are Snap Ads, filters, lenses, audio, tune performance, video streaming, instant messaging, and much more. Snapchat is the most lending application for Android and iOS apps. The best thing about this application is that it includes some useful features that you ought to incorporate when creating a Snapchat clone for your business. These features contain both photos and video options.
@@ -98,18 +132,27 @@ Best features of Snapchat:
 
 Snap is the best feature that is loved by all, and it is the core feature of Snapchat. With this useful feature, you could click snaps and share your pictures easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![snapchat introduction](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-2.jpg)
 
 - **Lenses**
 
 The lens features are also included in the Snapchat feature. This feature is a combination of machine learning and artificial intelligence, as it allows you to see your younger and older version. This feature helps you to boost your engagement on your application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![snapchat lenses](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-3.jpg)
 
 - **Voice and video calls**
 
 Snapchat includes the voice and video call feature that could help you to connect your friends and family globally easily.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![voice and video calls](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-4.jpg)
 
 - **Story**
@@ -128,6 +171,9 @@ Snapchat comes with an amazing feature that is called as filters. It includes ma
 
 There are many effective ways of fake Snapchat locations without jailbreak. And some of the effective ways are mentioned below:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Using Fake Location Apps
 
 - **iOS version: Dr.Fone-Virtual Location**
@@ -148,10 +194,16 @@ If you are an iOS user and wish to fake location for a Snapchat map, [Dr.Fone-Vi
 
 Now, enter the location that you desire to teleport and click on the “Go” option.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** The program will analyze the place that you have entered, and it will show you the distance for that place in a pop-up window. Hit on “Move Here”.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit on move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 You will now be able to check the new location whenever you click the “Center On.”
@@ -172,6 +224,9 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 **Step 4:** Now, install the older Google Play Services version that you downgraded earlier. Head to “File Explorer” > “Downloads” and click apk file of Google Play Services. Tap “Install”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap install](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-9.jpg)
 
 **Step 5:** Now, go to “Settings” > “Apps” and tap the menu. Choose “Show System” > “Google Play Store” and disable it.
@@ -184,18 +239,28 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 ![tap on play button](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using VPN
 
 The second effective method to Snapchat fake location is through the help of a VPN. There are a lot of options when it comes to VPN. However, you can choose Surshark if you can’t decide whether it is one of the best VPN that comes with build-in fake GPS tech. It is the cheapest and the VPN that provides you with the perfect way to enhance your Snapchat experience.
 
 ![use vpn for snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Using Xcode
 
 The third method of fake GPS for Snapchat includes Xcode. Through Xcode, you could easily change the Snapchat location. Steps to a fake location with Xcode includes:
 
 **Step 1:** In the first step, you must install Xcode from the Macs app store.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![xcode for snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-13.jpg)
 
 **Step 2:** Launch it and set up a project. Choose “Single View Application” and click “Next”.
@@ -215,6 +280,9 @@ You are required to enter the commands in “Terminal”. Open it and type the f
 
 **Please note:** “<you@example.com>” and “your name” should be changed with your info.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter the commands](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-16.jpg)
 
 **Step 5:** Connect your Samsung Galaxy A05s to Mac and wait as Xcode will begin to process some files.
@@ -223,6 +291,9 @@ You are required to enter the commands in “Terminal”. Open it and type the f
 
 ![click on debug](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What to pay attention to while faking Snapchat location?
 
 There is a certain risk that you may face while using a fake GPS Snapchat map, so you must pay attention while faking Snapchat location. Some of the fake location tools could simulate latitude and longitude perfectly but do not simulate altitude, which may sometime ban your account in Snapchat. Hence you must choose the best tool that could spoof any location without any range limitation.
@@ -235,6 +306,9 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -255,6 +329,9 @@ Life360 has become a household name in location-sharing apps, renowned for its a
 
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 
@@ -262,6 +339,9 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The Purpose of Life360
 
 At its core, Life360 is about safety and connectivity. The app includes features like location history, driving reports, and even crash detection, making it a versatile tool for modern families. It provides several benefits, like:
@@ -270,6 +350,9 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
@@ -293,6 +376,9 @@ Regarding this method, pausing the location sharing for all your circles usually
 
 By understanding and utilizing these features wisely, you can maintain your connection with your loved ones while managing your digital boundaries and battery health effectively. Remember, the aim is to balance connectivity with personal needs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How To Pause Life360 From Settings
 
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
@@ -303,12 +389,19 @@ First, navigate to your Samsung Galaxy A05s’s **Settings**. Then, look for the
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Pause by Using Airplane Mode
 
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
@@ -365,3 +458,30 @@ While it’s always recommended to maintain open communication with your Circle 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-gt-5-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme GT 5 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-gt-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme GT 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-gt-5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme GT 5 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-gt-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme GT 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-gt-5-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme GT 5 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-5-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme GT 5 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-5-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT 5 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-gt-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme GT 5 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme GT 5 | Dr.fone</u></a></li>
+</ul></div>

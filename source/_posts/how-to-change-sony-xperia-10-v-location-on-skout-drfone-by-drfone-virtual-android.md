@@ -1,7 +1,7 @@
 ---
 title: How to Change Sony Xperia 10 V Location on Skout | Dr.fone
-date: 2024-05-20T08:01:29.497Z
-updated: 2024-05-21T08:01:29.497Z
+date: 2024-07-24T16:47:16.069Z
+updated: 2024-07-25T16:47:16.069Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Sony Xperia 10 V Location on Skout
 excerpt: This article describes How to Change Sony Xperia 10 V Location on Skout
 keywords: change Twitter location for Sony Xperia 10 V,fake Twitter location for Android,change WhatsApp location for Sony Xperia 10 V,change facebook location for Android,fake WhatsApp location for Android,fake skype location for Android,change location for Android,change skype location for Sony Xperia 10 V
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## How to Change Sony Xperia 10 V Location on Skout
@@ -19,6 +19,9 @@ When it comes to dating application or website, Skout has made its appearance in
 
 Since it is a location-based app, many times you might have questioned like “how can I change my location on Skout”. If yes, this article is what just you need. We will assist you how to change location on Skout on Android as well as iOS devices. Scroll down and get to know more!
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: 2 Solutions to Change Skout Location on iOS
 
 ### 1.1 Change Skout Location on iOS using a GPS Simulator
@@ -43,6 +46,9 @@ Take your iOS device and get the original lightening cord as well. Make a secure
 
 You will see a map window now. Here, what you firstly need to do is to find the actual location of yours. If you can’t find the accurate location, go to the icon at the lower right part which is “Center On” icon. This will bring the accurate location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![show accurate location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Now, from the three icons available at the upper right side of the page, click on the 3rd one. This will enable the “Teleport Mode”. Once done, enter the name of the place in the field given and hit on “Go”.
@@ -53,6 +59,9 @@ Now, from the three icons available at the upper right side of the page, click o
 
 The program will no longer take time and easily understand the location. It will display a pop-up from where you need to click on the “Move Here” button. The location will be successfully changed now. You can now see the changed or spoofed location on your Sony Xperia 10 V easily.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spoof location for skout](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 
@@ -69,6 +78,9 @@ The program will no longer take time and easily understand the location. It will
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1.2 Change Skout Location on iOS using Cydia
 
 Another way to get the Skout location changed is through Cydia. Cydia is basically a platform that allows you to install the applications that are not validated by Apple. However, you will need to jailbreak your device in order to go ahead.
@@ -81,6 +93,9 @@ Another way to get the Skout location changed is through Cydia. Cydia is basical
 
 If you are still comfortable using Cydia to change Skout location, let us move on the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step by Step Guide on how to change location on Skout app
 
 **Step 1:** Open CYdia in the first place and search for “FakeLocation”.
@@ -91,6 +106,11 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 3:** Look for the FakeLocation app icon now and tap on it. Once you open it, tap on “Choose my fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Choose my fake location](https://images.wondershare.com/drfone/article/2019/11/cydia-2.jpg)
 
 **Step 4:** Use the map to adjust at the location you want to spoof.
@@ -99,6 +119,9 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 5:** Now, you are done. Just open Skout and enjoy the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enjoy new location](https://images.wondershare.com/drfone/article/2019/11/cydia-4.jpg)
 
 ## Part 2: Change Skout Location on Android with a Spoofer App
@@ -119,10 +142,16 @@ If you are an Android user and wondering how to change your location on Skout, a
 
 **Step 5:** Now, you will be directed to the Developer options page. Here, choose “Select mock location app” and tap on “FakeGPS Free” subsequently.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select mock location app](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app-2.jpg)
 
 **Step 6:** Now, get back to the Fake GPS app and the look for the route that you want to spoof. Press on the Play button and you are good to go. Your location will be changed on Skout.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps android](https://images.wondershare.com/drfone/article/2019/11/fake-gps-android.jpg)
 
 **Limitations:**
@@ -148,10 +177,16 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 **Step 4:** Choose “Settings” and hit on “Swiping in” option. Next, tap on “Add a new location” and then you know what to do.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![tinder plus](https://images.wondershare.com/drfone/article/2019/11/tinder+.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Does Sony Xperia 10 V Have Find My Friends?
 
 Yes, Find My Friends App is compatible with Sony  smartphones. This tracker App is exclusive for iPhone users and Android devices. Free for iPhone, iPad, and iPod Touch. When installed on your friends or one of our family member’s smartphone you can stay in touch with them and keep a tab on his/her location. All you require is to request- with whom you want to stay connected- to save your number as a contact on the Find My Friends app, and then you’ll be given access to their real-time geographical location. You can also find Sony  version of Find My Friends app if you are particularly looking for it.
@@ -164,6 +199,9 @@ Download from Google Play Store - [https://play.google.com/store/apps/details?id
 
 Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id466122094](http://apps.apple.com/us/app/find-my-friends/id466122094)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1: Best Alternatives to Find My Friends App
 
 ### Glympse
@@ -176,6 +214,10 @@ This location sharing App also has a safety feature – all "Glympses" sending y
 
 Glympse App from Play Store for Free [http://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en\_IN](http://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en_IN)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Sygic Family Locator
 
 ![find my friends alternative - sygic family locator](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-2.jpg)
@@ -192,6 +234,9 @@ Unlike the Glympse App, others must have this find my friends for Sony  and iPho
 
 Google Play Store. [http://play.google.com/store/apps/details?id=com.sygic.familywhere.android&hl=en\_IN](http://play.google.com/store/apps/details?id=com.sygic.familywhere.android&hl=en_IN)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### GeoZilla
 
 ![find my friends alternative - geozilla](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-3.jpg)
@@ -222,6 +267,9 @@ Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple 
 
 Here’s How to Set-Up Find My Friends App on Your iPhone Device
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Find my friends pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-6.jpg)
 
 If your Sony Xperia 10 V or iPod using iOS via 12, the Find My Friends is already installed. On the other hand, if your Sony Xperia 10 V device is running on the iOS 8 version, then you can install this location tracker from the Apple Play Store for Free.
@@ -230,6 +278,9 @@ When you’ve signed in iCloud on your Sony Xperia 10 V device, you already have
 
 To track or share location with your friend or family member, make sure he/she has the Find My Friends App installed on their device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 3 Simple Steps
 
 **Step 1:** Open the Find My Friends App
@@ -246,6 +297,10 @@ Do you want to spoof your location so your friends can’t find you? For this pu
 
 Thus, you can fake location with flexible GPS movement on the Find My Friends app. Moreover, with this location spoofer, you can fake your location on almost any app, such as Snapchat, Instagram, Tinder, and Find My iPhone. If you want to know more about this virtual location changer, delve into the details below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Notable Features of Dr.Fone - Virtual Location
 
 1. This GPS location changer can spoof your location across apps to protect your privacy. You can even prank your friends on social media platforms and mock locations on dating apps.
@@ -256,6 +311,9 @@ Thus, you can fake location with flexible GPS movement on the Find My Friends ap
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Simplified Steps to Spoof Location on Find My Friends Using Dr.Fone - Virtual Location
 
 While faking location across apps, you can move at different speeds, such as cycling, walking, or driving. As Dr.Fone - Virtual Location keeps you amazed, let’s learn how to use it to change location without hustle.
@@ -264,12 +322,19 @@ While faking location across apps, you can move at different speeds, such as cyc
 
 Head to the main interface of Dr.Fone - Virtual Location by launching it on your Windows PC or MacBook. Connect your smartphone to the system and tap the “Get Started” button to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![press the get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 2: Enable the Teleport Mode and Start Spoofing Your Location**
 
 Following this, confirm your actual location and move to activate the teleport mode. For this, move your cursor to the top right side and click the third icon of “Teleport Mode.” Now, set the location and hit the “Move Here” button so the system can start spoofing the location on the Find My Friends app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -278,6 +343,9 @@ Following this, confirm your actual location and move to activate the teleport m
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Activate and Use Life360 Ghost Mode On Sony Xperia 10 V
 
 Life360 is a popular location-sharing app among families and friends. The platform enables real-time tracking of loved ones’ whereabouts on smartphones. But there are moments when you might want to disable it for privacy.
@@ -299,6 +367,9 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
@@ -333,6 +404,9 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
@@ -341,8 +415,15 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
 Activating Ghost Mode on Life360 through a virtual location changer presents both advantages and potential drawbacks.
@@ -375,6 +456,9 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 - **Accident risk.**Lack of real-time tracking may hinder quick assistance in case of accidents.
 - **Communication challenges.** Potential for miscommunication as your true whereabouts remain undisclosed.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Other Methods To Turn Off Location on Life360
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
@@ -389,6 +473,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -401,12 +488,18 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Method 3: Low Data Mode
 
 Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone to your offline status. An alternative method to deactivate Life360 awareness is by using Low Data Mode:
 
 **For iOS**: Open the **Settings** app on your Sony Xperia 10 V or iPad. Tap on **Wi-Fi**. Select the **i** icon beside the connected Wi-Fi network. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
@@ -421,6 +514,9 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Use a Burner Phone
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
@@ -429,6 +525,9 @@ While it may seem cumbersome, using a burner phone is a straightforward method t
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 **Life360 Ghost Mode**, though not an official feature, provides a discreet way to enhance privacy within the app. While it’s a valuable tool for moments when you need personal space, be aware of its downsides. If Ghost Mode seems too risky, explore alternative methods.
@@ -452,3 +551,28 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a14-4g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A14 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a14-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A14 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a14-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A14 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a14-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy A14 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a14-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A14 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a14-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A14 4G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a14-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A14 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+</ul></div>

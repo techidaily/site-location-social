@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone
-date: 2024-05-20T08:01:49.101Z
-updated: 2024-05-21T08:01:49.101Z
+date: 2024-07-24T17:10:48.496Z
+updated: 2024-07-25T17:10:48.496Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Pause Life360 Location Sharing For Lava Blaze Curve 5G
 excerpt: This article describes How To Pause Life360 Location Sharing For Lava Blaze Curve 5G
 keywords: fake skype location for Android,fake facebook location for Android,change location for Lava Blaze Curve 5G,change location for Android,change facebook location for Lava Blaze Curve 5G,fake location for Android,change WhatsApp location for Lava Blaze Curve 5G
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## How To Pause Life360 Location Sharing For Lava Blaze Curve 5G
@@ -34,6 +34,9 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
@@ -41,6 +44,9 @@ However, there are instances where learning **how to pause Life360** becomes nec
 - **Battery health**. Constant GPS tracking can drain your phone’s battery significantly. Temporarily pausing the app can help conserve battery life.
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Methods To Pause Life360 From the App
 
 Now, the question is, **can you pause your location on Life360?** Pausing Life360 can be done for a specific circle or the entire app. This section will show you some general steps to pause your location for the app. You can do it only for a specific circle or the whole app. Here’s how you can do those.
@@ -49,6 +55,9 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
 #### Pausing the Whole App
@@ -71,8 +80,14 @@ By selecting **Force Stop**, you temporarily halt the app’s function without u
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pause by Using Airplane Mode
 
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
@@ -85,6 +100,9 @@ Removing the app from your device will stop it from sharing your location. The b
 
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
@@ -93,6 +111,9 @@ Sometimes, pausing your location sharing on Life360 may raise questions or conce
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
 To learn how to pause location on Life360 without them knowing using Dr.Fone, follow the steps below:
@@ -114,6 +135,9 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze Curve 5G
 
 Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
@@ -138,6 +162,9 @@ Your online security is paramount. And one way to protect yourself from online s
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change Location on Facebook Messenger
 
 After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
@@ -172,6 +199,9 @@ Start by downloading and installing Dr.Fone from the official website and launch
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
@@ -182,6 +212,9 @@ On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 _**Bonus tip: How to make your new Messenger location more believable**_
@@ -208,6 +241,10 @@ In a typical scenario, it's impossible to lie about your location on Facebook. T
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
@@ -216,22 +253,34 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Hide/Fake Snapchat Location on Your Lava Blaze Curve 5G
 
 The GPS functionality is very prominent these days. Especially when various apps or websites are making use of your geological location to deliver more relevant content. Be it, social networking apps or gaming apps, for instance, Snapchat, and Pokemon Go respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat interface](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-1.jpg)
 
 Talking about Snapchat, this app offers you different badges and filters depending upon your Geographical location. It actually utilizes the GPS feature of your device to determine where you are located. This can sometimes be annoying as you may wish to access a filter or badge that is not available at your Geological location. Now, this is where you need the Snapchat spoof location app. You not only can hide your actual location from Snapchat. Instead, cast a fake location on Snapchat map, and eventually, you can easily access the badges/filters at your convenience!
 
 Sounds interesting, right? Let’s understand more about the tutorials on how to hide/fake location on Snapchat map.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 1. What Snapchat is using your location for?
 
 Snapchat basically utilizes your location for the SnapMap feature that furnishes the location-based filters etc. over your device. This SnapMap feature was unveiled in 2017. If you haven’t deliberately enabled it yet or you’re unaware of this feature, implies that you’re still “off the grid”. If you wish to enable this feature, you literally need to authorize Snapchat “3x times” and the last, fourth one to authorize your device.
 
 With the SnapMap feature enabled, you can easily get to know about the whereabouts of your friends, and in turn, there’re allowed to know yours. As long as the Snapchat app is running over your screen, the SnapMap location of your Bitmoji gets updated dynamically. But as soon as you quit the app, the last known location of your Bitmoji is displayed over the SnapMap.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
 
 ## Part 2. Why people want to hide/fake location on Snapchat?
@@ -244,6 +293,9 @@ When it comes to **fake Snapchat location** there can be several reasons behind 
 - Another reason is that is absolutely fun to trick people into believing that you’re spending your leisure time on an expensive tour. For instance, you can check in to a classy restaurant (you’ve never been to in real) in Dubai by mocking the GPS location.
 - Even better for the kids who wish to fake GPS location to hide their real location over the location-sharing SnapMap feature from their parents, family, or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 3. How to hide location on Snapchat
 
 When it comes to disabling or hiding the location on Snapchat, the tutorial is extremely easy. Snapchat itself offers you a setting called Ghost mode. You just need to enable it. Here’s how to get it done.
@@ -263,6 +315,10 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 4. How to fake Snapchat location on iPhone
 
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
@@ -273,6 +329,9 @@ You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Loca
 
 Step 1: To begin with this Snapchat location spoofer, simply head to the official website of Dr.Fone – Virtual Location (iOS). Download the software package from there and then install it afterwards.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Download the software](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
@@ -281,6 +340,9 @@ Step 2: After successful downloading, open the tool. Now, you need to opt for th
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![current actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 4: It’s time to activate the “Teleport Mode”. To do this, all you need is to click on the first icon given on the upper right side. After this, you need to enter the location where you desire to teleport in the blank field given on the upper left. Hit on “Go” when you’re done.
@@ -289,10 +351,16 @@ Step 4: It’s time to activate the “Teleport Mode”. To do this, all you nee
 
 Step 5: A few moments later, the system will perceive the desired location you have entered. A pop-up box will come up where the distance will be shown. Click on the “Move Here” option in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![distance shown](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
@@ -301,6 +369,10 @@ Also, on your iOS device, you can now Fake Snapchat location or in any other loc
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
 Now, if we talk about fake location for Snapchat map on iPhone, it’s not as easy as it looks. You need to be an extremely tech-savvy person to **fake Snapchat location without jailbreaking** your Lava Blaze Curve 5G. You simply can’t download a Snapchat location spoofer app over your Lava Blaze Curve 5G and fake it. But fret not, we’re glad to bring you a detailed tutorial with which you can easily perform location spoofing on Snapchat and that too, without jailbreaking your Lava Blaze Curve 5G.
@@ -309,10 +381,16 @@ Step 1: Install Xcode and Set up a Dummy app
 
 1. Grab your Mac computer first and then head over to the App Store. Now, look for the Xcode application and get it installed on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
     ![look for Xcode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-5.jpg)
 
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![setup a new project](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-6.jpg)
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
@@ -323,6 +401,9 @@ Step 2: Setup GIT on Xcode
 
 1. On the upcoming screen, Xcode will throw up a pop-up message stating “Please tell me who you are” and some GIT commands that you need to execute.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![Setup GIT](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-8.jpg)
 
 2. For this, fire up the “Terminal”over your Mac and then execute the commands as follows:
@@ -332,6 +413,9 @@ Step 2: Setup GIT on Xcode
 
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Lava Blaze Curve 5G to your Mac computer.
@@ -366,6 +450,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 
     ![activate the fake gps location](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Final Words
 
 While reaching towards the end of the article, we are pretty sure that you now fully understand what it takes to **fake Snapchat location** on Android or iPhone. The aforementioned ways are fully tested and work even without rooting or jailbreaking your devices respectively. Happy Spoofing!
@@ -387,3 +474,34 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-poco-m6-pro-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Poco M6 Pro 4G by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-m6-pro-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco M6 Pro 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-poco-m6-pro-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco M6 Pro 4G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-poco-m6-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Poco M6 Pro 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-m6-pro-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco M6 Pro 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-poco-m6-pro-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco M6 Pro 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco M6 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-pro-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco M6 Pro 4G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-m6-pro-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco M6 Pro 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>

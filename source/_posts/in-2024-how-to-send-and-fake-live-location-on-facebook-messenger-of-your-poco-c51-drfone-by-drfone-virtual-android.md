@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco C51 | Dr.fone
-date: 2024-03-26 10:22:21
-updated: 2024-03-29 16:48:24
+date: 2024-07-24T20:15:19.428Z
+updated: 2024-07-25T20:15:19.428Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Poco C51
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Poco C51
 keywords: change WhatsApp location for Android,fake location for Android,change WhatsApp location for Poco C51,change location for Android,fake facebook location for Android,fake Twitter location for Android,change location for Poco C51,change facebook location for Poco C51,change skype location for Poco C51
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Poco C51
@@ -51,6 +51,9 @@ Step 3. Now tap **Allow Location** and choose a new location on the world map th
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -71,12 +74,18 @@ Start by downloading and installing Dr.Fone from the official website and launch
 
 **Step 2. Launch the Virtual Location tool and enable USB debugging.**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
 
 **Step 3. Launch the map and choose a fake location for Messenger.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
@@ -103,10 +112,16 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
@@ -115,10 +130,16 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Change GPS Location on Poco C51 Easily & Safely
 
 Change GPS Location iPhone and everything else will be alright! - Did you hear your friends suggest this to you? Whenever you cannot access the content of your choice or when you want to play some games, they must have asked you to change your location or spoof it. Creating a fake location iOS will not just help you with games and content, but also hide your identity and keep stalkers away.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location change in iphone](https://images.wondershare.com/drfone/2020/2020/location-change-iphone-pic1.jpg)
 
 The changed location will reflect in all of your social media databases and other everyday apps. No one can track you down using the over-smart softwares that pry on user locations on different apps they use. By doing so, you are enhancing your online security, protecting your privacy, and, in some cases, also keeping your personal information a secret. Trust us when we say that certain apps need your information worth plenty of bucks but get away with procuring it without your permission.
@@ -139,10 +160,16 @@ Your 'Reminder or Alarm' apps also use location to send you notifications and po
 
 The Maps is one of the main apps that desperately rely on Location Settings. It tells where your favorite pub is, where the closest bookstore is and how to find the nearest Pharmacy in the locality. Name the necessity, and the Maps will find it for you. Letting this app access Location is important to get accurate results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![location apps](https://images.wondershare.com/drfone/2020/2020/location-apps-pic4.jpg)
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
@@ -155,6 +182,9 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 1:** You have to download the [Dr. Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is easily available for everyone. Launch the application, and the options will display on your screen. Choose the 'Virtual Location' option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
@@ -163,10 +193,25 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** Then click on 'Move Here' when you are completely sure that this is the place you want to be in 'Virtually'. The map makes the shift for you, and the same will mirror in your Poco C51 too.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
@@ -179,16 +224,25 @@ One of the best devices that we can suggest is Double Location.
 
 **Step 1:** Buy the Double Location device and install the companion iOS app that is needed to change/ alter the location of your device. Then connect Double Location Dongle to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic10.jpg)
 
 Keep in mind - The iOS companion apps are not available on the App Store, and you need to download them from their websites. The installation and launch procedure will differ depending upon the iOS model you are using. You have to follow the Double Location Manufacturer's guidelines keenly not to jailbreak your phone.
 
 **Step 2:** Open the Double Location iOS app and open the Map Tab.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![companion app double location map](https://images.wondershare.com/drfone/2020/2020/companion-app-double-location-map-pic11.jpg)
 
 **Step 3:** Move the pin to the location that you want to shift to virtually. If you cannot pinpoint the exact location, there is nothing much we can do about it. You have to settle for a little compromise. Adjust any other settings that you want to (Gaming).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change location setting](https://images.wondershare.com/drfone/2020/2020/change-location-dongle-settings-pic12.jpg)
 
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
@@ -223,6 +277,9 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your Poco C51 device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
 ## Part 5: Change GPS location on iPhone using Cydia
@@ -235,6 +292,9 @@ Cydia offers an app named Location Spoofer. This one is a very good option for t
 
 **Step 2:** Launch the app and enter your virtual address into the search box at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic22.jpg)
 
 **Step 3:** Once you are sure about your location, change the toggle from 'OFF' to 'ON' at the bottom of the page.
@@ -259,12 +319,18 @@ Talking about Snapchat, this app offers you different badges and filters dependi
 
 Sounds interesting, right? Let’s understand more about the tutorials on how to hide/fake location on Snapchat map.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. What Snapchat is using your location for?
 
 Snapchat basically utilizes your location for the SnapMap feature that furnishes the location-based filters etc. over your device. This SnapMap feature was unveiled in 2017. If you haven’t deliberately enabled it yet or you’re unaware of this feature, implies that you’re still “off the grid”. If you wish to enable this feature, you literally need to authorize Snapchat “3x times” and the last, fourth one to authorize your device.
 
 With the SnapMap feature enabled, you can easily get to know about the whereabouts of your friends, and in turn, there’re allowed to know yours. As long as the Snapchat app is running over your screen, the SnapMap location of your Bitmoji gets updated dynamically. But as soon as you quit the app, the last known location of your Bitmoji is displayed over the SnapMap.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
 
 ## Part 2. Why people want to hide/fake location on Snapchat?
@@ -284,6 +350,9 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 1. First, get into the Snapchat app and then visit either the Discover screen or the Camera or Friends. Next, tap on the magnifying glass and hit on Map.
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
@@ -296,8 +365,14 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Part 4. How to fake Snapchat location on iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
 
 You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This tool is easy to operate and works perfectly when it comes to spoofing any location. Here is how to **fake GPS Snapchat iPhone without jailbreak**.
@@ -306,6 +381,9 @@ You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Loca
 
 Step 1: To begin with this Snapchat location spoofer, simply head to the official website of Dr.Fone – Virtual Location (iOS). Download the software package from there and then install it afterwards.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Download the software](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
@@ -314,10 +392,16 @@ Step 2: After successful downloading, open the tool. Now, you need to opt for th
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![current actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 4: It’s time to activate the “Teleport Mode”. To do this, all you need is to click on the first icon given on the upper right side. After this, you need to enter the location where you desire to teleport in the blank field given on the upper left. Hit on “Go” when you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Step 5: A few moments later, the system will perceive the desired location you have entered. A pop-up box will come up where the distance will be shown. Click on the “Move Here” option in the box.
@@ -326,6 +410,10 @@ Step 5: A few moments later, the system will perceive the desired location you h
 
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
@@ -350,12 +438,19 @@ Step 1: Install Xcode and Set up a Dummy app
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
 
 1. On the upcoming screen, Xcode will throw up a pop-up message stating “Please tell me who you are” and some GIT commands that you need to execute.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
     ![Setup GIT](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-8.jpg)
 
 2. For this, fire up the “Terminal”over your Mac and then execute the commands as follows:
@@ -365,15 +460,33 @@ Step 2: Setup GIT on Xcode
 
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Poco C51 to your Mac computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![connect iphone to mac](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-10.jpg)
 
 7. Once done, opt it in as the build device and while you do it, ensure to keep it unlocked.
 8. Lastly, if everything is performed correctly, Xcode will now process some symbol files, please be patient and wait for it to complete.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![process some symbol files](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-11.jpg)
 
 Step 3: Move Bitmoji
@@ -399,6 +512,9 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 
     ![activate the fake gps location](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Words
 
 While reaching towards the end of the article, we are pretty sure that you now fully understand what it takes to **fake Snapchat location** on Android or iPhone. The aforementioned ways are fully tested and work even without rooting or jailbreaking your devices respectively. Happy Spoofing!
@@ -418,3 +534,32 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-xr-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone XR by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-xr-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone XR Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-xr-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone XR in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-xr-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone XR Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-xr-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone XR Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-xr-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone XR Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone XR | Dr.fone</u></a></li>
+</ul></div>

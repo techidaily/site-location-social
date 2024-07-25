@@ -1,7 +1,7 @@
 ---
 title: How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G | Dr.fone
-date: 2024-03-28 11:18:41
-updated: 2024-03-29 22:18:57
+date: 2024-07-24T18:52:07.725Z
+updated: 2024-07-25T18:52:07.725Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G
 excerpt: This article describes How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G
 keywords: change WhatsApp location for Samsung Galaxy A14 5G,change skype location for Android,fake skype location for Android,fake facebook location for Android,change Twitter location for Samsung Galaxy A14 5G,change facebook location for Samsung Galaxy A14 5G,change Twitter location for Android,change location for Samsung Galaxy A14 5G,change skype location for Samsung Galaxy A14 5G,change WhatsApp location for Android,change facebook location for Android,change location for Android
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G
@@ -40,6 +40,9 @@ One of the best ways to fake Snapchat without jailbreak is to use XCode. This is
 
 Get XCode on your device and then launch it. Start by using the locations that are found to setup XCode. You can download XCode from Apple App Store. You will need your Apple ID and password to use XCode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Choose a location from XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-1.jpg)
 
 Here are the steps that you have to follow:
@@ -56,6 +59,9 @@ Then choose the option marked “Single View iOS application.
 
 Now customize the project options and give it any name that you desire.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Name the project as you wish](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-4.jpg)
 
 Now proceed and customize the Organization Name and the Identifier. The identifier works like a reverse domain name so you can use anything you desire.
@@ -100,20 +106,32 @@ Use an original USB cable to connect the iOS device to your computer.
 
 Towards the top right-hand corner of your screen, click on the button that is displaying your project name and then click on the iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run the app on the iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-9.jpg)
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
 
 Wait for the process to be complete. You might as well get a cup of coffee as this can take quite a while.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wait for the process to be complete](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-11.jpg)
 
 When the process is complete, XCode will install the app on your iOS device. You will get the following error if your device has not been unlocked; unlocking the iOS device will put off the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![XCode error for locked iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-12.jpg)
 
 Now you should be viewing a blank screen on your iOS device. Do not worry; your device has not been ruined. This is the app that you have just created and installed. Pressing the “Home” button will dismiss the blank screen.
@@ -136,6 +154,9 @@ Now you can proceed and see if you have access to Geo-filters in the new locatio
 
 Now you can launch Snapchat and then access the filters in the area that you have teleported to. Remember that you can move from one location to the next on XCode without having to close Snapchat. Just cancel the current snap after changing the location and create a new snap to see the filters in the new location. If this fails to respond, then go back to Google maps or iOS map app and then ensure that you are in the desired location. Once you have done so, close Snapchat and restart it again, and you will be in the new location once more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 3: A paid but easy way to fake Snapchat location without jailbreak
 
 You can also fake your Snapchat GPS location using a premium app such as iTools. This is a popular application, used to spoof many other apps that require geo-location data to work. Another point to note is that the latest iPhone models cannot be jailbroken. The iOS version today is very secure and you cannot tweak it like before.
@@ -160,6 +181,9 @@ Thankfully, you can use a premium, not free, iTools to change your virtual locat
 
 Once you are finished with this spoofed location, you can simply select “Stop Simulation” in iTools. This is a premium tool, but very simple to use. It is the best tool to use, especially if you are having a device with the latest iOS version.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
 
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
@@ -171,18 +195,36 @@ From the steps used in both methods, it is very clear that iTools is the best ap
 - **Security –** XCode may not be very secure, especially when it comes to avoiding detection by Snapchat. You may have to keep going back to XCode, and changing the location, switching off Snapchat, and restating it again. However, when using iTools, your location is fixed until you stop the simulation.
 - **Versatility –** XCode cannot be used on the latest iOS devices without posing problems, while iTools is a simple and effective tool for all iOS versions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In conclusion
 
 When you want to spoof Snapchat to access Geo-Filters in any part of the world, you can use the complicated XCode or pay a fee and use the simpler iTools. There are various benefits that you gain from teleporting using these tools, with Geo-Filters access being the biggest benefit. If you want to use Snapchat all over the world without moving out of your home, then these are the ways that you can go about it.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A14 5G
 
 You must know that many social media platforms could track your location. And Snapchat is one of the social media platforms that easily tracks your location and use this information to improve its features and services. But many people concern about their privacy when using social media apps. If in case if you do not want Snapchat to track our location, then a fake Snapchat location could perfectly meet your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![fake snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Do you really know Snapchat?
 
 Snapchat comes with many effective and best features that could perfectly meet your needs. Some of the best features of Snapchat are Snap Ads, filters, lenses, audio, tune performance, video streaming, instant messaging, and much more. Snapchat is the most lending application for Android and iOS apps. The best thing about this application is that it includes some useful features that you ought to incorporate when creating a Snapchat clone for your business. These features contain both photos and video options.
@@ -199,6 +241,9 @@ Snap is the best feature that is loved by all, and it is the core feature of Sna
 
 The lens features are also included in the Snapchat feature. This feature is a combination of machine learning and artificial intelligence, as it allows you to see your younger and older version. This feature helps you to boost your engagement on your application.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![snapchat lenses](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-3.jpg)
 
 - **Voice and video calls**
@@ -211,6 +256,9 @@ Snapchat includes the voice and video call feature that could help you to connec
 
 The story feature that Snapchat includes is best as it could help you to broadcast your latest snap. The story format only lasts for twenty-four hours. This story features allow you to connect and effectively engage your users easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![snapchat story](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-5.jpg)
 
 - **Filters**
@@ -237,6 +285,9 @@ If you are an iOS user and wish to fake location for a Snapchat map, [Dr.Fone-Vi
 
 **Step 2:** Connect your Samsung Galaxy A14 5G to the PC using the lightening cord and click on the “Get Started” option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![click get started option](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** Now, you will be able to check your current actual location of yours on the map. After this, you need to activate the “Teleport mode”. This will be the third icon located on the right side of the screen.
@@ -263,22 +314,35 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 **Step 3:** Another thing to be noted after downgrading Google Play services is to uninstall the updates. Simply head to “Settings” > “Apps” > “menu” > “Show System” > “Google Play Services” > “Uninstall Updates”.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fgl steps](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-8.jpg)
 
 **Step 4:** Now, install the older Google Play Services version that you downgraded earlier. Head to “File Explorer” > “Downloads” and click apk file of Google Play Services. Tap “Install”.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap install](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-9.jpg)
 
 **Step 5:** Now, go to “Settings” > “Apps” and tap the menu. Choose “Show System” > “Google Play Store” and disable it.
 
 **Step 6:** Now, you need to set the FGL Pro as a mock location app. Please make sure to enable Developer options first. Then, in the menu of Developer Options, select “Select mock location app” > “FGL Pro”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![set fgl as mock location app](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-10.jpg)
 
 **Step 7:** Open the app now and set the desired location. Tap on the “Play” button, and you’re good to go.
 
 ![tap on play button](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using VPN
 
 The second effective method to Snapchat fake location is through the help of a VPN. There are a lot of options when it comes to VPN. However, you can choose Surshark if you can’t decide whether it is one of the best VPN that comes with build-in fake GPS tech. It is the cheapest and the VPN that provides you with the perfect way to enhance your Snapchat experience.
@@ -299,6 +363,9 @@ The third method of fake GPS for Snapchat includes Xcode. Through Xcode, you cou
 
 **Step 3:** Provide a name to the project and hit “Next”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![provide a name](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-15.jpg)
 
 **Step 4:** Now, you must set up GIT on Xcode. You will notice a screen showing “Please tell me where you are” and the commands.
@@ -310,20 +377,32 @@ You are required to enter the commands in “Terminal”. Open it and type the f
 
 **Please note:** “<you@example.com>” and “your name” should be changed with your info.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter the commands](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-16.jpg)
 
 **Step 5:** Connect your Samsung Galaxy A14 5G to Mac and wait as Xcode will begin to process some files.
 
 **Step 6:** You can now click on “Debug” menu and choose “Simulate Location”. Choose the desired location now and fake GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on debug](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What to pay attention to while faking Snapchat location?
 
 There is a certain risk that you may face while using a fake GPS Snapchat map, so you must pay attention while faking Snapchat location. Some of the fake location tools could simulate latitude and longitude perfectly but do not simulate altitude, which may sometime ban your account in Snapchat. Hence you must choose the best tool that could spoof any location without any range limitation.
 
 Some of the Snapchat spoof does not work immediately and may also provide you with some difficulty. Hence here you must wait for some time or restart the Samsung Galaxy A14 5G device and recheck it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Many different tools could help you to spoof Snapchat. But you must always prefer to choose the right one that could perfectly meet your needs. And it could provide you with the best experience of using Snapchat without any difficulty.
@@ -342,6 +421,9 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change/Fake Your Samsung Galaxy A14 5G Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
@@ -352,12 +434,18 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Samsung Galaxy A14 5G/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
@@ -396,6 +484,18 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
@@ -416,6 +516,9 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -432,6 +535,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -448,6 +554,9 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
@@ -467,3 +576,33 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy XCover 6 Pro Tactical Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy XCover 6 Pro Tactical Edition to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-xcover-6-pro-tactical-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy XCover 6 Pro Tactical Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy XCover 6 Pro Tactical Edition in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy XCover 6 Pro Tactical Edition Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy XCover 6 Pro Tactical Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy XCover 6 Pro Tactical Edition Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Change GPS Location on Vivo Y100A Easily & Safely | Dr.fone
-date: 2024-07-04T17:13:12.956Z
-updated: 2024-07-05T17:13:12.956Z
+date: 2024-07-24T19:36:44.331Z
+updated: 2024-07-25T19:36:44.331Z
 tags: 
   - virtual location change
   - social app
@@ -33,10 +33,16 @@ The in-built apps like 'Camera' use Location to add the time and date stamp to y
 
 Your 'Reminder or Alarm' apps also use location to send you notifications and pop-ups to intimate you that you've reached a specific location. If you have somewhere to be, they can also tell you how long it will take to be there. It completely depends on the type of app you are using.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![reminder app](https://images.wondershare.com/drfone/2020/2020/reminder-apps-iphone-pic3.jpg)
 
 The Maps is one of the main apps that desperately rely on Location Settings. It tells where your favorite pub is, where the closest bookstore is and how to find the nearest Pharmacy in the locality. Name the necessity, and the Maps will find it for you. Letting this app access Location is important to get accurate results.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location apps](https://images.wondershare.com/drfone/2020/2020/location-apps-pic4.jpg)
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
@@ -57,6 +63,9 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
@@ -65,10 +74,26 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 4:** Then click on 'Move Here' when you are completely sure that this is the place you want to be in 'Virtually'. The map makes the shift for you, and the same will mirror in your Vivo Y100A too.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 3: Change GPS location on iPhone using an external device
 
 The external devices connect to the Lightning port of your device and create a secondary GPS that your apps and iPhone will detect. These are not completely software-based. You need to buy these mini-devices first, and then you can proceed with the location spoofing. These areas reliable as any softwares and much more than VPNs.
@@ -91,6 +116,9 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
 
 ## Part 4: Change GPS location on iPhone using Xcode
@@ -103,16 +131,25 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 2:** Once you launch the app, the Xcode Window will open. Click on 'Single View Application' to start a new Project and proceed by clicking on 'Next'. Set up a name and then proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![single view application project](https://images.wondershare.com/drfone/2020/2020/single-view-application-project-pic15.jpg)
 
 **Step 3:** A pop-up will appear asking you who you are, and you need to apply some GIT commands to this particular part of the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic16.jpg)
 
 **Step 4:** Launch the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name". (Add your information)
 
 **Step 5:** At this stage, you have to set up the Development Team and proceed to connect your Vivo Y100A device to the Mac Device.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone connects to mac](https://images.wondershare.com/drfone/2020/2020/iphone-connects-to-mac-pic18.jpg)
 
 **Step 6:** Now, you need to select your device from the 'Build Device' option and while you do this, keep your phone unblocked for quick detection. Then the program will process the Symbol Files.
@@ -123,12 +160,18 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: Change GPS location on iPhone using Cydia
 
 Cydia offers an app named Location Spoofer. This one is a very good option for those ready/okay with jailbreaking their iPhone devices. You can change the Phone Location iPhone without jailbreak in the previous suggestions, but that is not possible here. This is how you do it -
 
 **Step 1:** Download the Cyndia LocationSpoofer app from their website. You will find LocationSpoofer8 if you are using the iOS 8.0 model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic21.jpg)
 
 **Step 2:** Launch the app and enter your virtual address into the search box at the top.
@@ -147,6 +190,9 @@ The problem with this method is that certain apps downright refuse to function w
 
 If you've been wondering how can I change my location on iPhone, then I am sure this article must have at least given you one suitable way to do that. Weighing your necessities, choose the most suitable option that will safely transfer you from one place to another - Virtually, Of course! You can settle on the best location changer for iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Proven Ways in How To Hide Location on Life360 For Vivo Y100A
 
 “How can I hide my location on Life360 without my parents knowing? I’m 17 and find it uncomfortable. What’s the best way to demonstrate that I can be trusted and don’t require constant monitoring?”
@@ -155,16 +201,25 @@ Wondering **how to hide your location on Life360 without them knowing**? If you�
 
 Building trust can foster a sense of autonomy. Help maintain a healthy parent-teen relationship on Life360 without compromising your comfort. But if you genuinely need more discretion, you’re on the right page. Learn **how to hide location on Life360** without raising suspicions. Find a middle ground through communication.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to hide life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-01.jpg)
 
 ## Part 1. Best Method To Hide Location on Life360 Without Them Knowing
 
 Keep reading if you need to know **how to hide your location on Life360 without anyone knowing**. The most effective method is using a virtual location changer. These tools can alter the GPS coordinates your phone sends. It allows you to appear in a different location than where you are. Here are five tools you can use to hide location on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile and reliable virtual location changer. The tool is compatible with both iOS and Android devices. Known for its diverse functions, it allows you to hide your real location. The platform provides a solution for those seeking privacy on location-sharing apps like Life360. Here are its key strengths:
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location main window](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 - **Hide location without being tracked.** Fone - VirtualLocation allows you to hide your real location from Life360 without leaving any traces.
@@ -180,10 +235,17 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 - **Step 1:** Download and install Dr.Fone on your computer. Click **Toolbox** > **Virtual** **Location.** In the next window, click **Get** **Started**. Afterward, connect your smartphone to your computer. Follow the on-screen instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![connecting smartphone to dr.fone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 - **Step 2:** Go to the top-right section and select the **One-Stop Route** function. Whether you’ve already teleported or are using your current location, tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 3**: Input the desired number of back-and-forth movements. Choose between a **Round** trip or a **Loop** trip. Adjust the walking speed using the slider. Click **Move Here** at the bottom to initiate movement. To pause the simulation, click **Pause**, or tap **Clear** to revert to your original state.
@@ -192,18 +254,28 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 - **Step 4:** Activate **Teleport Mode** by selecting the first icon from the left. Use the **Search** bar to type in your desired location. Hit **Enter**, and the map will display the specified location. To shift your smartphone’s location, click **Move Here**. The map will reflect the change, confirming the successful teleportation.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ExpressVPN
 
 ExpressVPN, a renowned VPN service, enhances online privacy by masking your IP address. While it doesn’t change your GPS location, it provides a layer of security and anonymity. ExpressVPN is compatible with both iOS and Android devices. It offers a single-function solution for safeguarding your online activities.
 
 ![expressvpn website interface](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Fake GPS Location Spoofer
 
 Fake GPS Go Location Spoofer is an Android app that allows users to change their GPS location. Unlike some other tools, it does not support PC use or provide additional features like joystick simulation. The app is a simple solution for Android users seeking to modify their location without complicating the process.
 
 ![fake gps location spoofer app](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### A Comparison Among the Five Virtual Location Changer
 
 Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the most versatile and reliable choice for both iOS and Android devices. Here’s a quick table comparing all the tools.
@@ -218,10 +290,17 @@ Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.tec
 
 Here are alternative solutions to hide your location on Life360 without resorting to third-party apps. These methods might not provide a foolproof solution, and their effectiveness can vary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Turn On Airplane Mode
 
 Enabling Airplane Mode on your smartphone disables all wireless communication, including GPS. While effective, the method will also interrupt calls and messages. Airplane mode is suitable for times when you need complete privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-11.jpg)
 
 ### Turn Off WiFi and Data
@@ -272,6 +351,9 @@ Whether to hide your location on Life360 involves weighing the advantages and dr
 
 Discovering that your child learned **how to hide location on Life360** can be a moment for constructive engagement. Here are the steps parents, friends, or guardians can take:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![discovering kids turning off life360 location](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-14.jpg)
 
 ### Be Open and Honest
@@ -282,10 +364,16 @@ Approach the situation with openness and honesty. Start a non-confrontational co
 
 Highlight the positive aspects of Life360. Focus on its role in ensuring safety and maintaining family connections. Reinforce that the app is intended for security rather than invasive monitoring. Help your child see the benefits of using it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Offer an Alternative App as a Backup
 
 Suggest exploring alternative location-sharing apps that may align better with your child’s comfort level. Involving them in the decision-making process allows for compromise. It helps strike a balance between privacy and safety concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 While options like Airplane Mode and disabling location services exist, the most secure and comprehensive choice is Wondershare Dr.Fone. The virtual location changer allows discreet location adjustments without alerting anyone. With features like teleportation and joystick simulation, it’s the safest method for maintaining privacy on Life360.
@@ -294,10 +382,20 @@ For those seeking to master **how to hide your location on Life360 without anyon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 4 Feasible Ways to Fake Location on Facebook For your Vivo Y100A
 
 There are many reasons to **fake location on Facebook**. For example, you may want to hide your ideal address and protect your safety. Also, you might want to change the Facebook location to get better search results for products, friends, groups, and so on. But whichever the case, creating a **fake GPS on Facebook** is relatively easy. So, in this post, I want to introduce you to several methods to spoof your Facebook location quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Spoof Facebook Location on Computer
 
 You can easily fake your Facebook location by spoofing the town or city in the profile settings. This way, anyone who views your profile bio will see your new Facebook location.
@@ -324,6 +422,9 @@ Step 1. Install and launch the Fake GPS location app on Android.
 
 Step 2. Next, "allow mock locations" in your Android's developer settings. To do that, open **Settings** >**Additional Settings** >**Developer options**. Then, click "**Select mock location app**" before choosing **Fake GPS**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![fake gps on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-02.jpg)
 
 Step 3. Now go to the Fake GPS location app and choose a new location for your device. If satisfied, tap **Ok** to save the added area you'd like your device to appear on.
@@ -340,6 +441,14 @@ Step 1. Open Facebook on your favorite browser and tap the "**What's on your min
 
 Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key in a fake address and select it on the suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![fake address and tap gps icon](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-03.jpg)
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
@@ -362,12 +471,18 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
 **Step 1. Download and open Dr.Fone.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Dr.Fone on your Mac or Windows PC and then connect your phone to your computer using a USB cable. After that, select the file transfer option on your phone and then tap **Virtual Location** on Dr.Fone.
@@ -380,10 +495,16 @@ You'll see a new Dr.Fone window, where you'll click the **Get Started** button. 
 
 **Step 3. Choose a location and start moving.**
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 The Virtual Location map will launch after successfully connecting your smartphone to Dr.Fone. Now enter and select a location you wish to move to and click **Move Here**. Alternatively,  you can tap an area to move to on the map and choose whether to move by foot, bicycle, scooter, or car. Your iPhone and Android device will save your new location automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 ## Wrap it up
@@ -409,3 +530,33 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y100 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y100-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y100 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y100-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y100 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y100-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y100 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y100 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y100-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y100 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-y100-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y100 | Dr.fone</u></a></li>
+</ul></div>

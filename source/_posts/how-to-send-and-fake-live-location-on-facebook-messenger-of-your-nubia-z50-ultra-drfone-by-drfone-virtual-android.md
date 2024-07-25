@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50 Ultra | Dr.fone
-date: 2024-03-28 16:14:19
-updated: 2024-03-29 23:12:53
+date: 2024-07-24T20:02:53.862Z
+updated: 2024-07-25T20:02:53.862Z
 tags: 
   - virtual location change
   - social app
@@ -10,13 +10,16 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50 Ultra
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50 Ultra
 keywords: fake WhatsApp location for Android,change WhatsApp location for Android,change Twitter location for Nubia Z50 Ultra,change Twitter location for Android,fake Twitter location for Android,change facebook location for Android,change WhatsApp location for Nubia Z50 Ultra
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50 Ultra
 
 Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part 1: The Benefits of Changing Location on Facebook Messenger
 
 There are numerous reasons to learn how to send fake locations on Messenger, just as initially said. Here are some of them:
@@ -37,6 +40,9 @@ Your online security is paramount. And one way to protect yourself from online s
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change Location on Facebook Messenger
 
 After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
@@ -45,12 +51,18 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -77,10 +89,16 @@ On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**
 
 **Step 3. Launch the map and choose a fake location for Messenger.**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 _**Bonus tip: How to make your new Messenger location more believable**_
@@ -91,6 +109,9 @@ Up to this point, you shouldn't have any qualms spoofing your live location on F
 
 So, use Dr.Fone to fake location on Messenger with unreal precision. This third-party location changer allows you to teleport your location to anywhere. You can even change Messenger location by walking, driving, or cycling. Then to make it more believable, you can share a post with a screenshot of your new location. Remember, your new location will be visible to all your Facebook friends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. FAQ: What People Also Ask about Facebook Location Services
 
 ### 1\. Why is my Facebook Messenger location wrong?
@@ -103,6 +124,10 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
@@ -125,8 +150,14 @@ Download from Google Play Store - [https://play.google.com/store/apps/details?id
 
 Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id466122094](http://apps.apple.com/us/app/find-my-friends/id466122094)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 1: Best Alternatives to Find My Friends App
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Glympse
 
 ![find my friends alternative - glympse](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-1.jpg)
@@ -155,6 +186,9 @@ Google Play Store. [http://play.google.com/store/apps/details?id=com.sygic.famil
 
 ### GeoZilla
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![find my friends alternative - geozilla](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-3.jpg)
 
 While, GeoZilla has all the features a typical location sharing has such as real-time tracking, geofencing, safety alerts, but it also compromises certain unique functionalities that help it to stand out in the crowd. This includes location-based errands, location history and sharing history.
@@ -177,6 +211,9 @@ This App is for free which you can download from the Google Play Store. [http://
 - You can choose to share your location temporarily or permanently
 - You can even hide your location to safeguard your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Requirements
 
 Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple ID to use with iCloud on your Mac, iPhone, iPod touch or iPad.
@@ -201,6 +238,10 @@ To track or share location with your friend or family member, make sure he/she h
 
 Once your friend agrees to share his/her real-time location, you can see their current whereabouts in a list or on a map in this location sharing App or over iCloud.com.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bonus Tip: What Do I Do If I Want to Fake a Location on Find My Friends?
 
 Do you want to spoof your location so your friends can’t find you? For this purpose, you should use [Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to ensure privacy by spoofing location. With this tool, you can easily change location on your devices with just a blink of an eye. It can teleport your location and stimulate GPS movement with a route that you draw.
@@ -217,6 +258,9 @@ Thus, you can fake location with flexible GPS movement on the Find My Friends ap
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Simplified Steps to Spoof Location on Find My Friends Using Dr.Fone - Virtual Location
 
 While faking location across apps, you can move at different speeds, such as cycling, walking, or driving. As Dr.Fone - Virtual Location keeps you amazed, let’s learn how to use it to change location without hustle.
@@ -241,16 +285,25 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How to Change GPS Location on Nubia Z50 Ultra Easily & Safely
 
 Change GPS Location iPhone and everything else will be alright! - Did you hear your friends suggest this to you? Whenever you cannot access the content of your choice or when you want to play some games, they must have asked you to change your location or spoof it. Creating a fake location iOS will not just help you with games and content, but also hide your identity and keep stalkers away.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![location change in iphone](https://images.wondershare.com/drfone/2020/2020/location-change-iphone-pic1.jpg)
 
 The changed location will reflect in all of your social media databases and other everyday apps. No one can track you down using the over-smart softwares that pry on user locations on different apps they use. By doing so, you are enhancing your online security, protecting your privacy, and, in some cases, also keeping your personal information a secret. Trust us when we say that certain apps need your information worth plenty of bucks but get away with procuring it without your permission.
 
 There is no harm in changing your GPS location, especially when the world wide web is eager to monetize your information. A proper iOS Fake GPS will keep you safe virtually. Then you might wonder, - How do I use apps to navigate the roads or track down that pub in the locality? Well, you can always revert to your original location whenever you want to just that these tricks will help you stay in the safe bubble most of the time.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1: What is iPhone Location Settings for?
 
 The iPhone Location settings are useful for providing optimum and smooth services to iPhone users. Several in-built apps and other installed apps use the iPhone location to make the user experience better. The settings help the iPhone owner decide which app gets to use his location and which one shouldn't. It is quite easy to make the call and enable the settings under this section.
@@ -269,6 +322,9 @@ The Maps is one of the main apps that desperately rely on Location Settings. It 
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
@@ -285,14 +341,23 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4:** Then click on 'Move Here' when you are completely sure that this is the place you want to be in 'Virtually'. The map makes the shift for you, and the same will mirror in your Nubia Z50 Ultra too.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
@@ -305,12 +370,18 @@ One of the best devices that we can suggest is Double Location.
 
 **Step 1:** Buy the Double Location device and install the companion iOS app that is needed to change/ alter the location of your device. Then connect Double Location Dongle to your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic10.jpg)
 
 Keep in mind - The iOS companion apps are not available on the App Store, and you need to download them from their websites. The installation and launch procedure will differ depending upon the iOS model you are using. You have to follow the Double Location Manufacturer's guidelines keenly not to jailbreak your phone.
 
 **Step 2:** Open the Double Location iOS app and open the Map Tab.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![companion app double location map](https://images.wondershare.com/drfone/2020/2020/companion-app-double-location-map-pic11.jpg)
 
 **Step 3:** Move the pin to the location that you want to shift to virtually. If you cannot pinpoint the exact location, there is nothing much we can do about it. You have to settle for a little compromise. Adjust any other settings that you want to (Gaming).
@@ -341,6 +412,9 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 5:** At this stage, you have to set up the Development Team and proceed to connect your Nubia Z50 Ultra device to the Mac Device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone connects to mac](https://images.wondershare.com/drfone/2020/2020/iphone-connects-to-mac-pic18.jpg)
 
 **Step 6:** Now, you need to select your device from the 'Build Device' option and while you do this, keep your phone unblocked for quick detection. Then the program will process the Symbol Files.
@@ -349,18 +423,30 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your Nubia Z50 Ultra device.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: Change GPS location on iPhone using Cydia
 
 Cydia offers an app named Location Spoofer. This one is a very good option for those ready/okay with jailbreaking their iPhone devices. You can change the Phone Location iPhone without jailbreak in the previous suggestions, but that is not possible here. This is how you do it -
 
 **Step 1:** Download the Cyndia LocationSpoofer app from their website. You will find LocationSpoofer8 if you are using the iOS 8.0 model.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic21.jpg)
 
 **Step 2:** Launch the app and enter your virtual address into the search box at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic22.jpg)
 
 **Step 3:** Once you are sure about your location, change the toggle from 'OFF' to 'ON' at the bottom of the page.
@@ -390,3 +476,37 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30i | Dr.fone</u></a></li>
+</ul></div>

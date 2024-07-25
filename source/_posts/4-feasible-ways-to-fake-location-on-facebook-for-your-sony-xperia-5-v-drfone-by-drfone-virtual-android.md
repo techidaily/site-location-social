@@ -1,7 +1,7 @@
 ---
 title: 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V | Dr.fone
-date: 2024-05-20T08:01:30.232Z
-updated: 2024-05-21T08:01:30.232Z
+date: 2024-07-24T16:48:12.337Z
+updated: 2024-07-25T16:48:12.337Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V
 excerpt: This article describes 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V
 keywords: change skype location for Android,change Twitter location for Sony Xperia 5 V,change Twitter location for Android,change skype location for Sony Xperia 5 V,fake Twitter location for Android,fake WhatsApp location for Android,change location for Android,change location for Sony Xperia 5 V,change WhatsApp location for Sony Xperia 5 V,change facebook location for Sony Xperia 5 V,change facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V
@@ -31,6 +31,9 @@ Step 3. Now tap the **Pencil** icon to change the current city/town. You can als
 
 Step 4. Finally, tap the **Save** button, and Facebook will automatically update your current location. To see if the changes have been applied, tap the **About** tab to see your new profile.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![changing location on facebook settings](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-01.jpg)
 
 **Note:** Although you can successfully change your bio, Facebook will still access your actual location. Now this means your Facebook recommendations and adverts will still be based on your locality. So, keep reading to learn other reliable ways to spoof your Facebook location.
@@ -49,6 +52,10 @@ Step 3. Now go to the Fake GPS location app and choose a new location for your d
 
 Step 4. Finally, head to Facebook and change your location settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Method 3: Create A Fake Check-In Location on Facebook
 
 Sometimes you might want to prank your Facebook friends with a new location announcement. In other words, you can make them believe that you're in a particular location when in reality, you're not. In that case, the Facebook Check-In feature will come in handy. It's a simple but highly effective feature that adds your fake location to a Facebook post. Just think of it as a status update.
@@ -59,10 +66,16 @@ Step 1. Open Facebook on your favorite browser and tap the "**What's on your min
 
 Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key in a fake address and select it on the suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![fake address and tap gps icon](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-03.jpg)
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Method 4: Fake Location for Facebook's Nearby Friends via a Tool
 
 While signing up on Facebook, you'll be requested to allow the platform access to your actual GPS location. This will enable Facebook to correctly tailor adverts, friends, and other recommendations based on your location. But unfortunately, it can be challenging to change the actual location unless you're willing to spend top dollar on a VPN service. Put, you'll need to spoof your IP address to change the exact location.
@@ -103,14 +116,23 @@ You'll see a new Dr.Fone window, where you'll click the **Get Started** button. 
 
 The Virtual Location map will launch after successfully connecting your smartphone to Dr.Fone. Now enter and select a location you wish to move to and click **Move Here**. Alternatively,  you can tap an area to move to on the map and choose whether to move by foot, bicycle, scooter, or car. Your iPhone and Android device will save your new location automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrap it up
 
 See, you don't need an expensive VPN service to fake your GPS location on Facebook convincingly. With Dr.Fone, you can easily change your Sony Xperia 5 V or iPhone location, which will immediately reflect on apps like Facebook, Google Maps, Telegram, and so on. And guess what? There are a host of other phone management features to exploit. You should try it!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Edit and Send Fake Location on Telegram For your Sony Xperia 5 V in 3 Ways
 
 Telegram is an ad-free messaging application for Android and iOS. This app was established in 2013 and facilitates secure conversations among more than 550 active users. But despite its super-tight security, location-sharing on Telegram remains a concern among many. Like Facebook, the “People Nearby” feature on Telegram can expose your location to unwanted people. So, how can one create a **fake GPS on Telegram**? If you’re one of those concerned users, this post will teach you how to create a **Telegram fake GPS** quickly and easily. Let’s learn!
@@ -131,10 +153,17 @@ Social media pressure is real. But instead of the negativity, you can concentrat
 
 As said before, Telegram has a “People Nearby” feature for giving you friend recommendations based on your actual location. In addition, you can see Telegram groups near your GPS location. So, if you intend to go international and meet new friends, change your Telegram location. This way, all suggestions on the "People Nearby" feature will match your new GPS location.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Send Fake Location on Telegram?
 
 We are here to provide the three most-used methods for you to change location on Telegram. Not every solution is suitable for every situation that everyone encounters, but there is always one that is right for you. Some methods may require the assistance of a computer, some can be done only on a mobile phone, and the success rate varies greatly. Now let’s learn how to fake location on Telegram using three simple methods.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Method 1: Change Telegram location on Android/ iOS with the best Location Changer
 
 If you want to completely varnish your location on Telegram, install a powerful GPS tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this computer program, you can spoof your Telegram location with just a few mouse clicks. It’s simple to use and offers excellent compatibility with Android and iPhone apps. You can teleport your Telegram location to anywhere in the world. In addition, you can make the location transfer more realistic by enabling the multi-stop and one-stop route features. Just point to a location on the map and get going.
@@ -152,12 +181,18 @@ So, without dilly-dallying much, follow me to create a **Telegram fake location*
 
 #### Step 1. Launch Dr.Fone Virtual Location on PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![dr.fone home page screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Install and run Dr.Fone on your PC and then connect your smartphone to your computer using a USB wire. While doing so, make sure you enable the “Transfer Files” option on your phone. Then, on the home window of Dr.Fone, tap **Virtual Location** and then tap **Get Started** on the new window.
 
 #### Step 2. Link your smartphone to Dr.Fone
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
@@ -172,6 +207,9 @@ After successfully connecting your device to Dr.Fone, tap **Next** to open the V
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
 Using a VPN (Virtual Private Network) is arguably the most reliable way to create a **Telegram fake GPS**. With a professional VPN service, you can change your device’s IP address and access international websites, TV stations, movie channels, and so on. In other words, it connects you to a computer server in a country where you’re typically restricted. Popular VPN services include NordVPN and ExpressVPN.
@@ -182,6 +220,9 @@ For example, let’s learn how to set up the ExpressVPPN service on Android/iPho
 - ▪ Step 2. Follow the on-screen instructions to set up ExpressVPN and choose a VPN server location.
 - ▪ Step 3. Lastly, tap the **Power** button to connect to the VPN server in the country you’ve selected. That was easy, huh?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Fake location on Telegram from free on Android
 
 It’s absolutely okay to operate on a thin budget these days. So, if you’re after a free VPN service for Android, use a [Fake GPS location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US). It’s a free program that allows you to spoof your GPS location on Android with a few screen taps. Let’s have a look!
@@ -200,18 +241,30 @@ Step 3. Now launch the app and choose your new GPS location. If satisfied, simpl
 
 Unfortunately, you can easily detect if someone is faking their Telegram GPS location. A fake location usually has a “red pin” on the address. The actual location doesn’t.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q2: Is Telegram better than WhatsApp?
 
 You’ll be surprised to learn that Telegram offers better security features than WhatsApp. This platform encrypts messages between you and the server, meaning that no one else can access your chats. For WhatsApp, the jury is still out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Q3: Can I spoof location on iPhone?
 
 Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as Android. In other words, you can’t just install a GPS app from Play Store and enjoy the new sites. So, use a program like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) or purchase a VPN service.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 
@@ -226,12 +279,18 @@ The changed location will reflect in all of your social media databases and othe
 
 There is no harm in changing your GPS location, especially when the world wide web is eager to monetize your information. A proper iOS Fake GPS will keep you safe virtually. Then you might wonder, - How do I use apps to navigate the roads or track down that pub in the locality? Well, you can always revert to your original location whenever you want to just that these tricks will help you stay in the safe bubble most of the time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is iPhone Location Settings for?
 
 The iPhone Location settings are useful for providing optimum and smooth services to iPhone users. Several in-built apps and other installed apps use the iPhone location to make the user experience better. The settings help the iPhone owner decide which app gets to use his location and which one shouldn't. It is quite easy to make the call and enable the settings under this section.
 
 The in-built apps like 'Camera' use Location to add the time and date stamp to your images. They also detect where the photo is taken and provide appropriate tags to pinpoint the location.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![photo with date stamp](https://images.wondershare.com/drfone/2020/2020/photo-with-time-date-stamp-pic2.jpg)
 
 Your 'Reminder or Alarm' apps also use location to send you notifications and pop-ups to intimate you that you've reached a specific location. If you have somewhere to be, they can also tell you how long it will take to be there. It completely depends on the type of app you are using.
@@ -240,10 +299,16 @@ Your 'Reminder or Alarm' apps also use location to send you notifications and po
 
 The Maps is one of the main apps that desperately rely on Location Settings. It tells where your favorite pub is, where the closest bookstore is and how to find the nearest Pharmacy in the locality. Name the necessity, and the Maps will find it for you. Letting this app access Location is important to get accurate results.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location apps](https://images.wondershare.com/drfone/2020/2020/location-apps-pic4.jpg)
 
 Compass is another app that needs access to the location to tell you which direction the sun sets in. You want to know the true south, enable your location, sync with the Compass app, and you'll have the answers.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
@@ -260,6 +325,10 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
@@ -272,6 +341,9 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Change GPS location on iPhone using an external device
 
 The external devices connect to the Lightning port of your device and create a secondary GPS that your apps and iPhone will detect. These are not completely software-based. You need to buy these mini-devices first, and then you can proceed with the location spoofing. These areas reliable as any softwares and much more than VPNs.
@@ -290,18 +362,30 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 
 **Step 3:** Move the pin to the location that you want to shift to virtually. If you cannot pinpoint the exact location, there is nothing much we can do about it. You have to settle for a little compromise. Adjust any other settings that you want to (Gaming).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![change location setting](https://images.wondershare.com/drfone/2020/2020/change-location-dongle-settings-pic12.jpg)
 
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Change GPS location on iPhone using Xcode
 
 XCode is a computer program. It is very useful for those who have sound coding language knowledge. It works well with Mac devices, and it is a good Gps changer for iPhone.
 
 **Step 1:** Firstly, Install the App from the App Store (on Mac) And then Launch it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic14.jpg)
 
 **Step 2:** Once you launch the app, the Xcode Window will open. Click on 'Single View Application' to start a new Project and proceed by clicking on 'Next'. Set up a name and then proceed.
@@ -310,6 +394,13 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 3:** A pop-up will appear asking you who you are, and you need to apply some GIT commands to this particular part of the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic16.jpg)
 
 **Step 4:** Launch the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name". (Add your information)
@@ -367,3 +458,26 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-xcover-7-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy XCover 7 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-xcover-7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy XCover 7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-xcover-7-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy XCover 7 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-xcover-7-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy XCover 7 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-xcover-7-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy XCover 7 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-7-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy XCover 7 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy XCover 7 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-xcover-7-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy XCover 7 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+</ul></div>

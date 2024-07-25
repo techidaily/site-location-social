@@ -1,7 +1,7 @@
 ---
 title: Proven Ways in How To Hide Location on Life360 For Apple iPhone 8 | Dr.fone
-date: 2024-06-10T09:22:53.205Z
-updated: 2024-06-11T09:22:53.205Z
+date: 2024-07-24T16:18:20.335Z
+updated: 2024-07-25T16:18:20.335Z
 tags: 
   - virtual location change
   - social app
@@ -21,8 +21,14 @@ Wondering **how to hide your location on Life360 without them knowing**? If you�
 
 Building trust can foster a sense of autonomy. Help maintain a healthy parent-teen relationship on Life360 without compromising your comfort. But if you genuinely need more discretion, you’re on the right page. Learn **how to hide location on Life360** without raising suspicions. Find a middle ground through communication.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to hide life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. Best Method To Hide Location on Life360 Without Them Knowing
 
 Keep reading if you need to know **how to hide your location on Life360 without anyone knowing**. The most effective method is using a virtual location changer. These tools can alter the GPS coordinates your phone sends. It allows you to appear in a different location than where you are. Here are five tools you can use to hide location on Life360.
@@ -31,6 +37,9 @@ Keep reading if you need to know **how to hide your location on Life360 without 
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile and reliable virtual location changer. The tool is compatible with both iOS and Android devices. Known for its diverse functions, it allows you to hide your real location. The platform provides a solution for those seeking privacy on location-sharing apps like Life360. Here are its key strengths:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone virtual location main window](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 - **Hide location without being tracked.** Fone - VirtualLocation allows you to hide your real location from Life360 without leaving any traces.
@@ -46,10 +55,16 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 - **Step 1:** Download and install Dr.Fone on your computer. Click **Toolbox** > **Virtual** **Location.** In the next window, click **Get** **Started**. Afterward, connect your smartphone to your computer. Follow the on-screen instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connecting smartphone to dr.fone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 - **Step 2:** Go to the top-right section and select the **One-Stop Route** function. Whether you’ve already teleported or are using your current location, tap anywhere on the map to set your destination.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![dr.fone virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 3**: Input the desired number of back-and-forth movements. Choose between a **Round** trip or a **Loop** trip. Adjust the walking speed using the slider. Click **Move Here** at the bottom to initiate movement. To pause the simulation, click **Pause**, or tap **Clear** to revert to your original state.
@@ -64,6 +79,9 @@ ExpressVPN, a renowned VPN service, enhances online privacy by masking your IP a
 
 ![expressvpn website interface](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fake GPS Location Spoofer
 
 Fake GPS Go Location Spoofer is an Android app that allows users to change their GPS location. Unlike some other tools, it does not support PC use or provide additional features like joystick simulation. The app is a simple solution for Android users seeking to modify their location without complicating the process.
@@ -90,24 +108,46 @@ Enabling Airplane Mode on your smartphone disables all wireless communication, i
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Turn Off WiFi and Data
 
 Disabling WiFi and mobile data prevents your phone from sending location updates to Life360. Note that the method may raise suspicion if others notice your lack of connectivity.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Turn Off Location Services or Precise Mode
 
 You can turn off Location Services or switch to a less precise location mode in your phone settings. Keep in mind that this may affect other apps relying on location information, and it’s not a foolproof solution.
 
 ![iphone location services and precise mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Low Data Mode
 
 Some devices offer a Low Data Mode. The feature reduces the amount of data your phone uses. While not designed for hiding your location, it may slow down or limit the transmission of location data.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Circle’s Location Sharing
 
 Disabling location sharing within the circle settings can prevent your location from being visible to other members. Be cautious, as this action may prompt questions from circle members.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use a Burner Phone
 
 Using a secondary or temporary phone for Life360 can provide a discreet way to manage your location. The method requires an additional device and may not be practical for everyone.
@@ -144,6 +184,9 @@ Discovering that your child learned **how to hide location on Life360** can be a
 
 Approach the situation with openness and honesty. Start a non-confrontational conversation to understand the reasons behind their decision. Creating a safe space for dialogue encourages trust and helps address concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Discuss the Positive Side of Life360
 
 Highlight the positive aspects of Life360. Focus on its role in ensuring safety and maintaining family connections. Reinforce that the app is intended for security rather than invasive monitoring. Help your child see the benefits of using it.
@@ -181,12 +224,18 @@ The main benefit that you get from faking Snapchat is getting access to these fi
 
 When you spoof your device, Snapchat thinks that you are actually in the area that you have spoofed to. This virtual location will then allow you to access the filters that are available in that area.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: A free but complicated way to fake Snapchat location no jailbreak
 
 One of the best ways to fake Snapchat without jailbreak is to use XCode. This is an app on your Apple iPhone 8 that allows you to tweak certain aspects of the apps that you have on your device, including Snapchat.
 
 Get XCode on your device and then launch it. Start by using the locations that are found to setup XCode. You can download XCode from Apple App Store. You will need your Apple ID and password to use XCode.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Choose a location from XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-1.jpg)
 
 Here are the steps that you have to follow:
@@ -195,10 +244,17 @@ Here are the steps that you have to follow:
 
 Launch XCode and then create a new project
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create a new project in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-2.jpg)
 
 Then choose the option marked “Single View iOS application.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 Now customize the project options and give it any name that you desire.
@@ -219,6 +275,9 @@ Now go ahead and save the project to a location on your computer. Since the vers
 
 People who do not have the latest version of XCode will run into the error shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Error for older XCode versions](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-6.jpg)
 
 **IMPORTANT:** do NOT click on “Fix Issue” until you do the following tasks:
@@ -231,6 +290,9 @@ People who do not have the latest version of XCode will run into the error shown
 
 You should now have an accounts screen similar to the one shown in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Error solved screen](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-7.jpg)
 
 Now close the window and click on the “team” dropdown menu. You may now select the Apple ID that you just created.
@@ -251,6 +313,9 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
 
 Hit the “Play” icon that is found at the top left side of your screen.
@@ -261,6 +326,9 @@ Wait for the process to be complete. You might as well get a cup of coffee as th
 
 When the process is complete, XCode will install the app on your iOS device. You will get the following error if your device has not been unlocked; unlocking the iOS device will put off the error message.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![XCode error for locked iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-12.jpg)
 
 Now you should be viewing a blank screen on your iOS device. Do not worry; your device has not been ruined. This is the app that you have just created and installed. Pressing the “Home” button will dismiss the blank screen.
@@ -271,6 +339,9 @@ Go to Google Maps or iOS maps which will now show your current location.
 
 Go to XCode and then choose "Simulate Location" from the "Debug" menu and then select a different location to test.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![simulate your new location](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-13.jpg)
 
 If you have done all that you need to do, then the location of your iOS device should instantly jump to the location that you have chosen.
@@ -293,20 +364,32 @@ Thankfully, you can use a premium, not free, iTools to change your virtual locat
 
 **Step 2:** Go to the iTools panel and click on “toolbox”.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select Toolbox in iTools](https://www.virtuallocation.com/images/pokemon-go/itools-1.jpg)
 
 **Step 3:** Select the Virtual Location button within the Toolbox Panel
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select Virtual Location in Toolbox](https://www.virtuallocation.com/images/pokemon-go/itools-2.jpg)
 
 **Step 4:** Type in the location that you want to teleport to and then click on ‘Move Here”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Select your desired location](https://www.virtuallocation.com/images/pokemon-go/itools-3.jpg)
 
 **Step 5:** Now open your Snapchat and you will be able to access the filters found in the location that you typed in.
 
 Once you are finished with this spoofed location, you can simply select “Stop Simulation” in iTools. This is a premium tool, but very simple to use. It is the best tool to use, especially if you are having a device with the latest iOS version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
 
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
@@ -322,6 +405,9 @@ From the steps used in both methods, it is very clear that iTools is the best ap
 
 When you want to spoof Snapchat to access Geo-Filters in any part of the world, you can use the complicated XCode or pay a fee and use the simpler iTools. There are various benefits that you gain from teleporting using these tools, with Geo-Filters access being the biggest benefit. If you want to use Snapchat all over the world without moving out of your home, then these are the ways that you can go about it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 8
 
 Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
@@ -346,6 +432,9 @@ Your online security is paramount. And one way to protect yourself from online s
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Change Location on Facebook Messenger
 
 After learning some reasons to fake location on Messenger, let's now know how to do that with easy steps. You don't need third-party help to **mock live locations on Messenger on Android** or iPhone. That's because the app boasts its inbuilt location feature. Follow me:
@@ -354,12 +443,18 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -374,6 +469,9 @@ Here's how to fake live location on Messenger with Dr.Fone:
 
 **Step 1. Download Dr.Fone and fire it up.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Start by downloading and installing Dr.Fone from the official website and launch the software on your Mac or Windows PC. Then, connect your smartphone to the PC using a USB wire. Please ensure to select the "Transfer Files" option.
@@ -412,10 +510,16 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
@@ -441,3 +545,28 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-itel-p55plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P55+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-itel-p55t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel P55T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-itel-s23-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel S23 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-camon-20-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Camon 20 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-camon-20-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Camon 20 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-phantom-v-flip-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Phantom V Flip Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-phantom-v-fold-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Phantom V Fold Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-pop-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pop 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-pova-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pova 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-pova-5-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pova 5 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-spark-10-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-spark-10-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-spark-20-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 20 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-spark-go-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark Go (2023) Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-g2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo G2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-s18-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S18 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-s18-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S18 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v29-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V29 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v30-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V30 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-x100-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo X100 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100i Have Find My Friends? | Dr.fone</u></a></li>
+</ul></div>

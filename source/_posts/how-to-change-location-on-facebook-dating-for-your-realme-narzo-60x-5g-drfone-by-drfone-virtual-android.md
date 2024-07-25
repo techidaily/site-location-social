@@ -1,7 +1,7 @@
 ---
 title: How to Change Location On Facebook Dating for your Realme Narzo 60x 5G | Dr.fone
-date: 2024-03-26 23:14:57
-updated: 2024-03-29 20:13:18
+date: 2024-07-24T20:47:29.810Z
+updated: 2024-07-25T20:47:29.810Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Location On Facebook Dating for your Realme Narzo 60x 5G
 excerpt: This article describes How to Change Location On Facebook Dating for your Realme Narzo 60x 5G
 keywords: fake Twitter location for Android,change Twitter location for Realme Narzo 60x 5G,change skype location for Realme Narzo 60x 5G,change location for Realme Narzo 60x 5G,change facebook location for Android,fake WhatsApp location for Android,fake location for Android,change skype location for Android,fake facebook location for Android,change WhatsApp location for Realme Narzo 60x 5G,change Twitter location for Android,change location for Android
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## How to Change Location On Facebook Dating for your Realme Narzo 60x 5G
@@ -29,6 +29,9 @@ As far as Facebook Dating is concerned, you can change your location quickly to 
 - Go ahead and select the "Update Dating Location" choice.
 - Last but not least, don't forget to "Save" these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![fb dating location](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-1.jpg)
 
 ## Part 2: Fake Location to Match More Friends
@@ -49,6 +52,10 @@ Here is another option, significantly if you **can't change your Facebook dating
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## Part 3: How to Turn Facebook Location Services On and Off
@@ -61,6 +68,9 @@ Here is another option, significantly if you **can't change your Facebook dating
 - Select "Privacy."
 - Go to "Location Services."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
 
 - Toggle the corresponding button on or off depending on the current situation demands.
@@ -80,10 +90,17 @@ Android users can also turn the Facebook Location services on or off. The proced
 
 ## Part 4: FAQs About Facebook Dating
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 1.Can my friends see if I use Facebook Dating?
 
 It is one of the many advantages of using Facebook dating. It will ensure that no one, even your friends can see your Facebook dating profile. This hiding of the dating profile is automatic. So, don't expect your friends who are using Facebook dating to notice that you are using the platform. In the same vein, don't expect to see your friends who are using Facebook Dating.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. What happens when you like someone on Facebook Dating?
 
 If you notice a profile that matches what you are looking for, Facebook Dating requires you to do something about it. You can choose to begin a conversation by either tapping the person's photo or hitting the love icon. Let's elaborate on how you do either of the two.
@@ -102,6 +119,9 @@ If you notice a profile that matches what you are looking for, Facebook Dating r
 
 It is important to note that what happens after that solely depends on the other party. If you send them a like, they have to send a like back for a conversation to commence. But, equally important, the other person has to reply to your message for you to start a conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How do you know if someone is on Facebook Dating?
 
 One must admit that knowing whether someone is on Facebook Dating can be quite hard. After all, the feature automatically hides its users' profiles. The simplest way of finding out is to rely on luck. Go ahead and join Facebook Dating and then wait for Facebook Dating to suggest that person. There are high chances of waiting long before knowing whether someone is on Facebook Dating. If they change their Facebook dating location, there is a possibility of never knowing.
@@ -112,6 +132,9 @@ That said and done, there are other more specific ways of identifying if that pe
 
 Unfortunately, Facebook Dating doesn't support read receipts. Your option is to keep waiting for the response until they respond or hope to forget about it altogether. For someone genuinely interested, the wait can be pretty frustrating. It could mean that the other parties are genuinely busy or not interested. If the case is the latter, the other party will most likely see the message and ignore it. Please tell him whether they have yet to see your message or chose not to respond.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. How anonymous is a Facebook Dating profile?
 
 Seeing someone's Facebook Dating profile can be a daunting task. Despite that being the case, anonymity is something you can't expect from this platform. If someone gets lucky and sees your dating profile, recognizing you are pretty high. After all, your profile displays the name you use on Facebook.
@@ -124,12 +147,18 @@ It is an excellent way of meeting new friends who live outside your residence ar
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Pause Life360 Location Sharing For Realme Narzo 60x 5G
 
 Life360 has become a household name in location-sharing apps, renowned for its ability to connect family and friends seamlessly across Android and iOS platforms. This app enhances safety and fosters a sense of closeness among its users.
 
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 
@@ -137,6 +166,9 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Purpose of Life360
 
 At its core, Life360 is about safety and connectivity. The app includes features like location history, driving reports, and even crash detection, making it a versatile tool for modern families. It provides several benefits, like:
@@ -145,6 +177,9 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
@@ -182,6 +217,9 @@ By selecting **Force Stop**, you temporarily halt the app’s function without u
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 ### Pause by Using Airplane Mode
@@ -196,6 +234,9 @@ Removing the app from your device will stop it from sharing your location. The b
 
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
@@ -204,6 +245,10 @@ Sometimes, pausing your location sharing on Life360 may raise questions or conce
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
 To learn how to pause location on Life360 without them knowing using Dr.Fone, follow the steps below:
@@ -211,6 +256,9 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 - **Step 1:** Download and install the Dr.Fone on your device. Connect your phone to your PC to begin the process. After launching the software, access **Virtual Location** from the **Toolbox** interface. Then, click **Get Started** to continue.
 - **Step 2:** After launching the function, you’ll notice the **One-Stop Route** function at the top-right section. This feature is crucial for setting up your virtual movement.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![life360 virtual location page](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
@@ -219,12 +267,18 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article explored various methods of **pausing location sharing on Life360**. Life360 is essential for many who share their locations with friends and family. The options are diverse, from simple app-based methods to more advanced settings adjustments and even a virtual location spoofer like Dr.Fone.
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## How To Activate and Use Life360 Ghost Mode On Realme Narzo 60x 5G
 
 Life360 is a popular location-sharing app among families and friends. The platform enables real-time tracking of loved ones’ whereabouts on smartphones. But there are moments when you might want to disable it for privacy.
@@ -244,8 +298,15 @@ If you’re intrigued by maintaining privacy on Life360, read on further. Learn 
 
 Now that you know all of **Life360 Ghost Mode updates** and their significance, let’s explore the steps to enable it. Learn how to activate Ghost Mode within the Life360 app by using a dedicated tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
@@ -284,6 +345,9 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
@@ -306,6 +370,9 @@ Others won’t know your location, potentially leading to miscommunication or em
 
 You can engage in activities like sneaking out without being monitored by their Life360 circle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Pros of Ghost Mode Activation
 
 Here are the pros of using **Ghost Mode on Life360**.
@@ -326,6 +393,13 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -336,6 +410,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -348,26 +425,41 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Method 3: Low Data Mode
 
 Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone to your offline status. An alternative method to deactivate Life360 awareness is by using Low Data Mode:
 
 **For iOS**: Open the **Settings** app on your Realme Narzo 60x 5G or iPad. Tap on **Wi-Fi**. Select the **i** icon beside the connected Wi-Fi network. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Turn on Airplane Mode
 
 Activating Airplane Mode deactivates all network connections. It includes GPS, offering a swift solution to cease location sharing on Life360. The action also suspends calls, texts, and internet access, so keep that in mind. Follow the steps:
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 5: Use a Burner Phone
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
@@ -397,3 +489,33 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-c33-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme C33 2023 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c33-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C33 2023 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-c33-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme C33 2023 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-c33-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme C33 2023 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-c33-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme C33 2023 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-c33-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme C33 2023 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-c33-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme C33 2023 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-c33-2023-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme C33 2023 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-c55-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme C55 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme C33 2023 | Dr.fone</u></a></li>
+</ul></div>
