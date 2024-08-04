@@ -376,27 +376,4 @@ Remember, there are several other find my friends apps in the app store, which c
 
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-v2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic V2 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-magic-vs-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Magic Vs 2 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-play-40c-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Play 40C Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-play-7t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Play 7T Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-v-purse-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor V Purse Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x50-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X50 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x50i-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X50i Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x50iplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X50i+ Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x7b-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X7b Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-gt-10-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix GT 10 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-hot-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Hot 30 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-hot-30i-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Hot 30i Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-hot-40-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Hot 40 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-hot-40-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Hot 40 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-vip-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 VIP Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-vip-racing-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 VIP Racing Edition Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30i-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30i Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-smart-7-hd-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 7 HD Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-smart-7-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 7 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-smart-8-hd-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone</u></a></li>
-</ul></div>
+
