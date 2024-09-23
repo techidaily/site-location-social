@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Google Pixel 8 | Dr.fone
-date: 2024-09-11T16:49:53.418Z
-updated: 2024-09-17T07:10:03.193Z
+date: 2024-09-15T17:40:36.370Z
+updated: 2024-09-23T10:06:17.723Z
 tags: 
   - virtual location change
   - social app
@@ -70,6 +70,13 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
@@ -77,6 +84,13 @@ The live location feature is entirely optional, and it depends on whether you wa
 Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
@@ -181,6 +195,13 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
@@ -188,6 +209,13 @@ Step 3: Now, open the app and search the location that you want to send. Once yo
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
@@ -237,6 +265,13 @@ The in-built apps like 'Camera' use Location to add the time and date stamp to y
 
 ![photo with date stamp](https://images.wondershare.com/drfone/2020/2020/photo-with-time-date-stamp-pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Your 'Reminder or Alarm' apps also use location to send you notifications and pop-ups to intimate you that you've reached a specific location. If you have somewhere to be, they can also tell you how long it will take to be there. It completely depends on the type of app you are using.
 
 ![reminder app](https://images.wondershare.com/drfone/2020/2020/reminder-apps-iphone-pic3.jpg)
@@ -250,13 +285,6 @@ Compass is another app that needs access to the location to tell you which direc
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Change GPS location on iPhone using a PC program
 
@@ -282,6 +310,13 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change GPS location on iPhone using an external device
 
 The external devices connect to the Lightning port of your device and create a secondary GPS that your apps and iPhone will detect. These are not completely software-based. You need to buy these mini-devices first, and then you can proceed with the location spoofing. These areas reliable as any softwares and much more than VPNs.
@@ -297,19 +332,6 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 **Step 2:** Open the Double Location iOS app and open the Map Tab.
 
 ![companion app double location map](https://images.wondershare.com/drfone/2020/2020/companion-app-double-location-map-pic11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Move the pin to the location that you want to shift to virtually. If you cannot pinpoint the exact location, there is nothing much we can do about it. You have to settle for a little compromise. Adjust any other settings that you want to (Gaming).
 
@@ -335,13 +357,6 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Launch the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name". (Add your information)
 
 **Step 5:** At this stage, you have to set up the Development Team and proceed to connect your Google Pixel 8 device to the Mac Device.
@@ -356,13 +371,6 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Change GPS location on iPhone using Cydia
 
 Cydia offers an app named Location Spoofer. This one is a very good option for those ready/okay with jailbreaking their iPhone devices. You can change the Phone Location iPhone without jailbreak in the previous suggestions, but that is not possible here. This is how you do it -
@@ -374,6 +382,13 @@ Cydia offers an app named Location Spoofer. This one is a very good option for t
 **Step 2:** Launch the app and enter your virtual address into the search box at the top.
 
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Once you are sure about your location, change the toggle from 'OFF' to 'ON' at the bottom of the page.
 
@@ -416,6 +431,13 @@ LinkedIn can also be accessed from your Google Pixel 8 and iOS devices, and the 
 - Step 3. From the drop-down list, choose the desired Country/Region. As per the selection made, the city and the postal code also have to be added.
 - Step 4. Tap on the Save button to confirm the selection.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Change the LinkedIn location by Drone – Virtual Location \[iOS & Android\]
 
 Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
@@ -453,13 +475,6 @@ Step 4. Now you need to activate the teleport mode, and for this, click on the t
 Step 5. Next, choose the desired location at the upper-left field from the drop-down list and then tap on the Go button.
 
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
 
@@ -505,16 +520,16 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-escapades-our-selection-of-best-action-adventures/"><u>[New] 2024 Approved Ultimate Escapades Our Selection of Best Action-Adventures</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-amplify-your-tiktok-impact-with-these-30-captivating-nicknames/"><u>[Updated] In 2024, Amplify Your TikTok Impact with These 30 Captivating Nicknames</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-instagram-growth-with-advanced-analysis-platforms/"><u>[Updated] In 2024, Boost Instagram Growth with Advanced Analysis Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-valorant-portraits-instant-professional-thumbnail-designs/"><u>[Updated] Valorant Portraits - Instant Professional Thumbnail Designs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-hilarious-childrens-content-on-youtube-a-kid-friendly-guide/"><u>Best Hilarious Children's Content on YouTube: A Kid-Friendly Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-pro-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 14 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x-for-2024/"><u>[New] Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>[Updated] Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-the-complexities-of-color-correction-using-luts/"><u>[Updated] Navigating the Complexities of Color Correction Using LUTs</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-how-to-turn-on-cookies-in-chromefirefoxsafari/"><u>Enabling Website Tracking: How to Turn On Cookies in Chrome/Firefox/Safari</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-asus-rog-phone-8-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Asus ROG Phone 8 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conversational-flow-in-cinematic-storytelling/"><u>In 2024, Conversational Flow in Cinematic Storytelling</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-clearer-internet-video-views/"><u>Mastering Clearer Internet Video Views</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

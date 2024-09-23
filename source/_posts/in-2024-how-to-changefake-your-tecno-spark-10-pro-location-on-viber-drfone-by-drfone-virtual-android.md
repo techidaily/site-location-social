@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Tecno Spark 10 Pro Location on Viber | Dr.fone
-date: 2024-09-10T08:29:10.407Z
-updated: 2024-09-17T11:05:49.793Z
+date: 2024-09-19T02:22:15.803Z
+updated: 2024-09-23T10:10:32.616Z
 tags: 
   - virtual location change
   - social app
@@ -28,6 +28,13 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Tecno Spark 10 Pro/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -35,6 +42,13 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
@@ -122,19 +136,6 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
@@ -144,6 +145,13 @@ You can share your live location on Viber just like you would on Facebook, Whats
 Facebook is a social media platform that puts many things at your disposal. Thanks to Facebook, you can get some entertainment, shop, or even search for your soulmate through Facebook dating. Unfortunately, if you choose to try out the latter, one thing needs to be done. You need to **change your Facebook dating location** to interact with people outside your local area. In this way, you can have the chance to match more people from other regions.
 
 Interestingly, you also enjoy other additional features such as online buying, marketing, and entertainment simultaneously. This article teaches you **how to change your location on Facebook dating**. Read on to find out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Change Location On Facebook Dating in an Official Way
 
@@ -176,16 +184,10 @@ Here is another option, significantly if you **can't change your Facebook dating
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Turn Facebook Location Services On and Off
@@ -199,19 +201,6 @@ Here is another option, significantly if you **can't change your Facebook dating
 - Go to "Location Services."
 
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Toggle the corresponding button on or off depending on the current situation demands.
 
@@ -251,6 +240,13 @@ If you notice a profile that matches what you are looking for, Facebook Dating r
 - Tap the photo, write a message you deem fit, and send it.
 
 It is important to note that what happens after that solely depends on the other party. If you send them a like, they have to send a like back for a conversation to commence. But, equally important, the other person has to reply to your message for you to start a conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How do you know if someone is on Facebook Dating?
 
@@ -324,39 +320,33 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 ![tap get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** You'll be asked to choose your device type on the next screen. Based on which smartphone you're using, either select Android or iOS and click “Next” to proceed further.
 
 ![select device type](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** A map with your current location will appear on your screen. Select the “Teleport Mode” icon at the top-right corner and search for a specific location using the search bar.
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Select the desired location and the pointer will automatically move to the selected location. Finally, tap on the “Move Here” button to set it as the current location for your device.
 
 ![click move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 So, that's how you can change location on Yik Yak using Dr.Fone - Virtual Location on both Android and iOS. Once your location is changed, you'll be able to see posts from other areas on Yik Yak and react to them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: FAQs about Yik Yak
 
@@ -380,6 +370,13 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -394,17 +391,21 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-to-get-royalty-free-clip-art-for-2024/"><u>[New] How to Get Royalty Free Clip Art for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-using-telegram-web-effectively/"><u>[Updated] The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-xr-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone XR by Name | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-personalization-enhance-your-websites-visitor-experience/"><u>Cookiebot-Driven Personalization: Enhance Your Website's Visitor Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-et-2750-printer-drivers-on-windows-step-by-step-guide/"><u>Download the Latest Epson ET-2750 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-find-n3-flip-messages-recovery-recover-deleted-messages-from-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>Oppo Find N3 Flip Messages Recovery - Recover Deleted Messages from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-future-of-shopping-microsoft-ai-hub/"><u>Unveiling the Future of Shopping: Microsoft AI Hub</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-your-ultimate-path-to-google-podcast-submission-for-2024/"><u>[New] Your Ultimate Path to Google Podcast Submission for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>[Updated] 2024 Approved Time-Lapse Titans Choosing the Crème De La Camera</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/chorus-chamber-capture-save-and-analyze-sound-for-2024/"><u>Chorus Chamber Capture, Save & Analyze Sound for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-meizu-21-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Meizu 21 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-meizu-21-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Meizu 21 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-essential-tips-for-incorporating-music-seamlessly-into-video-productions-without-financial-barriers/"><u>In 2024, Essential Tips for Incorporating Music Seamlessly Into Video Productions Without Financial Barriers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-for-advanced-periscope-techniques/"><u>In 2024, The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-minute-by-minute-srt-conversion-to-text-txt-for-2024/"><u>Mastering Minute-by-Minute SRT Conversion to Text (TXT) for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-resolve-lagging-media/"><u>Methods to Resolve Lagging Media</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
 

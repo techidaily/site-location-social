@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12 Pro 5G | Dr.fone
-date: 2024-09-13T12:50:42.663Z
-updated: 2024-09-17T09:17:15.243Z
+date: 2024-09-19T18:17:34.495Z
+updated: 2024-09-22T19:20:43.941Z
 tags: 
   - virtual location change
   - social app
@@ -34,6 +34,13 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -51,6 +58,13 @@ As you've learned some essential merits and demerits about sharing locations on 
 2\. This leads you to a new screen that shows your location status. Look for the "Search" bar on the top and type in the location you want to send. Observe the search results and tap on the location to send it to the individual.
 
 ![send whatsapp location](https://images.wondershare.com/drfone/article/2024/01/share-fake-location-on-whatsapp-android-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.2. Pin a Location in WhatsApp Location Service
 
@@ -70,6 +84,13 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
@@ -79,13 +100,6 @@ Specify the period and continue you begin the sharing.
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
 
@@ -107,16 +121,16 @@ To start with, launch the Dr.Fone toolkit on your computer and launch the “Vir
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Using an authentic lightning cable, connect your Xiaomi Redmi Note 12 Pro 5G to the computer and click on the “Get Started” button.
 
 ![connect your Xiaomi Redmi Note 12 Pro 5G to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Step 2: Look for any location of your choice_
 
@@ -195,6 +209,13 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
@@ -210,6 +231,13 @@ If you have shared the fake live location, remember to change it after 15 or 30 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
 
 ![identify fake location](https://images.wondershare.com/drfone/article/2019/10/identify-fake-location.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It is pretty simple, and if someone has sent you a fake location, you will see a red pin dropped on the location with the address text. However, there will be no text address if the location that is shared is original. And that’s how you identify that someone has shared a fake location.
 
@@ -271,6 +299,13 @@ Step 3. Now tap **Allow Location** and choose a new location on the world map th
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
 As you can see, sending a pinned location directly on Messenger is only good if you want to share the place with a specific contact. In other words, you can't natively spoof the location of multiple contacts on Messenger. So, if you want to **fake live location on Messenger on iOS** and Android, using a robust option like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a good idea.
@@ -322,13 +357,6 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 ### 2\. Can I fake my location on Facebook?
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How can I hide my location on Facebook?
 
@@ -399,6 +427,13 @@ Step 3. After the Xiaomi Redmi Note 12 Pro 5G device is connected, a new window 
 
 ![click Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4. Now you need to activate the teleport mode, and for this, click on the teleport icon at the upper-right corner.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -410,19 +445,6 @@ Step 5. Next, choose the desired location at the upper-left field from the drop-
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
 
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The benefits of setting up a customized location on LinkedIn
 
@@ -446,19 +468,6 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 - 2\. Go to settings, click on the "Privacy" tab in the menu.
 - 3\. Click on the "Edit your public profile" link.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Words
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
@@ -477,17 +486,18 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-video-submission-from-pcmobile-devices-to-youtube-shorts/"><u>[Updated] 2024 Approved Navigating Video Submission From PC/Mobile Devices to YouTube Shorts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-direct-transfers-sending-tweets-to-instagram-story/"><u>[Updated] In 2024, Direct Transfers Sending Tweets to Instagram Story</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shining-spotlight-on-luminous-hdr-techniques/"><u>[Updated] Shining Spotlight on Luminous HDR Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhance-imagery-in-canva-the-ultimate-10-guide/"><u>2024 Approved Enhance Imagery in Canva - The Ultimate 10 Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-12-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 12 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-how-to-repair-a-dysfunctional-keyboard-when-logging-in/"><u>Fix Guide: How to Repair a Dysfunctional Keyboard When Logging In</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-epson-es-400-ready-in-windows-with-this-free-driver-download-and-setup/"><u>Get Your Epson ES-400 Ready in Windows with This Free Driver Download and Setup</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 12 Pro Max Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-seamless-tweet-to-snap-transition-guide-for-2024/"><u>The Seamless Tweet-to-Snap Transition Guide for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-exploring-top-iphone-video-editors-cameo-and-filmorago-face-off-for-2024/"><u>[New] Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>[Updated] How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-stay-controlled-online-guide-to-blocking-distracting-youtube-channels/"><u>[Updated] In 2024, Stay Controlled Online Guide to Blocking Distracting YouTube Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-your-browsing-bliss-discover-the-most-effective-7-android-adblockers/"><u>2024 Approved Your Browsing Bliss Discover the Most Effective 7 Android AdBlockers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-yuva-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Yuva 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-lava-yuva-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Lava Yuva 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-effective-strategies-to-recover-missing-msvcrtdll-file/"><u>Solving the Mystery: Effective Strategies to Recover Missing msvcrt.dll File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-mouse-gurus-autoclick-wonders-on-windows-pcs/"><u>Top 5 Mouse Gurus: Autoclick Wonders on Windows PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transformative-editing-mastering-blend-mode-applications-for-2024/"><u>Transformative Editing Mastering Blend Mode Applications for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-homes-unlocked-your-guide-to-installing-hyper-v/"><u>Win 11 Homes Unlocked: Your Guide to Installing Hyper-V</u></a></li>
 </ul></div>
 

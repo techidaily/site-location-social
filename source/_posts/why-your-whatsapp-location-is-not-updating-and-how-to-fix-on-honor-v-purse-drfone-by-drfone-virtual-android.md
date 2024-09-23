@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Location is Not Updating and How to Fix On Honor V Purse | Dr.fone
-date: 2024-09-15T20:29:25.281Z
-updated: 2024-09-17T08:55:04.563Z
+date: 2024-09-16T08:12:13.877Z
+updated: 2024-09-22T16:03:52.006Z
 tags: 
   - virtual location change
   - social app
@@ -83,19 +83,6 @@ Below is how to spoof WhatsApp live location with Dr.Fone:
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Install and launch Dr.Fone on PC, and then connect your phone to the PC with a USB firewire. Then, tap the **Virtual Location** button on the home page and click **Get Started** on the pop-up window.
 
 **Step 2. Connect your phone to Dr.Fone.**
@@ -128,15 +115,22 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3. Allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3. Last but not least, set the duration your contact will view your location, add a comment, and tap the **Send** button. That's it!
@@ -211,6 +205,13 @@ PeopleFinders is a convenient service that allows users to search for people wit
 
 If you want to **search Tinder profiles** to find someone by their name, it can be tricky. In such instances, you can use a social media search engine to **find someone on Tinder** by name. These popular search engines, such as the ones mentioned below, can help you save significant time and effort during your search.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Tinder Profile Finder
 
 With the right Tinder finder tool, you can search for people on Tinder. An easy way to search for someone on Tinder is using the location you met them and setting your Tinder profile’s location to that.
@@ -271,9 +272,23 @@ If you want to **search Tinder profiles** and find the right person, you can hav
 
 ![enter target name](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Social Catfish will provide results that match your provided information. You can thus search among thousands of photos and profiles to see if you have the right one.
 
 ![locate the target profile](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Pros
 
@@ -296,13 +311,6 @@ Spokeo is another helpful option if you want to find someone with just a name on
 **Step 2:** Spokeo will search across its database and present you the profiles that match your name, along with links to their social or dating profiles, if any. You can see if it yields your desired results.
 
 ![find your desired person](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Pros
 
@@ -338,13 +346,6 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
@@ -359,6 +360,13 @@ Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Her
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
@@ -370,6 +378,13 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Can I send a fake location on Viber, and How?
 
@@ -407,13 +422,6 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
@@ -423,6 +431,13 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -470,18 +485,17 @@ You can share your live location on Viber just like you would on Facebook, Whats
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tailored-video-epilogue-templates-available-free/"><u>[New] In 2024, Tailored Video Epilogue Templates Available Free</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ideal-ps2-emulation-software-for-ios-users-for-2024/"><u>[Updated] Ideal PS2 Emulation Software for IOS Users for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>2024 Approved 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/down-of-profit-earning-potential-from-each-youtube-sponsored-post-for-2024/"><u>Breakdown of Profit Earning Potential From Each YouTube Sponsored Post for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dual-cpu-mastery-discover-the-power-of-silverstones-revolutionary-xe360-dual-aio-cooler/"><u>Dual-CPU Mastery: Discover the Power of SilverStone's Revolutionary XE360-Dual AIO Cooler</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-itel-p55-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel P55 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-f25-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo F25 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-slow-zoom-meetings-is-the-problem-software-or-hardware-related/"><u>Troubleshooting Slow Zoom Meetings: Is The Problem Software or Hardware-Related?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-60-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo 60 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch/"><u>[Updated] The Best Streaming Cameras to Boost Viewer Interaction on Twitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10plus-must-know-tactics-for-selecting-optimal-cricket-broadcasts/"><u>2024 Approved 10+ Must-Know Tactics for Selecting Optimal Cricket Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/app-aesthetics-overshadowing-computational-efficiency-issues/"><u>App Aesthetics Overshadowing Computational Efficiency Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-moto-g73-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Moto G73 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-pop-7-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Pop 7 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G73 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-comprehensive-app-audit-by-az-recorder/"><u>In 2024, Comprehensive App Audit by AZ Recorder</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-discovery-the-key-to-effective-video-titling/"><u>In 2024, Streamlining Discovery The Key to Effective Video Titling</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-fixing-persistent-minecraft-dungeon-pc-glitches/"><u>No More Interruptions: Fixing Persistent Minecraft Dungeon PC Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
 </ul></div>
 

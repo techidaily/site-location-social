@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Xiaomi Redmi 12 5G Location on Viber | Dr.fone
-date: 2024-09-10T18:51:24.803Z
-updated: 2024-09-17T13:57:38.461Z
+date: 2024-09-21T02:04:03.841Z
+updated: 2024-09-22T20:08:51.596Z
 tags: 
   - virtual location change
   - social app
@@ -48,6 +48,13 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Can I send a fake location on Viber, and How?
 
 So, is it possible to **Viber's fake location**? Unfortunately, Viber doesn’t allow users to share a different place from the real one. That’s because the app asks to automatically access your actual location data using Wi-Fi or GPS while signing up. Therefore, based on the permission you set yourself, the answer is NO.
@@ -74,6 +81,19 @@ Steps to change Viber location with Dr.Fone:
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
 **Step 2. Connect your phone to Dr.Fone with a USB cable.**
@@ -93,6 +113,13 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -179,13 +206,6 @@ Step 1. Download, install and run the Drone software on your system, and from th
 
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2. Click on Get Started at the main software interface and then connect your Xiaomi Redmi 12 5G or your Xiaomi Redmi 12 5G to your system.
 
 Step 3. After the Xiaomi Redmi 12 5G device is connected, a new window will open, which will show your present device location on the map.
@@ -196,20 +216,27 @@ Step 4. Now you need to activate the teleport mode, and for this, click on the t
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5. Next, choose the desired location at the upper-left field from the drop-down list and then tap on the Go button.
 
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
 
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The benefits of setting up a customized location on LinkedIn
 
@@ -237,6 +264,13 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edit and Send Fake Location on Telegram For your Xiaomi Redmi 12 5G in 3 Ways
 
 Telegram is an ad-free messaging application for Android and iOS. This app was established in 2013 and facilitates secure conversations among more than 550 active users. But despite its super-tight security, location-sharing on Telegram remains a concern among many. Like Facebook, the “People Nearby” feature on Telegram can expose your location to unwanted people. So, how can one create a **fake GPS on Telegram**? If you’re one of those concerned users, this post will teach you how to create a **Telegram fake GPS** quickly and easily. Let’s learn!
@@ -244,6 +278,13 @@ Telegram is an ad-free messaging application for Android and iOS. This app was e
 ## Part 1. Why Fake Location on Telegram?
 
 There are numerous reasons to fake location on Telegram. However, here are the main ones:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Protect your privacy
 
@@ -294,21 +335,7 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 ![ teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -319,19 +346,6 @@ For example, let’s learn how to set up the ExpressVPPN service on Android/iPho
 - ▪ Step 1. Download the VPN app on Google Play Store, launch it, and create an account.
 - ▪ Step 2. Follow the on-screen instructions to set up ExpressVPN and choose a VPN server location.
 - ▪ Step 3. Lastly, tap the **Power** button to connect to the VPN server in the country you’ve selected. That was easy, huh?
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Fake location on Telegram from free on Android
 
@@ -346,6 +360,13 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q1: Can my friends know when I fake a Telegram location?
 
@@ -379,21 +400,24 @@ There you go; you can now create a new Telegram location to prank your friends o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-15-tripods-and-mounts-for-gopro/"><u>[New] 2024 Approved Top 15 Tripods and Mounts for GoPro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-real-time-broadcasting-obs-to-instagram/"><u>[Updated] Real-Time Broadcasting OBS to Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>[Updated] X-Recorder Software Efficient PC Sound Recording for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>2024 Approved Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>2024 Approved Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-solve-dll-file-missing-error-on-your-computer/"><u>Effective Strategies to Solve DLL File Missing Error on Your Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-14-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 14 Plus Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-14-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 14 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723809009382-simplify-digital-organization-unleash-copernics-advanced-search-capabilities-to-streamline-your-files/"><u>Simplify Digital Organization: Unleash Copernic’s Advanced Search Capabilities to Streamline Your Files!</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Samsung Galaxy S23 Tactical Edition.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[Updated] Nailing Instagram Aesthetics Tips for Video Dimensions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-online-engagement-using-smart-analytics-the-magic-of-cookiebot-integration/"><u>Boost Online Engagement Using Smart Analytics: The Magic of Cookiebot Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bypassing-complexity-your-simple-guide-to-metaverse-avatars-for-2024/"><u>Bypassing Complexity Your Simple Guide to Metaverse Avatars for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974331029-eradicate-lagging-vids-instantly/"><u>Eradicate Lagging Vids Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-webex-pros-vs-cons-of-this-popular-online-meeting-solution/"><u>Evaluating WebEx: Pros Vs. Cons of This Popular Online Meeting Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro-for-2024/"><u>Expert Tips for Efficient Music Integration in Premiere Pro for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-asus-rog-phone-7-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Asus ROG Phone 7 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-asus-rog-phone-7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Asus ROG Phone 7 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-asus-rog-phone-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Asus ROG Phone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nokia-c12-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nokia C12 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-6-video-to-mp4-converters-for-dvd-chapters-your-ultimate-guide-by-movavi/"><u>Top 6 Video-to-MP4 Converters for DVD Chapters - Your Ultimate Guide by Movavi</u></a></li>
 </ul></div>
 

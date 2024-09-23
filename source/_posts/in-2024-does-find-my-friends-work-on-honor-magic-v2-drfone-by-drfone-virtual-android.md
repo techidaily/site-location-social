@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Honor Magic V2 | Dr.fone
-date: 2024-09-09T19:52:14.677Z
-updated: 2024-09-17T14:20:12.996Z
+date: 2024-09-15T22:51:26.919Z
+updated: 2024-09-23T08:11:12.564Z
 tags: 
   - virtual location change
   - social app
@@ -58,6 +58,13 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
@@ -69,19 +76,6 @@ This app is straightforward and pretty simple to use. You can look at the map an
 You can also issue an alert to your friends whenever you are in an emergency. All your loved ones will get the address details, current time, and the remaining battery life. If your group has a mix of Android, iOS, and Blackberry, this app is excellent for you.
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.2 Familo
 
@@ -133,6 +127,13 @@ When last did you update your system and apps? It is very easy! You should const
 
 You can also check if your location service is enabled on iPhone or Android settings. On iPhone, click Settings > Privacy > Location Service. It's even easier on Android. Swipe down your screen, long-press the GPS button, and enable the Location toggle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Reset location service on iPhone/Android
 
 iPhone users can try to reset the Location & Service settings. To do that, open Settings > General > Reset > Reset Location & Privacy. And for Android users, please try to take the refer the steps below to follow:
@@ -141,13 +142,6 @@ iPhone users can try to reset the Location & Service settings. To do that, open 
 - Tap the Location icon;
 - If you can't find the Location icon, please go to settings, or tap the "Edit" icon to go on;
 - Turn **Google Location Accuracy** on or off**.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Uninstall and reinstall WhatsApp
 
@@ -203,16 +197,16 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating click location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. From there, allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
 ![whatsapp location not updating](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. Last but not least, set the duration your contact will view your Location, add a comment, and tap the **Send** button. That's it!
 
@@ -240,6 +234,13 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Change Location on Yik Yak For your Honor Magic V2 to Enjoy More Fun
 
 Yik Yak has to be one of the most controversial social media applications. First launched in 2013, Yik Yak went into haze in 2017 after receiving harsh criticism due to its poor privacy policies. However, after four years of complete shutdown, Yik Yak was relaunched in 2021 with improved security features and functionality.
@@ -258,6 +259,13 @@ Now, users look for ways to change location on Yik Yak to meet people from diffe
 
 So, what are the different ways to change location on Yik Yak? Since Yik Yak uses your phone's GPS sensors to detect the current location, you'll have to manipulate the GPS signals to get the job done. To do this, you can use different methods such as:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Using the peek feature to view other local Yik Yak groups or communities
 
 As we mentioned earlier, Peek is the built-in feature of Yik Yak that allows users to find out what people are saying about a particular topic in different locations.
@@ -265,10 +273,10 @@ As we mentioned earlier, Peek is the built-in feature of Yik Yak that allows use
 However, this feature has a few limitations. First, even though you'll be able to explore posts from other locations, you won't be able to react to them. A user can only respond to posts in his particular area. So, “Peek” would only be a suitable solution for exploring posts from other locations, but not changing the Yik Yak location itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Use Dr.Fone - Virtual Location to fake GPS location
@@ -299,15 +307,22 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 ![tap get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** You'll be asked to choose your device type on the next screen. Based on which smartphone you're using, either select Android or iOS and click “Next” to proceed further.
 
 ![select device type](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** A map with your current location will appear on your screen. Select the “Teleport Mode” icon at the top-right corner and search for a specific location using the search bar.
@@ -356,20 +371,25 @@ Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-leveraging-zoom-for-optimal-productivity-in-win11-environments/"><u>[New] 2024 Approved Leveraging Zoom for Optimal Productivity in Win11 Environments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-perfectly-stream-your-ps4-gaming-session-for-2024/"><u>[Updated] How to Perfectly Stream Your PS4 Gaming Session for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>[Updated] In 2024, Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-12-pro-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 12 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 4G Phone without Google Account?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-podcast-title-craft-the-essential-handbook/"><u>In 2024, Mastering Podcast Title Craft The Essential Handbook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-premium-vr-headset-picks-for-uavs/"><u>In 2024, Premium VR Headset Picks for UAVs</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-6-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 6 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mp4-conversion-made-simple-fb-video-to-720p-1080p-at-zero-charge/"><u>MP4 Conversion Made Simple FB Video to 720P, 1080P at Zero Charge</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[New] In 2024, Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-quick-paths-to-influence/"><u>[New] In 2024, Mastering Instagram Quick Paths to Influence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-seamless-integration-mac-recording-techniques-for-snapchat/"><u>[New] In 2024, Seamless Integration Mac Recording Techniques for Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-of-facebook-video-content-success/"><u>[New] Unveiling the Secrets of Facebook Video Content Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Lava Blaze 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificnial-intelligence-the-double-edged-sword-enabling-cybercriminal-activities-five-ways/"><u>Artificnial Intelligence: The Double-Edged Sword Enabling Cybercriminal Activities (Five Ways)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-lava-blaze-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Blaze 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-top-10-preferred-gopro-housing/"><u>In 2024, Ultimate Guide Top 10 Preferred GoPro Housing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431297671-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
 
