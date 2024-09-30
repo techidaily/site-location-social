@@ -1,280 +1,178 @@
 export default function initLocalSearch() {
-  // Search DB path
-  let searchPath = config.path;
-  if (!searchPath) {
-    // Search DB path
-    console.warn("`hexo-generator-searchdb` plugin is not installed!");
-    return;
-  }
+  // Host
+  const hostname = config.hostname;
 
   // Popup Window
   let isfetched = false;
-  let datas;
-  let isXml = true;
-  if (searchPath.length === 0) {
-    searchPath = "search.xml";
-  } else if (searchPath.endsWith("json")) {
-    isXml = false;
-  }
+  let currentPage = 1;
+  let lastSearchText = '';
+  
+  const inFetchingHTML = '<div id="no-result"><i class="fa-solid fa-spinner fa-spin-pulse fa-5x fa-fw"></i></div>';
+  const noResultHTML = '<div id="no-result"><i class="fa-solid fa-box-open fa-5x"></i></div>';
+  
   const searchInputDom = document.querySelector(".search-input");
   const resultContent = document.getElementById("search-result");
+  
+  const updateFetchingState = () => {
+    resultContent.innerHTML = inFetchingHTML;
+    window.pjax && window.pjax.refresh(resultContent);    
+  }
 
-  const getIndexByWord = (word, text, caseSensitive) => {
-    let wordLen = word.length;
-    if (wordLen === 0) return [];
-    let startPosition = 0;
-    let position = [];
-    let index = [];
-    if (!caseSensitive) {
-      text = text.toLowerCase();
-      word = word.toLowerCase();
-    }
-    while ((position = text.indexOf(word, startPosition)) > -1) {
-      index.push({ position, word });
-      startPosition = position + wordLen;
-    }
-    return index;
-  };
-
-  // Merge hits into slices
-  const mergeIntoSlice = (start, end, index, searchText) => {
-    let currentItem = index[index.length - 1];
-    let { position, word } = currentItem;
-    let hits = [];
-    let searchTextCountInSlice = 0;
-
-    // Merge hits into the slice
-    while (position + word.length <= end && index.length !== 0) {
-      if (word === searchText) {
-        searchTextCountInSlice++;
+  const removeFetchingState = () => {
+    // Remove loading animation
+    const noResultDom = document.querySelector("#no-result");
+    noResultDom &&
+      (noResultDom.innerHTML =
+        '<i class="fa-solid fa-magnifying-glass fa-5x"></i>');
+  }
+  
+  const resetInitState = () => {
+    resultContent.innerHTML = noResultHTML;
+    removeFetchingState();
+    window.pjax && window.pjax.refresh(resultContent); 
+  }
+  
+  const renderPaginationButtons = (pageNumbers) => {
+    const paginationContainer = document.createElement('div');
+    const paginationButtons = [];
+    
+    pageNumbers.forEach(num => {
+      const button = document.createElement('button');
+      button.textContent = num;
+      button.classList.add('pagination-button');
+      if (num === currentPage) {
+        ['active','font-bold', 'text-sky-500'].forEach(c => {
+          button.classList.add(c);  
+        }) 
       }
-      hits.push({
-        position,
-        length: word.length,
-      });
+      paginationButtons.push(button);
+    })
 
-      const wordEnd = position + word.length;
-
-      // Move to the next position of the hit
-      index.pop();
-      for (let i = index.length - 1; i >= 0; i--) {
-        currentItem = index[i];
-        position = currentItem.position;
-        word = currentItem.word;
-        if (wordEnd <= position) {
-          break;
-        } else {
-          index.pop();
-        }
-      }
-    }
-
-    return {
-      hits,
-      start,
-      end,
-      searchTextCount: searchTextCountInSlice,
-    };
-  };
-
-  // Highlight title and content
-  const highlightKeyword = (text, slice) => {
-    let result = "";
-    let prevEnd = slice.start;
-    slice.hits.forEach((hit) => {
-      result += text.substring(prevEnd, hit.position);
-      let end = hit.position + hit.length;
-      result += `<b class="search-keyword">${text.substring(
-        hit.position,
-        end,
-      )}</b>`;
-      prevEnd = end;
-    });
-    result += text.substring(prevEnd, slice.end);
-    return result;
-  };
-
-  const inputEventFunction = () => {
-    if (!isfetched) return;
-    let searchText = searchInputDom.value.trim().toLowerCase();
-    let keywords = searchText.split(/[-\s]+/);
-    if (keywords.length > 1) {
-      keywords.push(searchText);
-    }
+    paginationContainer.innerHTML = '';
+    ['flex','items-center','justify-center','space-x-4','py-3', 'fixed', 'bottom-0', 'left-1/2', '-translate-x-1/2'].forEach(c => {
+      paginationContainer.classList.add(c);  
+    })
+    paginationButtons.forEach((button) => {
+      paginationContainer.appendChild(button);
+    }); 
+    
+    paginationContainer.addEventListener('click', handlePaginationButtonClick);   
+    return paginationContainer;
+  }
+  
+  const highlightedText = (text, keywords) => {
+    return text.replace(new RegExp(keywords.join('|'), 'gi'), (match) => `<span style="background-color: yellow;">${match}</span>`);
+  }
+  
+  const onFetchData = (res) => {
     let resultItems = [];
-    if (searchText.length > 0) {
-      // Perform local searching
-      datas.forEach(({ title, content, url }) => {
-        let titleInLowerCase = title.toLowerCase();
-        let contentInLowerCase = content.toLowerCase();
-        let indexOfTitle = [];
-        let indexOfContent = [];
-        let searchTextCount = 0;
-        keywords.forEach((keyword) => {
-          indexOfTitle = indexOfTitle.concat(
-            getIndexByWord(keyword, titleInLowerCase, false),
-          );
-          indexOfContent = indexOfContent.concat(
-            getIndexByWord(keyword, contentInLowerCase, false),
-          );
-        });
-
-        // Show search results
-        if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
-          let hitCount = indexOfTitle.length + indexOfContent.length;
-          // Sort index by position of keyword
-          [indexOfTitle, indexOfContent].forEach((index) => {
-            index.sort((itemLeft, itemRight) => {
-              if (itemRight.position !== itemLeft.position) {
-                return itemRight.position - itemLeft.position;
-              }
-              return itemLeft.word.length - itemRight.word.length;
-            });
-          });
-
-          let slicesOfTitle = [];
-          if (indexOfTitle.length !== 0) {
-            let tmp = mergeIntoSlice(0, title.length, indexOfTitle, searchText);
-            searchTextCount += tmp.searchTextCountInSlice;
-            slicesOfTitle.push(tmp);
-          }
-
-          let slicesOfContent = [];
-          while (indexOfContent.length !== 0) {
-            let item = indexOfContent[indexOfContent.length - 1];
-            let { position, word } = item;
-            // Cut out 100 characters
-            let start = position - 20;
-            let end = position + 80;
-            if (start < 0) {
-              start = 0;
-            }
-            if (end < position + word.length) {
-              end = position + word.length;
-            }
-            if (end > content.length) {
-              end = content.length;
-            }
-            let tmp = mergeIntoSlice(start, end, indexOfContent, searchText);
-            searchTextCount += tmp.searchTextCountInSlice;
-            slicesOfContent.push(tmp);
-          }
-
-          // Sort slices in content by search text's count and hits' count
-          slicesOfContent.sort((sliceLeft, sliceRight) => {
-            if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
-              return sliceRight.searchTextCount - sliceLeft.searchTextCount;
-            } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
-              return sliceRight.hits.length - sliceLeft.hits.length;
-            }
-            return sliceLeft.start - sliceRight.start;
-          });
-
-          // Select top N slices in content
-          let upperBound = parseInt(
-            theme.navbar.search.top_n_per_article
-              ? theme.navbar.search.top_n_per_article
-              : 1,
-            10,
-          );
-          if (upperBound >= 0) {
-            slicesOfContent = slicesOfContent.slice(0, upperBound);
-          }
-
-          let resultItem = "";
-
-          if (slicesOfTitle.length !== 0) {
-            resultItem += `<li><a href="${url}" class="search-result-title">${highlightKeyword(
-              title,
-              slicesOfTitle[0],
-            )}</a>`;
-          } else {
-            resultItem += `<li><a href="${url}" class="search-result-title">${title}</a>`;
-          }
-
-          slicesOfContent.forEach((slice) => {
-            resultItem += `<a href="${url}"><p class="search-result">${highlightKeyword(
-              content,
-              slice,
-            )}...</p></a>`;
-          });
-
-          resultItem += "</li>";
-          resultItems.push({
-            item: resultItem,
-            id: resultItems.length,
-            hitCount,
-            searchTextCount,
-          });
-        }
+    // console.log(`data from remote:`);
+    // console.log(res);
+    
+    const dataList = res?.data || [];
+    const totalPages = res?.pagination?.totalPages || 0;
+    const curPage = res?.pagination?.page || 0;
+    
+    dataList.forEach(({ url,  title}) => {      
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      
+      a.href = url;
+      a.classList.add('search-result-title');
+      // a.textContent = title;
+      a.innerHTML = highlightedText(title, [lastSearchText]);
+      li.appendChild(a);
+      
+      // 添加到记录中
+      resultItems.push(li);                   
+    });
+    
+    if (dataList.length > 0) {
+      const container = document.createElement('div');
+      container.classList.add('search-result-list');
+      
+      const ul = document.createElement('ul');
+      resultItems.forEach((li) => {
+        ul.appendChild(li);
       });
-    }
-    if (keywords.length === 1 && keywords[0] === "") {
-      resultContent.innerHTML =
-        '<div id="no-result"><i class="fa-solid fa-magnifying-glass fa-5x"></i></div>';
-    } else if (resultItems.length === 0) {
-      resultContent.innerHTML =
-        '<div id="no-result"><i class="fa-solid fa-box-open fa-5x"></i></div>';
+      
+      const pageNumbers = [];
+      const maxButtons = 9; // 最多显示的按钮数
+      const startPageNum = Math.max(1, currentPage - Math.floor(maxButtons/2));
+      const endPageNum = Math.min(totalPages, startPageNum + maxButtons - 1);
+      for(let i = startPageNum; i <= endPageNum; i++) {
+        pageNumbers.push(i);
+      }
+      const paginationContainer = renderPaginationButtons(pageNumbers);
+      container.appendChild(ul);    
+      container.appendChild(paginationContainer);
+      
+      resultContent.innerHTML = "";
+      resultContent.appendChild(container);  
     } else {
-      resultItems.sort((resultLeft, resultRight) => {
-        if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
-          return resultRight.searchTextCount - resultLeft.searchTextCount;
-        } else if (resultLeft.hitCount !== resultRight.hitCount) {
-          return resultRight.hitCount - resultLeft.hitCount;
-        }
-        return resultRight.id - resultLeft.id;
-      });
-      let searchResultList = '<ul class="search-result-list">';
-      resultItems.forEach((result) => {
-        searchResultList += result.item;
-      });
-      searchResultList += "</ul>";
-      resultContent.innerHTML = searchResultList;
-      window.pjax && window.pjax.refresh(resultContent);
+      resultContent.innerHTML = noResultHTML;
+    }
+
+    window.pjax && window.pjax.refresh(resultContent);         
+  }  
+  
+  function handlePaginationButtonClick(event) {
+    const target = event.target;
+    if (target.classList.contains('pagination-button')) {
+      const pageNumber = parseInt(target.textContent);
+      currentPage = pageNumber;
+      
+      fetchData({page: currentPage, pageSize: 10, q: lastSearchText}, onFetchData);
+    }
+  }  
+  
+  const inputEventFunction = () => {
+    let searchText = searchInputDom.value.trim().toLowerCase();
+    
+    if (searchText.length > 0) {
+      lastSearchText = searchText;
+      currentPage = 1;
+      // Perform searching
+      fetchData({page:1, pageSize:10, q:lastSearchText}, onFetchData)
+    } else {
+      resetInitState();          
     }
   };
+  
+  const fetchData = ({page = 1, pageSize = 10, q = ''} = {}, callback) => {
+    if (q.trim() == '' || isfetched) return;
+    
+    const urlObj = new URL(`https://search.techidaily.com/api/search?site=${hostname}`);
+    urlObj.searchParams.set('page', page);
+    urlObj.searchParams.set('pageSize', pageSize);
+    urlObj.searchParams.set('q', q);
 
-  const fetchData = () => {
-    fetch(config.root + searchPath)
-      .then((response) => response.text())
+    const href = urlObj.href;
+    const headers = {
+      'Origin': 'https://search.techidaily.com', 
+      'Access-Control-Request-Method': 'GET', 
+      'Access-Control-Request-Headers': 'Content-Type', 
+    };
+    
+    updateFetchingState();
+    isfetched = true;
+    
+    // Fetch
+    fetch(href, { headers })
+      .then((response) => response.json())
       .then((res) => {
         // Get the contents from search data
         isfetched = true;
-        datas = isXml
-          ? [
-              ...new DOMParser()
-                .parseFromString(res, "text/xml")
-                .querySelectorAll("entry"),
-            ].map((element) => {
-              return {
-                title: element.querySelector("title").textContent,
-                content: element.querySelector("content").textContent,
-                url: element.querySelector("url").textContent,
-              };
-            })
-          : JSON.parse(res);
-        // Only match articles with not empty titles
-        datas = datas
-          .filter((data) => data.title)
-          .map((data) => {
-            data.title = data.title.trim();
-            data.content = data.content
-              ? data.content.trim().replace(/<[^>]+>/g, "")
-              : "";
-            data.url = decodeURIComponent(data.url).replace(/\/{2,}/g, "/");
-            return data;
-          });
-        // Remove loading animation
-        const noResultDom = document.querySelector("#no-result");
-        noResultDom &&
-          (noResultDom.innerHTML =
-            '<i class="fa-solid fa-magnifying-glass fa-5x"></i>');
-      });
+        removeFetchingState();
+            
+        callback && callback(res);
+        isfetched = false;          
+      })
+      .catch(err => {
+        console.error(err);
+        isfetched = false;
+      })
   };
-
-  if (theme.navbar.search.preload) {
-    fetchData();
-  }
 
   if (searchInputDom) {
     searchInputDom.addEventListener("input", inputEventFunction);
@@ -286,7 +184,6 @@ export default function initLocalSearch() {
       document.body.style.overflow = "hidden";
       document.querySelector(".search-pop-overlay").classList.add("active");
       setTimeout(() => searchInputDom.focus(), 500);
-      if (!isfetched) fetchData();
     });
   });
 
@@ -324,4 +221,6 @@ export default function initLocalSearch() {
       onPopupClose();
     }
   });
+  
+  resetInitState();
 }
