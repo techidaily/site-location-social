@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi A2 | Dr.fone
-date: 2024-10-16T16:54:23.742Z
-updated: 2024-10-22T22:48:11.333Z
+date: 2024-10-26T20:13:49.564Z
+updated: 2024-10-28T18:20:25.791Z
 tags: 
   - virtual location change
   - social app
@@ -32,7 +32,21 @@ There are many situations where users might need to set up fake locations, for f
 
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. All You Want to Know about WhatsApp Location Function
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.1 Send Location on WhatsApp
 
@@ -78,13 +92,6 @@ Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
@@ -111,13 +118,6 @@ Using an authentic lightning cable, connect your Xiaomi Redmi A2 to the computer
 
 ![connect your Xiaomi Redmi A2 to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
@@ -127,6 +127,13 @@ A map-like interface would be launched on the screen with dedicated options at t
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Step 3: Share fake location on WhatsApp_
 
@@ -153,6 +160,13 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
@@ -270,10 +284,10 @@ Step 3. Now go to the Fake GPS location app and choose a new location for your d
 Step 4. Finally, head to Facebook and change your location settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Create A Fake Check-In Location on Facebook
@@ -309,6 +323,13 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
@@ -357,16 +378,10 @@ As far as Facebook Dating is concerned, you can change your location quickly to 
 ![fb dating location](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Fake Location to Match More Friends
@@ -387,13 +402,6 @@ Here is another option, significantly if you **can't change your Facebook dating
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Turn Facebook Location Services On and Off
 
 **How do I change my location on Facebook dating**? That question is no longer a mystery. Alternatively, you can choose to turn Facebook Location services on or off. If you decide to go down that route, follow this guide.
@@ -407,10 +415,16 @@ Here is another option, significantly if you **can't change your Facebook dating
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Toggle the corresponding button on or off depending on the current situation demands.
@@ -427,19 +441,6 @@ Android users can also turn the Facebook Location services on or off. The proced
 - Turn the Locations off by choosing “Don’t Allow.”
 
 ![turn off facebook location android](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: FAQs About Facebook Dating
 
@@ -464,13 +465,6 @@ If you notice a profile that matches what you are looking for, Facebook Dating r
 - Tap the photo, write a message you deem fit, and send it.
 
 It is important to note that what happens after that solely depends on the other party. If you send them a like, they have to send a like back for a conversation to commence. But, equally important, the other person has to reply to your message for you to start a conversation.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How do you know if someone is on Facebook Dating?
 
@@ -506,20 +500,21 @@ It is an excellent way of meeting new friends who live outside your residence ar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[New] In 2024, IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-communication-utilizing-masks-and-filters/"><u>[New] In 2024, Streamlining Communication Utilizing Masks and Filters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-pathway-to-proficient-league-of-legends-screen-recordings-for-2024/"><u>[New] The Pathway to Proficient League of Legends Screen Recordings for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[New] The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>[New] Tips & Tricks for Effective CD Handling with WMP</u></a></li>
-<li><a href="https://location-social.techidaily.com/comprehensive-analysis-reviewing-google-duo/"><u>Comprehensive Analysis: Reviewing Google Duo</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-p55plus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel P55+ by Name | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y17s-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y17s Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 90 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-civi-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Civi 3 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-video-edits-with-adobe-premiere/"><u>Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Motorola</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-connection-failures-with-live-configuration-servers/"><u>Troubleshooting Guide: Fixing Connection Failures with Live Configuration Servers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ro-level-7-dslrs-that-transform-your-digital-storytelling-for-2024/"><u>[New] Pro-Level 7 DSLRs That Transform Your Digital Storytelling for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-securing-your-gaming-legacy-through-fbx-capture-systems-for-2024/"><u>[New] Securing Your Gaming Legacy Through FBX Capture Systems for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-macos-sierra-tools-for-optimized-video-transformation/"><u>[Updated] Best macOS Sierra Tools for Optimized Video Transformation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-traversing-youtube-dialogue-pathways-for-2024/"><u>[Updated] Traversing YouTube Dialogue Pathways for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y77t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y77t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/e1659fwd-new-windows-107-compatible-driver/"><u>E1659FWD: New Windows 10/7 Compatible Driver</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-11-pro-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 11 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-11-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 11 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/protecting-privacy-by-deleting-tracking-cookies-in-windows-11-and-android-phones/"><u>Protecting Privacy by Deleting Tracking Cookies in Windows 11 & Android Phones</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-rated-3d-films-in-hd-ultimate-selection-of-1080p-blu-ray-and-free-downloads-for-enjoyment-at-home/"><u>Top-Rated 3D Films in HD - Ultimate Selection of 1080P Blu-Ray and Free Downloads for Enjoyment at Home</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-essence-of-luts-for-professional-photography/"><u>Understanding the Essence of LUTs for Professional Photography</u></a></li>
 </ul></div>
 

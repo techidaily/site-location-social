@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S18 Pro | Dr.fone
-date: 2024-10-17T00:49:46.817Z
-updated: 2024-10-22T17:23:13.514Z
+date: 2024-10-23T18:17:47.447Z
+updated: 2024-10-28T18:37:21.228Z
 tags: 
   - virtual location change
   - social app
@@ -52,6 +52,13 @@ When last did you update your system and apps? It is very easy! You should const
 
 You can also check if your location service is enabled on iPhone or Android settings. On iPhone, click Settings > Privacy > Location Service. It's even easier on Android. Swipe down your screen, long-press the GPS button, and enable the Location toggle.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Reset location service on iPhone/Android
 
 iPhone users can try to reset the Location & Service settings. To do that, open Settings > General > Reset > Reset Location & Privacy. And for Android users, please try to take the refer the steps below to follow:
@@ -82,13 +89,6 @@ Below is how to spoof WhatsApp live location with Dr.Fone:
 **Step 1. Open the Virtual Location tool.**
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Install and launch Dr.Fone on PC and connect your phone to PC with a USB firewire. Then, tap the **Virtual Location** button on the home page and click **Get Started** on the pop-up window.
 
@@ -122,6 +122,13 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating click location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3. From there, allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
 ![whatsapp location not updating](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-5.jpg)
@@ -146,18 +153,18 @@ Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new 
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, and so on. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Words
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just edit and restart the app or check your location settings if it's enabled. And, of course, use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does find my friends work on Vivo S18 Pro
 
@@ -166,10 +173,10 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part1: How to track friends using iPhone or Android
@@ -218,25 +225,11 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Glympse
 
@@ -249,10 +242,10 @@ What makes Glympse different from others is the fact that you don't even need to
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Hide/Fake Snapchat Location on Your Vivo S18 Pro
@@ -292,13 +285,6 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
 
 - 3 hours : Ghost mode is turned on for 3 straight hours.
@@ -310,6 +296,13 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
 
 ## Part 4. How to fake Snapchat location on iPhone
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
 
@@ -382,6 +375,13 @@ Step 2: Setup GIT on Xcode
 
     ![connect iphone to mac](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Once done, opt it in as the build device and while you do it, ensure to keep it unlocked.
 8. Lastly, if everything is performed correctly, Xcode will now process some symbol files, please be patient and wait for it to complete.
 
@@ -411,10 +411,10 @@ Last but not least, the next method to fake Snapchat location is for Android dev
     ![activate the fake gps location](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -435,24 +435,21 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-alternatives-to-googles-digital-sticker-magic/"><u>[New] 2024 Approved Alternatives to Google's Digital Sticker Magic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-12-tycoons-where-every-decision-forges-your-path-to-glory/"><u>[Updated] In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-laughter-photo-composer-tool/"><u>2024 Approved Elite Laughter Photo Composer Tool</u></a></li>
-<li><a href="https://fox-place.techidaily.com/create-flip-book-ebooks-in-minutes-simple-page-turning-effects-on-flipbuilder/"><u>Create Flip Book Ebooks in Minutes - Simple Page-Turning Effects on FlipBuilder</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-at-no-cost-for-optimal-functionality/"><u>Download ASUS ATK0110 BIOS & ACPI Drivers at No Cost for Optimal Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-windows-update-malfunctions/"><u>Effective Strategies for Resolving Windows Update Malfunctions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-toolwiz-photosapp-in-depth-review-2023-for-2024/"><u>Exploring Toolwiz PhotosApp In-Depth Review, 2023 for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-receive-messages-and-calls-in-do-not-disturb-modes-on-iphones-top-8-solutions/"><u>How to Receive Messages & Calls in Do Not Disturb Modes on iPhones: Top 8 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-70-lite-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor 70 Lite 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-zte-nubia-z60-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does ZTE Nubia Z60 Ultra Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-gt-10-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix GT 10 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v30-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo V30 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-high-definition-gaming-laptops-reviewed/"><u>[New] Top 10 High-Definition Gaming Laptops Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-x-audio-studio-pro-for-computer-users/"><u>[Updated] 2024 Approved X-Audio Studio Pro for Computer Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-7-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 7 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-7-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 7 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-130-music-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia 130 Music For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-regain-entry-to-your-encrypted-system-drive-on-windows-10/"><u>How to Regain Entry to Your Encrypted System Drive on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-mini-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-hot-40-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Hot 40 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pushing-boundaries-the-innovations-of-magix-vpx-for-2024/"><u>Pushing Boundaries The Innovations of Magix VPX for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-gt-3-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme GT 3 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-on-creating-stunning-slides-with-movavi-slideshow-creator/"><u>Ultimate Tutorial on Creating Stunning Slides with Movavi Slideshow Creator</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Vivo X100 Pro Location on Viber | Dr.fone
-date: 2024-10-18T00:26:36.952Z
-updated: 2024-10-22T23:28:27.554Z
+date: 2024-10-22T19:13:12.022Z
+updated: 2024-10-28T18:28:57.502Z
 tags: 
   - virtual location change
   - social app
@@ -28,6 +28,13 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Vivo X100 Pro/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -43,13 +50,6 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -100,13 +100,6 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -162,13 +155,6 @@ Step 4. Finally, tap the **Save** button, and Facebook will automatically update
 
 **Note:** Although you can successfully change your bio, Facebook will still access your actual location. Now this means your Facebook recommendations and adverts will still be based on your locality. So, keep reading to learn other reliable ways to spoof your Facebook location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Change Facebook Location on Android phone
 
 Unlike the strict iPhones, Android allows you to install a third-party app to change the GPS location of your device and Facebook, to be precise. This means you don't need to fork out some serious money for a VPN service. So, in this section, you'll learn to fake a Facebook location on Android using the [Fake GPS location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US) app. It is a free program for teleporting your phone IP address to new places with a simple screen tap. Let's see how to do that:
@@ -183,6 +169,13 @@ Step 3. Now go to the Fake GPS location app and choose a new location for your d
 
 Step 4. Finally, head to Facebook and change your location settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Create A Fake Check-In Location on Facebook
 
 Sometimes you might want to prank your Facebook friends with a new location announcement. In other words, you can make them believe that you're in a particular location when in reality, you're not. In that case, the Facebook Check-In feature will come in handy. It's a simple but highly effective feature that adds your fake location to a Facebook post. Just think of it as a status update.
@@ -194,6 +187,13 @@ Step 1. Open Facebook on your favorite browser and tap the "**What's on your min
 Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key in a fake address and select it on the suggestions.
 
 ![fake address and tap gps icon](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
 
@@ -229,6 +229,13 @@ Install and run Dr.Fone on your Mac or Windows PC and then connect your phone to
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You'll see a new Dr.Fone window, where you'll click the **Get Started** button. Then, enable USB debugging on your phone before clicking **Next.**
 
 **Step 3. Choose a location and start moving.**
@@ -245,28 +252,15 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fake Snapchat Location on Vivo X100 Pro
 
 In this case, you can either turn off the location sharing feature or even fake your Snapchat location. Trust me - with the help of a Snapchat location spoofer, you can easily do it and that too without jailbreaking/rooting your phone. In this post, I will share these tips to fake GPS for Snapchat like a pro!
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: What is the Location Feature in Snapchat all about?
@@ -275,22 +269,29 @@ A while back, Snapchat has integrated the GPS feature, which means it can track 
 
 If the feature is enabled, then you can also share your location with others and even post it in your stories too.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to turn it off?
 
 Well, to be honest, a lot of people don't like to share their location with others on Snapchat. Thankfully, you can just disable it by visiting your Snapchat Settings and turning on the Ghost Mode. When the Ghost Mode is enabled, your location won't be shared with others. To start sharing your location, you can just turn off the Ghost Most and select with whom you wish to share your whereabouts (all or selected contacts).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Why You Might Wish to Fake Snapchat Location?
 
 Needless to say, if someone has our real-time location access, then they can easily track us. Therefore, if you are concerned about your security or privacy, but can't turn the feature off, then you can use a Snapchat spoof hack. This will fake your location for the Snapchat map and no one would know your actual whereabouts.
 
 Apart from security concerns, a lot of users would like to spoof location on Snapchat to trick their friends. You can just change your location to anywhere in the world and make your friends believe that you are visiting that place for fun.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Fake Snapchat Location on iPhone without Jailbreaking it?
 
@@ -316,13 +317,6 @@ You can search for a location by its name, address, or specific coordinates and 
 
 You can later launch Snapchat and check your location, which would be changed now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Fake GPS for Snapchat on Android?
 
 Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices. This is because there are plenty of fake GPS apps on the Play Store (which is not allowed on the App Store as of now). Though, before you use these apps, you need to make some changes on your Vivo X100 Pro. Here's how you can fake Snapchat location on an Android without rooting.
@@ -336,10 +330,10 @@ Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices
 1. That's it! Now you can simply launch the installed fake GPS app and enter the name/address of the place to spoof your device location. Your location would automatically be changed on all the installed apps (including Snapchat).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -360,15 +354,22 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/chromebook4/"><u>Chromebook上で失われた動画を4つの手順で回復する</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-mpe-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Change MPE Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi K70 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70E Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 4G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-x-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone X Unavailable Issue With Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/personalizing-your-iphone-experience-a-step-by-step-guide-to-modifying-fonts-on-your-device/"><u>Personalizing Your iPhone Experience: A Step-by-Step Guide to Modifying Fonts on Your Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mixed-reality-shopping-showcase/"><u>[New] Mixed Reality Shopping Showcase</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-augment-visuals-incorporating-black-box-and-letterboxing-in-social-media/"><u>[Updated] Augment Visuals Incorporating Black Box & Letterboxing in Social Media</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-step-by-step-approach-to-uncovering-favorite-youtube-remarks-for-2024/"><u>[Updated] Step-by-Step Approach to Uncovering Favorite YouTube Remarks for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-xcover-6-pro-tactical-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy XCover 6 Pro Tactical Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-spark-20c-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Spark 20C by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-pop-8-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Pop 8 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-professional-level-youtube-editing-techniques-you-need-to-know/"><u>In 2024, Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-usb-capacity-on-desktops/"><u>Steps to Enhance USB Capacity on Desktops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-swift-students-guide-to-bypassing-edgenuity-videos-for-2024/"><u>The Swift Student's Guide to Bypassing Edgenuity Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-audio-con-facilita-online-conversione-rapida-da-audio-a-formati-come-mp3-e-wma/"><u>Trasforma I Tuoi File Audio Con Facilità Online - Conversione Rapida Da AUDIO a Formati Come MP3 E WMA</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 </ul></div>
 
