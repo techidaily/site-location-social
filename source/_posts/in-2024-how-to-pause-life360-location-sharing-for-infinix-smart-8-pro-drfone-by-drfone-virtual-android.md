@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Infinix Smart 8 Pro | Dr.fone
-date: 2024-10-04T16:08:38.714Z
-updated: 2024-10-05T17:30:47.066Z
+date: 2024-10-30T02:23:06.687Z
+updated: 2024-11-02T19:55:28.047Z
 tags: 
   - virtual location change
   - social app
@@ -50,19 +50,6 @@ Open Life360 and go to the main screen. Select the Circle you want to pause. The
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Pausing the Whole App
 
 Regarding this method, pausing the location sharing for all your circles usually involves going through your phone’s **S ettings** and disabling location services for Life360. If you don’t want to do that, you can turn off location sharing for all your circles through the steps provided above.
@@ -86,10 +73,10 @@ To **pause the Life360 location** on iOS, you’ll have to open the Settings app
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pause by Using Airplane Mode
@@ -139,6 +126,13 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 
 ## Part1: How to track friends using iPhone or Android
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.1 Tracking Friends using iPhone
 
 As an Apple user, you might already know about the "Find my friends" app on your device. It is the most convenient way to share your location with your friends. You can also keep track of your peers with it. If you ever feel lost in a new area, you can use this app to notify your friends. You can use this app to create a route for all to meet in a selected location. If your friends are heading toward the destination, the app will notify you.
@@ -148,13 +142,6 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 1.1.1 You will find the "Find Friend" on your Home screen. In IOS 13, you will have to launch the "Find MY" app.
 
 ![How to use Find my friends app 1](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1.1.2 Tap "Add Friends."
 
@@ -169,6 +156,13 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 If you want to share your location, launch the app first. Then Tap "Me." Then, keep your "Share My Location" switched on.
 
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.2 Tracking Friends Using Android
 
@@ -206,6 +200,13 @@ What makes Glympse different from others is the fact that you don't even need to
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 Pro
 
 Snapchat users are very fond of using custom filters when sharing content on the app. It is a great way to ensure that your images and videos are only viewed by the people that you target. However, a new feature called Geo-filters has brought a lot of mixed feelings amongst Snachatters.
@@ -215,13 +216,6 @@ The filter is location-based, which makes any content that you share to be seen 
 Imagine that you are standing at the Niagara Falls and want to share with people who are in Europe; you will not be able to do this and this is why the filters are problematic to people in the Snapchat community.
 
 Thankfully, there are ways in which you can spoof our device, allowing you to access Geofilters anywhere in the world. Today, you learn several ways in which you can achieve this objective with ease.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Benefits that faking Snapchat brings to us
 
@@ -240,13 +234,6 @@ One of the best ways to fake Snapchat without jailbreak is to use XCode. This is
 Get XCode on your device and then launch it. Start by using the locations that are found to setup XCode. You can download XCode from Apple App Store. You will need your Apple ID and password to use XCode.
 
 ![Choose a location from XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the steps that you have to follow:
 
@@ -300,6 +287,19 @@ Now the error will be resolved and you should have a screen that is similar to t
 
 ![Correct options in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You may now run the app that you created before on your iOS device.
 
 Use an original USB cable to connect the iOS device to your computer.
@@ -308,22 +308,29 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 ![Run the app on the iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now your iOS device will be showing at the top. Select it and proceed.
 
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hit the “Play” icon that is found at the top left side of your screen.
 
 Wait for the process to be complete. You might as well get a cup of coffee as this can take quite a while.
 
 ![Wait for the process to be complete](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the process is complete, XCode will install the app on your iOS device. You will get the following error if your device has not been unlocked; unlocking the iOS device will put off the error message.
 
@@ -342,13 +349,6 @@ Go to XCode and then choose "Simulate Location" from the "Debug" menu and then s
 If you have done all that you need to do, then the location of your iOS device should instantly jump to the location that you have chosen.
 
 ![New location on iOS maps and Google Maps](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can proceed and see if you have access to Geo-filters in the new location.
 
@@ -383,10 +383,10 @@ Once you are finished with this spoofed location, you can simply select “Stop 
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
@@ -416,24 +416,22 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-leveraging-tiktok-to-mirror-your-best-features/"><u>[New] In 2024, Leveraging TikTok to Mirror Your Best Features</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-edge-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Edge 2023 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-visual-appeal-in-tiktok-videos/"><u>2024 Approved Boosting Visual Appeal in TikTok Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-maximizing-your-youtube-presence-via-featured-channel-strategy/"><u>2024 Approved Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oppo-find-x6-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Find X6 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x6-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X6 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/future-proofing-filmmaking-with-green-tools/"><u>Future-Proofing Filmmaking with Green Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-tecno-spark-go-2023-frp-by-drfone-android/"><u>How Can We Bypass Tecno Spark Go (2023) FRP?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-x6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo Find X6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-find-x6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Find X6 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/motorola-one-5g-ace-revealed-breakneck-speed-on-5g-networks-and-robust-battery-capacity-reviewed-inside-out/"><u>Motorola One 5G Ace Revealed: Breakneck Speed on 5G Networks & Robust Battery Capacity Reviewed Inside Out</u></a></li>
-<li><a href="https://fox-info.techidaily.com/secrets-to-mass-downloading-videos-from-tiktok-for-2024/"><u>Secrets to Mass Downloading Videos From TikTok for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-minimum-view-count-for-youtube-success-stories-for-2024/"><u>The Minimum View Count for YouTube Success Stories for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-advancing-ai-intensifies-our-digital-threats/"><u>Why Advancing AI Intensifies Our Digital Threats</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ideal-sites-convert-your-favorite-youtube-moments-into-ringtones/"><u>[New] 2024 Approved Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-song-words-into-visual-storytelling-with-lyric-video-maker/"><u>[New] Transforming Song Words Into Visual Storytelling with Lyric Video Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-cyberlinks-screen-recorder-an-expert-evaluation/"><u>[Updated] 2024 Approved Cyberlink's Screen Recorder An Expert Evaluation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-techniques-for-saving-snapchat-videos-for-2024/"><u>[Updated] Innovative Techniques for Saving Snapchat Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deciphering-and-solving-the-resident-evil-village-creepy-critter-conundrums/"><u>Deciphering and Solving the 'Resident Evil Village' Creepy Critter Conundrums</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oneplus-ace-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Ace 2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Ace 2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-getting-your-firestick-remote-back-on-track/"><u>Step-by-Step Solutions: Getting Your Firestick Remote Back on Track</u></a></li>
 </ul></div>
 

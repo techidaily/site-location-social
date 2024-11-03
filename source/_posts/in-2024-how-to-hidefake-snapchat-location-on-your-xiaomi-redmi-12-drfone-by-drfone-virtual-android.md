@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi 12 | Dr.fone
-date: 2024-10-01T17:45:05.804Z
-updated: 2024-10-05T16:06:54.925Z
+date: 2024-10-28T02:57:25.814Z
+updated: 2024-11-03T07:20:23.300Z
 tags: 
   - virtual location change
   - social app
@@ -50,6 +50,13 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
 
 - 3 hours : Ghost mode is turned on for 3 straight hours.
@@ -59,6 +66,13 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 5. Selecting either of the aforementioned settings will hide your location from SnapMap. Implies, other than you no one will be able to locate you over SnapMap.
 
     ![Ghost Mode settings](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. How to fake Snapchat location on iPhone
 
@@ -88,13 +102,6 @@ Step 5: A few moments later, the system will perceive the desired location you h
 
 ![distance shown](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -102,13 +109,6 @@ Step 6: This is it! The location has been changed to the desired one now. Now, w
 Also, on your iOS device, you can now Fake Snapchat location or in any other location-based app.
 
 ![view the new location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
@@ -123,19 +123,6 @@ Step 1: Install Xcode and Set up a Dummy app
 2. Once the application is installed, launch it over. The Xcode window will come up over your screen. Now, set up a new project and select “single view application” followed by hitting “Next”.
 
     ![setup a new project](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
@@ -156,13 +143,6 @@ Step 2: Setup GIT on Xcode
 
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Xiaomi Redmi 12 to your Mac computer.
 
     ![connect iphone to mac](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-10.jpg)
@@ -175,13 +155,6 @@ Step 2: Setup GIT on Xcode
 Step 3: Move Bitmoji
 
 Now, you’re all set to fake location for Snapchat map. For this, simply hit on the “Debug” menu and then opt for “Simulate Location” from the drop-down window. Lastly, select the location from the list as per your preference and you’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5. How to fake Snapchat location on Android
 
@@ -275,16 +248,10 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ## Part1: How to track friends using iPhone or Android
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.1 Tracking Friends using iPhone
@@ -311,6 +278,13 @@ If you want to share your location, launch the app first. Then Tap "Me." Then, k
 
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Tracking Friends Using Android
 
 Android users can also use this find my friends app. Even if someone in your group does not use a smartphone (seriously?), you can track them. You can send an invite, and if they agree, you can find your friend anytime. Remember, iPhone or Android, whatever the platform, all the members of the group have to agree with location sharing; otherwise, you cannot track them.
@@ -324,10 +298,10 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.1 Find my friends
@@ -339,16 +313,17 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.2 Familo
@@ -356,6 +331,13 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.3 Glympse
 
@@ -381,20 +363,20 @@ Remember, there are several other find my friends apps in the app store, which c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-video-posting-made-simple-with-correct-aspect-ratio/"><u>2024 Approved Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-price-and-power-a-comprehensive-guide-to-the-new-ipad-air-vs-ipad-pro/"><u>Comparing Price and Power: A Comprehensive Guide to the New iPad Air Vs. IPad Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/curing-a-non-operational-windows-control-panel/"><u>Curing a Non-Operational Windows Control Panel</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X6 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>In 2024, A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-14-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 14</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steinberg-driver-downloads-windows-macos-linux-support/"><u>Steinberg Driver Downloads - Windows, MacOS, Linux Support</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-creative-potential-fix-and-master-photoshop-cs8-on-windows-today/"><u>Unlock Creative Potential: Fix and Master PhotoShop CS8 on Windows Today!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/urgent-challenge-awaits-microsoft-as-deadline-nears-for-fixing-windows-11-flaws-insights-from-zdnet/"><u>Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-tiny-film-plot-proposal/"><u>[New] Tiny Film Plot Proposal</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-explore-the-limitless-potential-of-fb-vr-upload-tips/"><u>[Updated] In 2024, Explore the Limitless Potential of FB VR Upload Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-ace-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus Ace 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-ace-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Ace 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/immerse-yourself-in-the-elder-scrolls-v-skyrim-nintendo-switch-edition-reviewed/"><u>Immerse Yourself in The Elder Scrolls V: Skyrim - Nintendo Switch Edition Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-bose-speakers-that-wont-work/"><u>Step-by-Step Guide: Resolving Issues with Bose Speakers That Won't Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stressing-quick-and-easy-access-implies-a-fast-solution-for-users-of-all-versions-from-the-latest-to-older-ones-capturing-attention-through-time-saving-appe78/"><u>Stressing Quick and Easy Access Implies a Fast Solution for Users of All Versions, From the Latest to Older Ones, Capturing Attention Through Time-Saving Appeal in Your Title.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sony-xbr65x850f-65-in-4k-smart-led-a-budget-friendly-high-quality-viewing-experience-unveiled/"><u>The Sony XBR65X850F (65 in) 4K Smart LED: A Budget-Friendly, High-Quality Viewing Experience Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-how-to-turn-off-instagrams-suggested-posts-feature/"><u>Tutorial: How To Turn Off Instagram's Suggested Posts Feature</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleashing-the-power-of-color-in-final-cut-pro/"><u>Updated In 2024, Unleashing the Power of Color in Final Cut Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
 

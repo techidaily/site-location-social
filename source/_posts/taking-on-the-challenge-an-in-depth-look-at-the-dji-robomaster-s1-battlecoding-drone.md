@@ -1,7 +1,7 @@
 ---
 title: "Taking on the Challenge: An In-Depth Look at the DJI RoboMaster S1 Battlecoding Drone"
-date: 2024-08-26T11:08:06.264Z
-updated: 2024-08-27T11:08:06.264Z
+date: 2024-10-26T23:33:03.993Z
+updated: 2024-11-03T08:51:56.487Z
 categories:
   - BestProducts
 description: "This Article Describes Taking on the Challenge: An In-Depth Look at the DJI RoboMaster S1 Battlecoding Drone"
@@ -39,9 +39,29 @@ Lifewire / Jeremy Laukkonen
 
 4.5
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Synology RT2600ac Dual-Band Gigabit Wi-Fi Router
 
 ![Synology RT2600ac Wi-Fi Router](https://www.lifewire.com/thmb/X98B3wAW2r7DyvuZkYVy4NJFszc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4140134_SynologyRT2600AC-Hero-Square-7596215f9e6845d499d79c056528705b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -72,8 +92,12 @@ Lifewire / Jeremy Laukkonen
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Basic black with a cumbersome foot**
 
  The Synology RT2600AC plays it straight in the design department, with a black rectangular aesthetic that doesn’t do a whole lot to set itself apart from the crowd. The blocky design is broken up somewhat by angled ventilation slots on the top of the device, and you’ll also find a full suite of indicator lights front and center.
@@ -87,8 +111,12 @@ Lifewire / Jeremy Laukkonen
  When you set this router on a flat surface, it doesn’t sit flat due to a raised foot on the back of the device. This gives the router a bit of a unique look, and may help in heat management, but it also makes it extremely difficult to wall mount.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Quick and easy**
 
  Setup with the Synology RT2600AC was just about as easy as it gets. We connected the router to the internet and our test PC, set up an administrator account on the router, created a network SSID, and were prompted to select whether the device should act as a router or an access point, and that was about it.
@@ -99,9 +127,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: AC2600 with MU-MIMO functionality and optional mesh system**
 
  The Synology RT2600AC is an AC2600 MU-MIMO dual-band router that offers a theoretical maximum wireless bandwidth of 2.53Gbps, with 800Mbps over the2.4 GHz frequency and 1,733Mbps over the 5GHz frequency. It’s also capable of bonding two high-speed connections with a dual-WAN option. You aren’t likely to see those speeds in real life, even with the dual-WAN, but you can check out the next section to see what kind of speeds to expect.
@@ -119,8 +144,12 @@ Lifewire / Jeremy Laukkonen
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Fast Wi-Fi, but the Ethernet is a bit slow**
 
  We tested network throughput performance on a Mediacom gigabit internet connection, performing extensive tests on both the wired Ethernet connection and the dual-band Wi-Fi.
@@ -143,9 +172,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Windows-like web console**
 
  The Synology RT2600AC uses a Windows-like web console that’s a massive improvement over a lot of the competition. You can also change some settings through a phone app, like parental controls, guest networking, and basic wireless settings, but most of the advanced controls are locked behind the web console.
@@ -162,10 +188,6 @@ Lifewire / Jeremy Laukkonen
 
  The Synology RT2600AC does have some things going for it that other routers in this price range lack, like the fantastic web portal and package manager, and the ability to use it with optional MR2002AC units in a mesh system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **Synology RT2600AC vs. Netgear Nighthawk R7000P**
 
  The[Netgear Nighthawk R7000](https://www.amazon.com/NETGEAR-Nighthawk-Gigabit-Support-Compatible/dp/B00F0DD0I6/?tag=lifewire-onsite-prod-20&ascsubtag=4797390%7Cn02addc49243849b4b595ecadf875731014%7C) is a close competitor to the Synology RT2600AC with a lower MSRP of $220, and a street price closer to $165\. It’s also a dual-band MU-MIMO router, but it’s a little slower according to the specs, with a theoretical maximum speed of 2.3Gbps versus the RT2600AC’s theoretical max of 2.53GBps. However, the Netgear Nighthawk actually tested better during our in-house testing, with faster-wired speeds, faster wireless speeds, and better coverage.
@@ -198,14 +220,11 @@ Lifewire / Jeremy Laukkonen
 * Range  2,000 sq. ft.
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +233,16 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>[New] In 2024, Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimize-your-shots-with-pro-light-tips-for-iphones/"><u>[Updated] 2024 Approved Optimize Your Shots with Pro Light Tips for IPhones</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862738973-morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tech-battle-royale-comparing-the-latest-action-cams-gopro-and-garmin-virb/"><u>Tech Battle Royale Comparing the Latest Action Cams, GoPro & Garmin VIRB</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+</ul></div>
 
