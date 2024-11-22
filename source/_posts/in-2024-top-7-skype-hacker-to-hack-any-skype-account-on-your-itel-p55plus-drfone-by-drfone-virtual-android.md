@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Itel P55+ | Dr.fone
-date: 2024-11-06T16:05:10.493Z
-updated: 2024-11-12T16:00:02.229Z
+date: 2024-11-16T07:46:09.004Z
+updated: 2024-11-22T02:48:31.082Z
 tags: 
   - virtual location change
   - social app
@@ -29,6 +29,10 @@ The most obvious question that will flash to your mind is why even to care to us
 One app that has gained a lot of reputation among the security industry is [mSpy](http://mspy.go2cloud.org/SH7G6). It believes in practical yet straightforward features that will show results. And this fact is reflected in the simple yet intuitive interface of the application. The app can be accessed on all types of platforms which makes it easy to access it anywhere, wherever you want to. The Skype hacking app lets you keep track of all the calls, video chats and IM chats that the targeted user will do on an everyday basis.
 
 ![Skype hacker-mSpy](https://images.wondershare.com/drfone/article/2017/10/15091533552318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros:**
 
@@ -69,6 +73,10 @@ around $99.99 per year and $39.95 per month
 **URL:**
 
 <https://www.webwatcher.com>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Mobile Spy
 
@@ -122,10 +130,7 @@ While all the apps mentioned above were multi-functional, this app is purely ded
 ![Skype hacker-Skype Account Hacker](https://images.wondershare.com/drfone/article/2017/10/15091534343497.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pros:**
@@ -143,6 +148,10 @@ Free
 **URL:**
 
 <http://hackSkype.net>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Highster Mobile
 
@@ -166,18 +175,15 @@ Starts from $75.00
 
 <https://highstermobile.com/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Mobistealth
 
 Mobistealth is a highly capable software that can hack any Skype account in a matter of minutes. With this software, not only can you read the Skype chats and texts but also, record the Skype video chats on all types of devices like Android, iPhone, Symbian, etc. Highly recommended by the IT experts, Mobistealth profits from the fact that it has a team of highly qualified technical experts who are always available to a walkthrough you through all the features and guide you on how to use each feature with perfection.
 
 ![Skype hacker-Mobistealth](https://images.wondershare.com/drfone/article/2017/10/15091534643023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros:**
 
@@ -209,6 +215,10 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 
 Life360 has become a household name. It’s a digital haven for families to stay connected through its “Circle.” The Circle functions as a virtual space where family members’ locations are shared. While this can be beneficial, there are times when you wish to leave a Circle for personal reasons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Leave a Life360 Circle You Created
 
 The default method of leaving a Life360 Circle is straightforward but comes with a catch. All members within the Circle are notified when someone leaves. The notification serves as a built-in transparency feature. It keeps everyone aware of any changes in the group dynamics. Follow the steps on **how to leave Circle in Life360** when you created it yourself:
@@ -236,13 +246,6 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
 Leaving a Life360 Circle through the standard method may not align with your preference in certain scenarios. In such cases, there are many methods you can use to maintain your privacy without alerting fellow Circle members. Here are some strategic approaches:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Using an App To Spoof Your Location
 
@@ -344,6 +347,10 @@ While Life360 is designed for family safety, you can include non-family members 
 
 The Circle Place Alerts feature proves valuable for users. It allows predefined locations to trigger alerts when members enter or leave those areas. While useful for safety monitoring, its practicality may vary depending on individual preferences and needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What if People in the Circle Feel Micromanaged?
 
 Knowing the feeling of being micromanaged, especially among kids and teens, Life360 introduces the Bubble feature. The Bubble feature allows users to set a custom safety zone. It balances monitoring and granting a sense of autonomy within a designated area.
@@ -364,13 +371,6 @@ However, it restricts other global trends due to the limited location exposure. 
 
 Usually, Twitter allows you to keep tabs on current hot topics in your country. While in Nowadays, people prefer to be aware of the global trends, which are impossible to access with the default settings. But there are a few valuable ways by which you can **change Twitter location** regardless of any device to gain the most out of this mega content platform.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Change Twitter Location on Mobile Phone
 
 Twitter for mobile is easy to use, but it offers limited privacy options compared to desktop versions, such as you can't change your username or delete your account on the mobile Twitter. Still, it does allow you to change your location in a few easy steps:
@@ -378,13 +378,6 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 **Step 1:** First, open the Twitter app, visit your profile, and go to “Settings and Privacy.”
 
 ![tap on security and privacy](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Next, click on “Your Account” and later on “Account Info.” You have to access your “Account Information” by clicking on it.
 
@@ -402,20 +395,25 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
 
 ![open account information settings](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** You will be asked to enter your password. After confirming your password, click on the “Country” you wish to change your Location.
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Difference between My Profile Location and My Country Setting on Twitter?
 
@@ -444,13 +442,6 @@ You can spoof your location to prank or trick your friends and family into think
 #### For Making New Friends
 
 One of the reasons people prefer to spoof their location is to socialize and make friends with people other than their region; it's the most innovative way by which you can easily have a chat with anyone from around the world without revealing your actual location.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -514,19 +505,6 @@ If you want your Twitter location to be accurate and precise. Firstly, you shoul
 
 In 2020, Twitter changed its privacy by removing worldwide trends. Still, few global trends can be seen on the explore page, directly or indirectly connected with your location or your preference of content to offer the best experience to you. But, if you wish to explore more of these worldwide trends, you can always spoof the location.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Twitter is one of the most content-consuming social platforms globally. Its users are always thirsty to debate and share their opinions on various topics, which can, unfortunately, be restricted because of the limited exposure to global trends. But with the help of this detailed article, anyone can easily **change Twitter location** to the desired region.
@@ -547,20 +525,20 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>[New] In 2024, Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-low-cost-android-facetime-alternatives-list/"><u>[New] In 2024, Low-Cost Android FaceTime Alternatives List</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-fast-smart-mastering-gpt-4-using-copilot/"><u>Free, Fast, Smart: Mastering GPT-4 Using Copilot</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-xp-n330-drivers-for-seamless-printing-experience-download-now/"><u>Get the Latest Epson XP-N330 Drivers for Seamless Printing Experience - Download Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-s21-fe-5g-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy S21 FE 5G (2023) Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s21-fe-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S21 FE 5G (2023) Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s21-fe-5g-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S21 FE 5G (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-message-compatibility-issues-between-iphones-and-android-phones/"><u>Overcoming Message Compatibility Issues Between iPhones and Android Phones</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-continuous-play-on-pc-dealing-with-fall-guys/"><u>Troubleshooting Techniques for Continuous Play on PC - Dealing with 'Fall Guys'</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-best-practices-for-securely-pushing-ios-photos-to-snapchat/"><u>[New] In 2024, Best Practices for Securely Pushing iOS Photos to Snapchat</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-beasts-financial-portrait-for-2024/"><u>[New] Mr. Beast’s Financial Portrait for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-tips-for-ascertaining-windows-11-gpu-type/"><u>Efficient Tips for Ascertaining Windows 11 GPU Type</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-c33-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme C33 2023 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-c33-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme C33 2023 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c33-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C33 2023 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-tech-apples-potential-game-changing-moves-to-surpass-openai-microsoft-and-google-analysis/"><u>Navigating the Future of Tech: Apple's Potential Game-Changing Moves to Surpass OpenAI, Microsoft, and Google Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-repairs-for-your-fortnite-voice-chat-glitches-a-step-by-step-guide/"><u>Speedy Repairs for Your Fortnite Voice Chat Glitches – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-blue-screen-on-win11-learn-to-master-top-11-remedies/"><u>Tackle Blue Screen on Win11: Learn to Master Top 11 Remedies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-investing-in-a-ps5-is-a-smart-choice-top-4-benefits-explained/"><u>Why Investing in a PS5 Is a Smart Choice: Top 4 Benefits Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-magic-vs-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor Magic Vs 2? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

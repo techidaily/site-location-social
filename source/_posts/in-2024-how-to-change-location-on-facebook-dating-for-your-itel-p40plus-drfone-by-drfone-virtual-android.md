@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Location On Facebook Dating for your Itel P40+ | Dr.fone
-date: 2024-10-28T08:00:54.003Z
-updated: 2024-11-03T13:58:41.138Z
+date: 2024-11-17T20:31:19.883Z
+updated: 2024-11-21T17:27:21.007Z
 tags: 
   - virtual location change
   - social app
@@ -49,6 +49,10 @@ Here is another option, significantly if you **can't change your Facebook dating
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Facebook Location Services On and Off
 
 **How do I change my location on Facebook dating**? That question is no longer a mystery. Alternatively, you can choose to turn Facebook Location services on or off. If you decide to go down that route, follow this guide.
@@ -62,10 +66,7 @@ Here is another option, significantly if you **can't change your Facebook dating
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Toggle the corresponding button on or off depending on the current situation demands.
@@ -83,25 +84,15 @@ Android users can also turn the Facebook Location services on or off. The proced
 
 ![turn off facebook location android](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: FAQs About Facebook Dating
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.Can my friends see if I use Facebook Dating?
 
 It is one of the many advantages of using Facebook dating. It will ensure that no one, even your friends can see your Facebook dating profile. This hiding of the dating profile is automatic. So, don't expect your friends who are using Facebook dating to notice that you are using the platform. In the same vein, don't expect to see your friends who are using Facebook Dating.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. What happens when you like someone on Facebook Dating?
 
@@ -120,6 +111,10 @@ If you notice a profile that matches what you are looking for, Facebook Dating r
 - Tap the photo, write a message you deem fit, and send it.
 
 It is important to note that what happens after that solely depends on the other party. If you send them a like, they have to send a like back for a conversation to commence. But, equally important, the other person has to reply to your message for you to start a conversation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How do you know if someone is on Facebook Dating?
 
@@ -141,9 +136,17 @@ It is an excellent way of meeting new friends who live outside your residence ar
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Your WhatsApp Location is Not Updating and How to Fix On Itel P40+
 
 WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, this platform boasts over two billion active users, even outshining Messenger and WeChat. One of the reasons WhatsApp is popular is letting users share their live location with individuals and group chats. However, sometimes you may experience the annoying **WhatsApp location not updating** issue. Luckily, this article has a solution to this problem. We'll also address **how to share my location on the WhatsApp** issue. Let's learn!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why is WhatsApp Live Location Not Updating?
 
@@ -217,13 +220,6 @@ Install and launch Dr.Fone on PC, and then connect your phone to the PC with a U
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To connect your phone to this all-in-one software, enable "transfer files" instead of "charging" on your phone. Then, enable USB debugging under the settings tab. On Android, just click Settings >Additional Settings > Developer options > USB debugging.
 
 **Step 3. Choose a new WhatsApp live location to share.**
@@ -254,13 +250,6 @@ Step 3. Allow WhatsApp access to your device's location and then press the **Sha
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. Last but not least, set the duration your contact will view your location, add a comment, and tap the **Send** button. That's it!
 
 **Note:** As you can see, WhatsApp relies on your GPS location to share your actual location. So, use Wondershare Dr.Fone to change your device's location and then share it on WhatsApp.
@@ -285,20 +274,21 @@ Having a WhatsApp Business account is vital if you're an online marketer. Here, 
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just update and restart the app or check your location settings if it's enabled. And, of course, use Dr.Fone to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change Itel P40+ Location on Skout
 
 When it comes to dating application or website, Skout has made its appearance in this regard a long way back. The app was founded in 2007 and offers a platform to help you get connected with the people. You can use Skout either on your Itel P40+ or an iOS device. The main function of the app is that it takes help of your device’s global positioning system (GPS) and lets you find the users in a specific radius where you are.
 
 Since it is a location-based app, many times you might have questioned like “how can I change my location on Skout”. If yes, this article is what just you need. We will assist you how to change location on Skout on Android as well as iOS devices. Scroll down and get to know more!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: 2 Solutions to Change Skout Location on iOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.1 Change Skout Location on iOS using a GPS Simulator
 
@@ -317,6 +307,10 @@ From the original website of dr.fone – Virtual Location (iOS), download it on 
 Take your iOS device and get the original lightening cord as well. Make a secure connection between the computer and the iPhone using it. When it gets detected by the program, click on “Get Started” button.
 
 ![virtual location interface](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Activate Teleport Mode**
 
@@ -346,13 +340,6 @@ The program will no longer take time and easily understand the location. It will
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.2 Change Skout Location on iOS using Cydia
 
 Another way to get the Skout location changed is through Cydia. Cydia is basically a platform that allows you to install the applications that are not validated by Apple. However, you will need to jailbreak your device in order to go ahead.
@@ -373,6 +360,10 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 ![Home screen](https://images.wondershare.com/drfone/article/2019/11/cydia-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Look for the FakeLocation app icon now and tap on it. Once you open it, tap on “Choose my fake location.
 
 ![Choose my fake location](https://images.wondershare.com/drfone/article/2019/11/cydia-2.jpg)
@@ -388,13 +379,6 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 ## Part 2: Change Skout Location on Android with a Spoofer App
 
 If you are an Android user and wondering how to change your location on Skout, all you need is a spoofer app. You can get a lot of options from Play Store. However, one of the popular apps that can be relied upon is Fake GPS GO Location Spoofer Free. This app doesn’t require rooting if your device is having Android version 6 and more. You can easily create routes with this app. Let us know how this works.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step by Step Guide to change Skout location via FakeGPS Go
 
@@ -455,24 +439,24 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-trailer-by-filmora-for-2024/"><u>[Updated] How to Make a YouTube Trailer by Filmora for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-11r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus 11R to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-switching-of-photographic-data-from-google-photos-to-the-safe-haven-of-icloud/"><u>Effortless Switching of Photographic Data From Google Photos to the Safe Haven of iCloud</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-u23-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on U23</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-11r-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your OnePlus 11R Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-11r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus 11R Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oneplus-11r-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your OnePlus 11R Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-get-the-latest-amd-radeon-gpu-drivers-version-2410-features-unveiled/"><u>How to Get the Latest AMD Radeon GPU Drivers - Version 24.10 Features Unveiled</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-computing-solutions-on-desktops/"><u>In 2024, Premium Computing Solutions on Desktops</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-htc-u23-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to HTC U23 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209680338-9781620559161-life-design-for-women/"><u>Life Design for Women | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-complete-how-to-restore-your-logiteche-g433-mic-functionality/"><u>Troubleshooting Complete: How to Restore Your Logiteche G433 Mic Functionality</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-samsung-galaxy-a71-5g-the-smart-and-economical-option-to-luxury-brands/"><u>Unveiling the Samsung Galaxy A71 5G: The Smart and Economical Option to Luxury Brands</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audiovisual-quality-its-significance-in-video-ranking-for-2024/"><u>[New] Audiovisual Quality Its Significance in Video Ranking for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-steps-to-build-a-hidden-snapstory-collection/"><u>[New] In 2024, Steps to Build a Hidden Snapstory Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android-for-2024/"><u>[New] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[New] The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cutting-edge-editing-tools-unveiled/"><u>[Updated] 2024 Approved Cutting Edge Editing Tools Unveiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-complete-guide-on-how-to-capture-and-store-fbs-graphic-delights-effortlessly-for-2024/"><u>[Updated] A Complete Guide on How to Capture and Store FB's Graphic Delights Effortlessly for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-s18-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S18 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-s18-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo S18 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v29-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V29 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-v30-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V30 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-x100-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo X100 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100i-power-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100i Power 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y28-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y28 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y78t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y78t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-conversion-webp-to-bmp-with-movavis-instant-tools/"><u>Free Online Conversion: WebP to BMP with Movavi's Instant Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-issue-of-disappearing-steam-file-permissions-successfully/"><u>How To Address the Issue of Disappearing Steam File Permissions Successfully</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-make-a-youtube-intro-video-2-ways/"><u>In 2024, How to Make A YouTube Intro Video [2 Ways]</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/windows-10sfc/"><u>Windows 10でSFCスキャンのための詳細ガイド</u></a></li>
 </ul></div>
 
