@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 12 by Name | Dr.fone
-date: 2024-11-16T03:50:46.680Z
-updated: 2024-11-21T20:20:42.729Z
+date: 2024-11-29T12:18:09.292Z
+updated: 2024-11-30T13:45:38.636Z
 tags: 
   - virtual location change
   - social app
@@ -32,13 +32,13 @@ The first method is a little trick that allows users to search for people using 
 
 ![search using google search](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Once you hit “Enter,” your search engine will present multiple results in the form of Tinder profiles matching the name you searched for. You can look at usernames and profile pictures to see if you can find the person you were looking for.
 
 ![identify your person](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Notice
 
@@ -66,17 +66,9 @@ PeopleFinders is a convenient service that allows users to search for people wit
 
 - The search process on PeopleFinders can be pretty time-consuming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Use a Social Media Search Engine to Find Someone on Tinder
 
 If you want to **search Tinder profiles** to find someone by their name, it can be tricky. In such instances, you can use a social media search engine to **find someone on Tinder** by name. These popular search engines, such as the ones mentioned below, can help you save significant time and effort during your search.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Tinder Profile Finder
 
@@ -88,10 +80,6 @@ To do so, you can try the tool Dr.Fone - Virtual Location at ["https://drfone.wo
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here is a step-by-step guide indicating **how to find some on Tinder by name** using Dr.Fone – Virtual Location tool:
 
 **Step 1: Connect Phone**
@@ -101,7 +89,7 @@ After installing the Dr.Fone application on your device, launch the program on y
 ![choose virtual location option](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Activate Teleport Mode**
@@ -125,6 +113,10 @@ You can now search for the location you wish to move to from the upper-left sear
 #### Con
 
 - This method will not work if you are unaware of the location of the person you are trying to find.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -194,10 +186,6 @@ You can search across different social apps such as Facebook, Instagram, Twitter
 
 If the name you are searching for is incorrect, or if they spell their name differently than you thought, looking for them on social media will not prove fruitful. Even in today’s digitalized era, some people stay away from online social platforms. In that case, your efforts will all be in vain.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 With the success of social media platforms and online dating services sweeping the world across its feet, nobody can remain anonymous anymore. As a result, you may find people’s profiles by knowing their names, which is undoubtedly good news for introverts with tons of pressure regarding their dating lives.
@@ -253,6 +241,10 @@ iPhone users can try to reset the Location & Service settings. To do that, open 
 
 If all else fails, then it's probably time to get handy. Uninstall your WhatsApp app and then get a newer version on Play Store or App Store. But often, this won't be necessary after updating the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: \[WhatsApp Tip\] Fake WhatsApp Live Location with Unreal Accuracy
 
 There have been multiple security concerns about WhatsApp before. But while the jury is still out, do yourself a favor and protect your live Location from spyware and other users. Also, you might want to spoof WhatsApp location for business purposes and prank friends.
@@ -283,9 +275,17 @@ To connect your phone to this all-in-one software, first, enable "transfer files
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After USB debugging is on, tap **Next** and enter the new location on the search field at the top-left corner. Now choose the area and tap **Move Here**. And there is that! Interestingly, you can choose a movement route and customize the speed.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Send Live Location on WhatsApp?
 
@@ -315,6 +315,10 @@ Step 3. Last but not least, set the duration your contact will view your Locatio
 
 Wondershare Dr.Fone is the perfect tool to handle all your WhatsApp issues. Below are some common issues it can help you with:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Lost Messages
 
 Sometimes you might accidentally or intentionally delete WhatsApp chats or messages. Fortunately, Dr.Fone can help you dig out and recover those messages with a simple click. Just launch the [Data Recovery tool](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/), connect your phone to the software, and Dr.Fone will scan for all lost and current messages.
@@ -326,6 +330,10 @@ Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new 
 ### 3\. Backup WhatsApp Business chats
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, and so on. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Words
 
@@ -368,6 +376,10 @@ Here are the steps that you have to follow:
 Launch XCode and then create a new project
 
 ![Create a new project in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then choose the option marked “Single View iOS application.
 
@@ -421,10 +433,6 @@ Towards the top right-hand corner of your screen, click on the button that is di
 
 ![Run the app on the iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your iOS device will be showing at the top. Select it and proceed.
 
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
@@ -434,10 +442,6 @@ Hit the “Play” icon that is found at the top left side of your screen.
 Wait for the process to be complete. You might as well get a cup of coffee as this can take quite a while.
 
 ![Wait for the process to be complete](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When the process is complete, XCode will install the app on your iOS device. You will get the following error if your device has not been unlocked; unlocking the iOS device will put off the error message.
 
@@ -457,10 +461,6 @@ If you have done all that you need to do, then the location of your iOS device s
 
 ![New location on iOS maps and Google Maps](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can proceed and see if you have access to Geo-filters in the new location.
 
 **Step 4: Spy Geo-Filters on Snapchat**
@@ -468,7 +468,7 @@ Now you can proceed and see if you have access to Geo-filters in the new locatio
 Now you can launch Snapchat and then access the filters in the area that you have teleported to. Remember that you can move from one location to the next on XCode without having to close Snapchat. Just cancel the current snap after changing the location and create a new snap to see the filters in the new location. If this fails to respond, then go back to Google maps or iOS map app and then ensure that you are in the desired location. Once you have done so, close Snapchat and restart it again, and you will be in the new location once more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: A paid but easy way to fake Snapchat location without jailbreak
@@ -524,19 +524,22 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-your-game-time-with-youtube-live-broadcasts/"><u>[New] 2024 Approved Enhancing Your Game Time with YouTube Live Broadcasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-tracks-top-ranked-amazon-originals-on-twittersphere/"><u>[New] In 2024, Tweet Tracks Top-Ranked Amazon Originals on Twittersphere</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ioneering-resources-leading-free-video-openers-guide-for-2024/"><u>[New] Pioneering Resources Leading Free Video Openers Guide for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-innovator-in-visual-symphony-production/"><u>[Updated] In 2024, Innovator in Visual Symphony Production</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-leveraging-screencastifys-advanced-features/"><u>[Updated] In 2024, Leveraging Screencastify's Advanced Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-scrutinizing-wirecast-plus-similar-tools/"><u>2024 Approved Scrutinizing WireCast + Similar Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unmatched-4k-hdtvs-for-intense-gaming/"><u>2024 Approved Unmatched 4K HDTVs for Intense Gaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-c67-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme C67 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-essential-ai-writing-skills-classes-to-excel-in-prompt-engineering/"><u>Top 5 Essential AI Writing Skills Classes to Excel in Prompt Engineering</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-achieve-peaceful-nights-with-expert-recommended-asmr-for-2024/"><u>[New] Achieve Peaceful Nights with Expert-Recommended ASMR for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-comprehensive-guide-to-free-os-compatible-players-for-2024/"><u>[New] Comprehensive Guide to Free OS Compatible Players for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211249997-9781777230869-astrology/"><u>Astrology | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-handle-access-denied-expert-fixes-revealed/"><u>How to Handle 'Access Denied': Expert Fixes Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-m6-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco M6 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-spark-go-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark Go (2023) Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-12-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 12</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/la-opcion-superior-para-rescatar-tus-datos-en-seagate-backup-plus-er-5tb-el-primer-lugar-en-recuperacion-seguro/"><u>La Opción Superior Para Rescatar Tus Datos en Seagate Backup Plus Er 5TB: El Primer Lugar en Recuperación Seguro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-3090-supercharge-windows-compatible-driver/"><u>RTX 3090 Supercharge - Windows Compatible Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-update-hotspot-settings-on-iphones-and-android-phones/"><u>Step-by-Step Tutorial: How to Update Hotspot Settings on iPhones and Android Phones</u></a></li>
 </ul></div>
 
