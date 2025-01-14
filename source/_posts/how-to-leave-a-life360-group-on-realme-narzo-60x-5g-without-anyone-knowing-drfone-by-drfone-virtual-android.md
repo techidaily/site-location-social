@@ -1,7 +1,7 @@
 ---
 title: How To Leave a Life360 Group On Realme Narzo 60x 5G Without Anyone Knowing? | Dr.fone
-date: 2024-09-13T13:52:15.372Z
-updated: 2024-09-17T07:19:07.045Z
+date: 2025-01-07T18:21:15.206Z
+updated: 2025-01-14T17:18:26.649Z
 tags: 
   - virtual location change
   - social app
@@ -24,6 +24,10 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 ## Part 1. How To Leave a Life360 Circle
 
 Life360 has become a household name. It’s a digital haven for families to stay connected through its “Circle.” The Circle functions as a virtual space where family members’ locations are shared. While this can be beneficial, there are times when you wish to leave a Circle for personal reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Leave a Life360 Circle You Created
 
@@ -49,6 +53,10 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
 Leaving a Life360 Circle through the standard method may not align with your preference in certain scenarios. In such cases, there are many methods you can use to maintain your privacy without alerting fellow Circle members. Here are some strategic approaches:
@@ -63,6 +71,10 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 - **Easy 3-step process.**Easy and intuitive steps for hassle-free location manipulation.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### How To Spoof Your Life360 Circle Location Using Dr.Fone
 
@@ -101,13 +113,6 @@ Another option is to activate Airplane Mode, severing all connections, including
 
 ![airplane mode interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
 
 ### Method 4: Turning Off Your Realme Narzo 60x 5G
@@ -132,7 +137,15 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Getting a Burner Phone
 
@@ -180,23 +193,9 @@ A while back, Snapchat has integrated the GPS feature, which means it can track 
 
 If the feature is enabled, then you can also share your location with others and even post it in your stories too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to turn it off?
 
 Well, to be honest, a lot of people don't like to share their location with others on Snapchat. Thankfully, you can just disable it by visiting your Snapchat Settings and turning on the Ghost Mode. When the Ghost Mode is enabled, your location won't be shared with others. To start sharing your location, you can just turn off the Ghost Most and select with whom you wish to share your whereabouts (all or selected contacts).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Why You Might Wish to Fake Snapchat Location?
 
@@ -228,6 +227,10 @@ You can search for a location by its name, address, or specific coordinates and 
 
 You can later launch Snapchat and check your location, which would be changed now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Fake GPS for Snapchat on Android?
 
 Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices. This is because there are plenty of fake GPS apps on the Play Store (which is not allowed on the App Store as of now). Though, before you use these apps, you need to make some changes on your Realme Narzo 60x 5G. Here's how you can fake Snapchat location on an Android without rooting.
@@ -250,11 +253,19 @@ Yes, Find My Friends App is compatible with Realme  smartphones. This tracker Ap
 
 ![Find my friends pic 1](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are several privacy controls with Find My Friend Realme  and iPhone App. This means if there are times when you don’t want family or friends to know your location, you can simply mute it with a few clicks. Find My Friends application is quite popular among families who worry about the safety of their loved ones.
 
 Download from Google Play Store - [https://play.google.com/store/apps/details?id=in.appstar.findfriends](https://play.google.com/store/apps/details?id=in.appstar.findfriends)
 
 Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id466122094](http://apps.apple.com/us/app/find-my-friends/id466122094)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Best Alternatives to Find My Friends App
 
@@ -267,6 +278,10 @@ Glympse is amongst the most popular location Apps available on the Google Play S
 This location sharing App also has a safety feature – all "Glympses" sending your whereabouts to your contacts, however, this automatically expires after a period of time. This means, accidentally you won’t end up broadcasting your location for hours. You can download the
 
 Glympse App from Play Store for Free [http://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en\_IN](http://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en_IN)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sygic Family Locator
 
@@ -308,13 +323,6 @@ This App is for free which you can download from the Google Play Store. [http://
 - You can choose to share your location temporarily or permanently
 - You can even hide your location to safeguard your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Requirements
 
 Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple ID to use with iCloud on your Mac, iPhone, iPod touch or iPad.
@@ -322,6 +330,10 @@ Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple 
 Here’s How to Set-Up Find My Friends App on Your iPhone Device
 
 ![Find my friends pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your Realme Narzo 60x 5G or iPod using iOS via 12, the Find My Friends is already installed. On the other hand, if your Realme Narzo 60x 5G device is running on the iOS 8 version, then you can install this location tracker from the Apple Play Store for Free.
 
@@ -369,13 +381,6 @@ Following this, confirm your actual location and move to activate the teleport m
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
@@ -392,5 +397,20 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-6s-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 6s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6s-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 6s in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/eliminate-unwanted-screen-elements-during-cam-record-for-2024/"><u>Eliminate Unwanted Screen Elements During Cam Record for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 6s Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-blackwidow-user-manual-how-to-install-the-latest-driver-software/"><u>Razer BlackWidow User Manual: How to Install the Latest Driver Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/snapplay-vintage-retro-games-anywhere-anytime/"><u>SnapPlay Vintage: Retro Games Anywhere, Anytime</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tips-on-filming-with-drone-for-2024/"><u>Tips on Filming with Drone for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transfert-instantane-dun-fichier-vers-google-drive-tutoriel-sur-la-synchro-automatique/"><u>Transfert Instantané D'un Fichier Vers Google Drive : Tutoriel Sur La Synchro Automatique</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A24? | Dr.fone</u></a></li>
+</ul></div>
 

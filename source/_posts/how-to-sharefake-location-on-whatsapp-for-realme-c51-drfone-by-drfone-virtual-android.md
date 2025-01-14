@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Realme C51 | Dr.fone
-date: 2024-09-15T01:59:55.450Z
-updated: 2024-09-16T21:15:49.865Z
+date: 2025-01-08T18:45:06.509Z
+updated: 2025-01-14T18:01:35.862Z
 tags: 
   - virtual location change
   - social app
@@ -28,6 +28,10 @@ There are many situations where users might need to set up fake locations, for f
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 Send Location on WhatsApp
 
@@ -65,6 +69,10 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![choose the Location option](https://images.wondershare.com/drfone/article/2019/10/select-location-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. There you will see the "Share Live Location" option and then continue. The GPS will automatically pin down your current location, and you will get an option to select the duration for which you want to share the location.
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
@@ -99,6 +107,10 @@ Using an authentic lightning cable, connect your Realme C51 to the computer and 
 
 ![connect your Realme C51 to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Step 2: Look for any location of your choice_
 
 A map-like interface would be launched on the screen with dedicated options at the top-right corner. Just click on the teleport feature, which is the first option here.
@@ -122,6 +134,10 @@ This will display the changed location of your device on the interface, and you 
 You can also open any app on your Realme C51 and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
 
@@ -151,19 +167,6 @@ Step 3: Now, launch the WhatsApp app and click on the Share Location option. The
 
 To get your real location back, you will have to reboot your Realme C51. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
 ### 4.1. How to Select a Good App to Fake Location?
@@ -188,13 +191,6 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
@@ -258,6 +254,10 @@ As said before, Telegram has a “People Nearby” feature for giving you friend
 
 We are here to provide the three most-used methods for you to change location on Telegram. Not every solution is suitable for every situation that everyone encounters, but there is always one that is right for you. Some methods may require the assistance of a computer, some can be done only on a mobile phone, and the success rate varies greatly. Now let’s learn how to fake location on Telegram using three simple methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Telegram location on Android/ iOS with the best Location Changer
 
 If you want to completely varnish your location on Telegram, install a powerful GPS tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this computer program, you can spoof your Telegram location with just a few mouse clicks. It’s simple to use and offers excellent compatibility with Android and iPhone apps. You can teleport your Telegram location to anywhere in the world. In addition, you can make the location transfer more realistic by enabling the multi-stop and one-stop route features. Just point to a location on the map and get going.
@@ -291,6 +291,10 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 ![ teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
@@ -313,6 +317,10 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 
 ![ fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
@@ -334,19 +342,6 @@ Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change your Realme C51 Location on Twitter
 
@@ -374,13 +369,6 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 
 ![select your country](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Change Twitter Location on a Computer
 
 Unlike Twitter applications, the desktop version is efficient. For example, you can **change the Twitter location** to your desired region in just a few steps:
@@ -393,6 +381,10 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![open account information settings](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** You will be asked to enter your password. After confirming your password, click on the “Country” you wish to change your Location.
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
@@ -402,6 +394,10 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 Country setting and profile location are both entirely different things. The country setting determines what trends and news will be displayed on your discovery page.
 
 In contrast, profile location is your public location that other users can see when visiting your profile. Therefore, changing your country setting will not impact your original profile location unless you make a change yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fake Location on Twitter
 
@@ -494,10 +490,7 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -512,5 +505,19 @@ Twitter is one of the most content-consuming social platforms globally. Its user
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-decoding-the-dos-and-donts-in-posting-content-on-facebook/"><u>[New] 2024 Approved Decoding the Do’s and Don’ts in Posting Content on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-green-screen-shooting-made-simple/"><u>[Updated] In 2024, Mastering Green Screen Shooting Made Simple</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-best-10-volume-magnifiers-for-windowsmacos/"><u>2024 Approved Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-scriptwriting-the-creative-process/"><u>2024 Approved Scriptwriting The Creative Process</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-13-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 13 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-combinar-fotografias-con-el-software-de-movavi/"><u>Guía Paso a Paso Para Combinar Fotografías Con El Software De Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-13-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 13 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-13-pro-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 13 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-pop-7-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Pop 7 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-sony-bravia-theater-u-evaluation-my-surprisingly-positive-impressions-of-the-neck-speaker/"><u>In-Depth Sony Bravia Theater U Evaluation: My Surprisingly Positive Impressions of the Neck Speaker</u></a></li>
+</ul></div>
 

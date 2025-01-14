@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi 13C | Dr.fone
-date: 2025-01-02T08:45:32.184Z
-updated: 2025-01-08T07:24:05.638Z
+date: 2025-01-09T19:09:00.040Z
+updated: 2025-01-14T18:37:51.374Z
 tags: 
   - virtual location change
   - social app
@@ -29,7 +29,7 @@ Thankfully, there are ways in which you can spoof our device, allowing you to ac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Benefits that faking Snapchat brings to us
@@ -58,13 +58,13 @@ Launch XCode and then create a new project
 
 ![Create a new project in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then choose the option marked “Single View iOS application.
 
 ![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now customize the project options and give it any name that you desire.
 
@@ -106,6 +106,10 @@ Now the error will be resolved and you should have a screen that is similar to t
 
 ![Correct options in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may now run the app that you created before on your iOS device.
 
 Use an original USB cable to connect the iOS device to your computer.
@@ -117,10 +121,6 @@ Towards the top right-hand corner of your screen, click on the button that is di
 Now your iOS device will be showing at the top. Select it and proceed.
 
 ![select your iOS device in the app ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hit the “Play” icon that is found at the top left side of your screen.
 
@@ -178,6 +178,10 @@ Once you are finished with this spoofed location, you can simply select “Stop 
 
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
 
 From the steps used in both methods, it is very clear that iTools is the best app to use to fake your Snapchat GPS location for several reasons. Here are some of them:
@@ -212,6 +216,10 @@ Each member of a Circle installs the app on their phone. Life360 uses GPS and ce
 - **Family messaging:**Allows members to chat within the app, plus read receipts.
 
 ![life360 private messaging feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 What Does Life360 Track About You?
 
@@ -249,12 +257,16 @@ Yes, you can change your location on Life360 without anyone knowing. But it does
 
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
 
 In different scenarios, the same question – “**Can you change your location on Life360 without anyone knowing?**” Let’s explore this together. No matter what your reasons are, as long as you have good intentions, keep reading. In the next section, you’ll learn more about Dr.Fone and its one-click virtual location changer feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Changing/Faking Location With Dr.Fone – Virtual Location
@@ -286,17 +298,21 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![dr.fone virtual location map](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
 
@@ -305,10 +321,6 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
 
 ![adjust travel speed and route type](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** Simulation initiated. Track your movement on the map at your set speed. You can click **Pause** or **Clear** to control the flow.
 
@@ -349,10 +361,6 @@ But of course, there are certain situations in which you will need to fake your 
 The rise in social media and online apps to communicate has made it easy to exchange information, emotions, and much more stuff which were not possible in earlier times. But with that, it has also increased the scope of secrecy. It has become really difficult to make a person accountable. While you may be thinking that the other guy is using it for a useful purpose, the actual scenario will be somewhat different. Whether you want to snoop into your kids’ activity or you want to make sure that your employees are not wasting time, the Skype Hacker apps will be of great rescue to you.
 
 The most obvious question that will flash to your mind is why even to care to use such apps. Well, these apps are specially created to handle the Skype apps and cater to the needs of the user who wants to snoop on the screen of other people. It is not only a useful tool regarding monitoring the activities of the targeted person but will also help to make them accountable for wrongdoings. So let us dive deep and explore the top 7 Skype hacking apps:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. mSpy
 
@@ -400,19 +408,11 @@ around $99.99 per year and $39.95 per month
 
 <https://www.webwatcher.com>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Mobile Spy
 
 Mobile Spy proudly introduces a host of facilities that are useful not only for all the parents but also for couples, employers, and other personals who would like to keep a tab on the type of calls done on Skype. This Skype hack is very convenient to be used in Apple and Blackberry phones. It is even able to infiltrate the private messaging apps that come with additional security such as PIN or pattern lock.
 
 ![Skype hacker-Mobile Spy](https://images.wondershare.com/drfone/article/2017/10/15091533902983.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Pros:**
 
@@ -430,10 +430,6 @@ Basic: $49.97 and Premium: $64.97
 **URL:**
 
 <http://www.mobile-spy.com>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. FlexiSpy
 
@@ -501,6 +497,10 @@ Starts from $75.00
 
 <https://highstermobile.com/>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Mobistealth
 
 Mobistealth is a highly capable software that can hack any Skype account in a matter of minutes. With this software, not only can you read the Skype chats and texts but also, record the Skype video chats on all types of devices like Android, iPhone, Symbian, etc. Highly recommended by the IT experts, Mobistealth profits from the fact that it has a team of highly qualified technical experts who are always available to a walkthrough you through all the features and guide you on how to use each feature with perfection.
@@ -539,20 +539,22 @@ Although it is a fascinating fact that we can maintain a level of secrecy in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xpert-tips-for-dealing-with-youtube-copyright-notifications-for-2024/"><u>[New] Expert Tips for Dealing With YouTube Copyright Notifications for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[Updated] Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y78t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y78t Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-itel-a70-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Itel A70 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-x100-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo X100 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-s18-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo S18 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-impact-on-language-acquisition-unveiled-in-10-areas/"><u>Mondly's Impact on Language Acquisition Unveiled in 10 Areas</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-photoshop/"><u>Movavi图片编辑器免费下载 - Photoshop替代品</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-transform-xm-tracks-into-high-quality-mp3s-using-leading-xm-convertors/"><u>Seamlessly Transform XM Tracks Into High-Quality MP3s Using Leading XM Convertors</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-visualizer-speedster-for-windows-10-for-2024/"><u>Ultimate Visualizer - Speedster for Windows 10 for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/winning-the-battle-against-broken-synaptics-drivers-on-windows-10-tips-and-tricks/"><u>Winning the Battle Against Broken Synaptics Drivers on Windows 10 - Tips and Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-instant-transcription-absolutely-complimentary/"><u>[New] Instant Transcription, Absolutely Complimentary</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlining-your-instagram-video-experience/"><u>[New] Streamlining Your Instagram Video Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-professional-insights-concealed-strategies-for-instagram-success/"><u>2024 Approved Professional Insights Concealed Strategies for Instagram Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-success-in-the-world-of-digital-marketing/"><u>2024 Approved Unlocking Success in the World of Digital Marketing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-pc-performance-optimized-no-more-stutters/"><u>Assassin's Creed Valhalla - PC Performance Optimized: No More Stutters!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-pc-upgraded-download-the-latest-nvidia-gaming-drivers-for-windows/"><u>Get Your PC Upgraded: Download the Latest NVIDIA Gaming Drivers for Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guide-facile-a-suivre-pour-cloner-efficacement-votre-disque-externe-avec-des-outils-fiables-et-rapides-logiciel-parfait-pour-la-sauvegarde-de-donnees/"><u>Guide Facile À Suivre Pour Cloner Efficacement Votre Disque Externe Avec Des Outils Fiables Et Rapides - Logiciel Parfait Pour La Sauvegarde De Données.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lenovo-thinkphone-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lenovo ThinkPhone by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lenovo-thinkphone-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lenovo ThinkPhone Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/paving-way-to-success-premier-video-gatherings-post-vidcon-for-2024/"><u>Paving Way to Success Premier Video Gatherings (Post-VidCon) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-the-issue-of-humanitys-delayed-takeoff/"><u>Troubleshooting Tips: Resolving the Issue of Humanity's Delayed Takeoff</u></a></li>
 </ul></div>
 
