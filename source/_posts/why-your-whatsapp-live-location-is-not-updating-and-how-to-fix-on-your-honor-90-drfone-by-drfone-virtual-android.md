@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor 90 | Dr.fone
-date: 2025-01-19T16:03:52.353Z
-updated: 2025-01-20T21:24:05.235Z
+date: 2025-01-23T22:24:28.342Z
+updated: 2025-01-26T17:52:11.786Z
 tags: 
   - virtual location change
   - social app
@@ -52,10 +52,6 @@ When last did you update your system and apps? It is very easy! You should const
 
 You can also check if your location service is enabled on iPhone or Android settings. On iPhone, click Settings > Privacy > Location Service. It's even easier on Android. Swipe down your screen, long-press the GPS button, and enable the Location toggle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Reset location service on iPhone/Android
 
 iPhone users can try to reset the Location & Service settings. To do that, open Settings > General > Reset > Reset Location & Privacy. And for Android users, please try to take the refer the steps below to follow:
@@ -87,15 +83,15 @@ Below is how to spoof WhatsApp live location with Dr.Fone:
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Install and launch Dr.Fone on PC and connect your phone to PC with a USB firewire. Then, tap the **Virtual Location** button on the home page and click **Get Started** on the pop-up window.
 
 **Step 2. Connect your phone to Dr.Fone.**
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To connect your phone to this all-in-one software, first, enable "transfer files" instead of "charging" on your phone. Then, enable USB debugging under the settings tab. On Android, just click Settings >Additional Settings > Developer options > USB debugging.
 
@@ -108,7 +104,7 @@ After USB debugging is on, tap **Next** and enter the new location on the search
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. How to Send Live Location on WhatsApp?
@@ -132,7 +128,7 @@ Step 3. From there, allow WhatsApp access to your device's location and then pre
 ![whatsapp location not updating](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3. Last but not least, set the duration your contact will view your Location, add a comment, and tap the **Send** button. That's it!
@@ -143,31 +139,35 @@ Step 3. Last but not least, set the duration your contact will view your Locatio
 
 Wondershare Dr.Fone is the perfect tool to handle all your WhatsApp issues. Below are some common issues it can help you with:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Lost Messages
 
 Sometimes you might accidentally or intentionally delete WhatsApp chats or messages. Fortunately, Dr.Fone can help you dig out and recover those messages with a simple click. Just launch the [Data Recovery tool](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/), connect your phone to the software, and Dr.Fone will scan for all lost and current messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Transfer WhatsApp data
 
 Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new phone. But you'll have to sacrifice all your WhatsApp data. Luckily, Dr.Fone allows you to [backup, restore, and transfer all WhatsApp data](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Backup WhatsApp Business chats
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, and so on. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Words
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just edit and restart the app or check your location settings if it's enabled. And, of course, use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change/Fake Your Honor 90 Location on Viber
 
@@ -195,17 +195,9 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Can I send a fake location on Viber, and How?
 
@@ -249,9 +241,17 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -280,6 +280,10 @@ Do you want to show your friends that you’re in London or New York when you’
 - **Improve sales**
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wrap it Up
 
@@ -361,10 +365,6 @@ Install and launch Dr.Fone on PC, and then connect your phone to the PC with a U
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To connect your phone to this all-in-one software, enable "transfer files" instead of "charging" on your phone. Then, enable USB debugging under the settings tab. On Android, just click Settings >Additional Settings > Developer options > USB debugging.
 
 **Step 3. Choose a new WhatsApp live location to share.**
@@ -374,6 +374,10 @@ To connect your phone to this all-in-one software, enable "transfer files" inste
 After USB debugging is on, tap **Next** and enter the new location on the search field at the top-left corner. Now choose the area and tap **Move Here**. Interestingly, you can choose a movement route and customize the speed. And there is that!
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Send Live Location on WhatsApp?
 
@@ -398,10 +402,6 @@ Step 3. Allow WhatsApp access to your device's location and then press the **Sha
 Step 3. Last but not least, set the duration your contact will view your location, add a comment, and tap the **Send** button. That's it!
 
 **Note:** As you can see, WhatsApp relies on your GPS location to share your actual location. So, use Wondershare Dr.Fone to change your device's location and then share it on WhatsApp.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Fix Common WhatsApp Issues on Android & iPhone
 
@@ -437,20 +437,20 @@ See, there's nothing complex about the WhatsApp live location not updating issue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-digital-dazzle-vertical-panorama-magic-for-mobile-for-2024/"><u>[New] Digital Dazzle Vertical Panorama Magic for Mobile for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>[Updated] 2024 Approved Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-techniques-sending-tweets-as-videos-to-whatsapp-for-2024/"><u>2023 Techniques Sending Tweets as Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/debut/"><u>Debutの初心者向けスクリーン記録ガイド</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone SE (2022) and iPad?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-nord-n30-se-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus Nord N30 SE Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oneplus-nord-n30-se-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On OnePlus Nord N30 SE Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-call-customization-and-editing-software/"><u>In 2024, Premier Call Customization and Editing Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/revamping-your-online-image-the-best-methods-for-altering-your-videa-profile-photo/"><u>Revamping Your Online Image: The Best Methods for Altering Your Videa Profile Photo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-overcoming-common-problems-with-vrchat-not-working/"><u>Solution Found! Overcoming Common Problems with VRChat Not Working</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-marketers-best-friend-20-words-that-work-wonders-for-2024/"><u>The Marketer's Best Friend - 20 Words That Work Wonders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-economical-switch-replicas-for-2024/"><u>[New] Innovative Economical Switch Replicas for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>2024 Approved Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ae-text-configurations-from-basics-to-brilliance/"><u>2024 Approved Top AE Text Configurations From Basics to Brilliance</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/exploring-common-factors-that-lead-to-graphics-card-malfunctions-with-expertise-by-yl-computing-and-yl-software/"><u>Exploring Common Factors That Lead to Graphics Card Malfunctions with Expertise by YL Computing & YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-cookiebots-power-for-unmatched-site-personalization-and-growth/"><u>Harnessing Cookiebot's Power for Unmatched Site Personalization & Growth</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S24+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-file-searches-in-windows-expert-tips-from-yl-software-experts/"><u>Mastering File Searches in Windows: Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Nord CE 3 Lite 5G Device</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transforma-gratuitamente-tu-audio-wma-a-ogg-con-movavi-en-linea-sin-esfuerzo/"><u>Transforma Gratuitamente Tu Audio WMA a OGG Con Movavi en Línea Sin Esfuerzo</u></a></li>
 </ul></div>
 

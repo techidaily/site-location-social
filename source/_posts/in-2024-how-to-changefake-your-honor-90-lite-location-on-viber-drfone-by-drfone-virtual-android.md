@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Honor 90 Lite Location on Viber | Dr.fone
-date: 2025-01-08T16:06:17.421Z
-updated: 2025-01-14T18:52:09.401Z
+date: 2025-01-24T16:19:25.883Z
+updated: 2025-01-26T18:54:55.760Z
 tags: 
   - virtual location change
   - social app
@@ -91,7 +91,7 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
@@ -127,7 +127,7 @@ Do you want to show your friends that you’re in London or New York when you’
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wrap it Up
@@ -164,6 +164,10 @@ Compass is another app that needs access to the location to tell you which direc
 
 ![compass app](https://images.wondershare.com/drfone/2020/2020/compass-app-pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 So, to sum that up, the Location Settings will determine which app gets to access your location and which does not. Whenever you install a new app, the phone will ask you if it's okay to share the Location. If you accept, that's how it goes. If you deny, the apps cannot access your GPS. When you spoof iPhone Location, then these apps will register this fake location.
 
 ## Part 2: Change GPS location on iPhone using a PC program
@@ -188,10 +192,6 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
 
 ## Part 3: Change GPS location on iPhone using an external device
@@ -204,6 +204,10 @@ One of the best devices that we can suggest is Double Location.
 
 ![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Keep in mind - The iOS companion apps are not available on the App Store, and you need to download them from their websites. The installation and launch procedure will differ depending upon the iOS model you are using. You have to follow the Double Location Manufacturer's guidelines keenly not to jailbreak your phone.
 
 **Step 2:** Open the Double Location iOS app and open the Map Tab.
@@ -214,12 +218,16 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 
 ![change location setting](https://images.wondershare.com/drfone/2020/2020/change-location-dongle-settings-pic12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
 
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Change GPS location on iPhone using Xcode
@@ -238,10 +246,6 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Launch the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name". (Add your information)
 
 **Step 5:** At this stage, you have to set up the Development Team and proceed to connect your Honor 90 Lite device to the Mac Device.
@@ -252,16 +256,16 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 ![process-detection-on-iphone](https://images.wondershare.com/drfone/2020/2020/process-detection-on-iphone-pic19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your Honor 90 Lite device.
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Change GPS location on iPhone using Cydia
@@ -294,10 +298,6 @@ Yes, Find My Friends App is compatible with Honor  smartphones. This tracker App
 
 ![Find my friends pic 1](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There are several privacy controls with Find My Friend Honor  and iPhone App. This means if there are times when you don’t want family or friends to know your location, you can simply mute it with a few clicks. Find My Friends application is quite popular among families who worry about the safety of their loved ones.
 
 Download from Google Play Store - [https://play.google.com/store/apps/details?id=in.appstar.findfriends](https://play.google.com/store/apps/details?id=in.appstar.findfriends)
@@ -319,6 +319,10 @@ Glympse App from Play Store for Free [http://play.google.com/store/apps/details?
 ### Sygic Family Locator
 
 ![find my friends alternative - sygic family locator](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sygic is another top-rated application in the list of best alternatives to Honor  Find My Friends App for Android. This application is quite popular among moms those who want to keep abreast of their child’s whereabouts all the time.
 
@@ -344,6 +348,10 @@ With GeoZilla App, you have the freedom to keep an eye on the daily activities o
 
 This App is for free which you can download from the Google Play Store. [http://play.google.com/store/apps/details?id=com.geozilla.family&hl=en\_US](http://play.google.com/store/apps/details?id=com.geozilla.family&hl=en_US)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The Find My Friends Lets You
 
 ![Find my friends pic 5](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-5.jpg)
@@ -363,10 +371,6 @@ Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple 
 Here’s How to Set-Up Find My Friends App on Your iPhone Device
 
 ![Find my friends pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your Honor 90 Lite or iPod using iOS via 12, the Find My Friends is already installed. On the other hand, if your Honor 90 Lite device is running on the iOS 8 version, then you can install this location tracker from the Apple Play Store for Free.
 
@@ -414,10 +418,6 @@ Following this, confirm your actual location and move to activate the teleport m
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
@@ -436,21 +436,17 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-high-speed-visual-snapshot-and-voice-commentary-feature/"><u>[New] In 2024, High-Speed Visual Snapshot & Voice Commentary Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-money-tricks-top-13-beginner-friendly-income-strategies-on-reddit/"><u>[New] Learn Money Tricks Top 13 Beginner-Friendly Income Strategies on Reddit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-apple-podcast-submission-process/"><u>[New] Navigating Apple Podcast Submission Process</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10plus-best-photo-to-cartoon-softwares/"><u>[Updated] 10+ Best Photo to Cartoon Softwares</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004146331-expert-solutions-to-silent-lost-ark-dilemma-get-your-sounds-back/"><u>Expert Solutions to Silent Lost Ark Dilemma – Get Your Sounds Back!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-siri-back-to-work-on-iphoneipad-a-guide-to-overcoming-7-challenges/"><u>Getting Siri Back to Work on iPhone/iPad: A Guide to Overcoming 7 Challenges</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-meizu-21-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Meizu 21 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-meizu-21-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Meizu 21 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>In 2024, Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/stunning-high-resolution-iphone-se-2020-wallpapers-for-your-device-or-pc-curated-selection-from-yl-computing/"><u>Stunning High-Resolution iPhone SE 2020 Wallpapers for Your Device or PC - Curated Selection From YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[Updated] 2024 Approved A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-capture-every-angle-top-360-streaming-devices-reviewed-for-2024/"><u>[Updated] Capture Every Angle Top 360° Streaming Devices Reviewed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-rumored-domestic-companion-robot-projected-pricing-expected-launch-date-and-specs-what-we-know-so-far/"><u>Apple's Rumored Domestic Companion Robot: Projected Pricing, Expected Launch Date & Specs – What We Know So Far</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2700dw-printer-drivers-free-download-and-installation-guide-for-windows-pcs/"><u>Brother L2700DW Printer Drivers: Free Download & Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deep-dive-into-the-capabilities-of-yis-4k-hero/"><u>Deep Dive Into the Capabilities of YI's 4K Hero</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-s17t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo S17t in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-top-rated-mac-pro-movie-to-mp4-suite-secure-download-offers/"><u>Get Top-Rated Mac Pro Movie to MP4 Suite – Secure Download Offers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-symphony-on-your-phone-best-tone-acquisition-websites/"><u>In 2024, Symphony on Your Phone Best Tone Acquisition Websites</u></a></li>
 </ul></div>
 

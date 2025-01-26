@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Infinix Smart 8 Plus | Dr.fone
-date: 2024-12-26T08:19:49.497Z
-updated: 2024-12-29T02:43:07.919Z
+date: 2025-01-24T18:59:29.676Z
+updated: 2025-01-26T17:58:59.286Z
 tags: 
   - virtual location change
   - social app
@@ -21,17 +21,9 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -57,10 +49,6 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Pausing the Whole App
 
@@ -89,14 +77,6 @@ To **pause the Life360 location** on iOS, you’ll have to open the Settings app
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pause by Uninstalling
 
@@ -143,6 +123,10 @@ If you want to bypass these restrictions, simply read below to learn the simples
 
 You can change your YouTube location settings if you want to make some videos available in your country. We'll show you how to change your YouTube region, whether you're on a computer, Android, iPhone, or iPad, by following these simple steps below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Your Location on YouTube from Computer
 
 Here are the steps to change location on YouTube while using a computer.
@@ -175,6 +159,10 @@ Lastly, if you're using an iPhone or an iPad, simply follow the steps below to c
 
 ![change location in youtube on ios](https://images.wondershare.com/drfone/article/2023/01/change-location-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Tap **Settings** \> **General** \> **Location**.
 
 **Step 3**: Select your desired country.
@@ -200,10 +188,6 @@ Here are the steps to manually manage your home area on YouTube to change your l
 **Note**
 
 You can only change your location twice a year. You should also use YouTube at least once every three months in your country to ensure YouTube TV provides the correct local networks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change Location on YouTube Using a VPN
 
@@ -281,6 +265,10 @@ $56.94 - 2 Years + 4 months free | $12.95 - 1 Month
 $47.88 - 1 Year  
 $59.76 - 2 Years |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Change Your Country on YouTube Using a Proxy Server
 
 Using a Proxy to mask your location on the internet allows you to change your country on YouTube to access blocked content. In this example, we'll use [ProxFree YouTube Proxy](https://www.proxfree.com/youtube-proxy.php) to view locked YouTube content. Here are the steps to change your country on YouTube using a Proxy Server.
@@ -306,7 +294,7 @@ Using SmartDNS to bypass YouTube geo-restrictions is useful for viewing blocked 
 ![unblock youtube using smart dns](https://images.wondershare.com/drfone/article/2023/01/surfshark-smartdns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Login or create an account. Click **Smart DNS** \> **Activate Smart DNS**. Take note of the DNS address available to input on your computer's **Network Settings**.
@@ -316,6 +304,10 @@ Using SmartDNS to bypass YouTube geo-restrictions is useful for viewing blocked 
 **Step 4**: Input your DNS Server address and click **Ok** once done. The DNS address should activate once you reconnect to the internet.
 
 **_Note_****_:_** _Your IP address changes every 24 hours, which your ISP does. You'll have to update your DNS address when it happens._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Other Ways to Bypass YouTube's Regional Filter
 
@@ -359,10 +351,6 @@ While signing up on Telegram, you’ll often allow the messaging app to track yo
 ### 2\. Prank your friends
 
 Social media pressure is real. But instead of the negativity, you can concentrate on the prank side of it. For example, you might want to convince your close cousin or new girlfriend that you live and work in Las Vegas when you’re actually in Texas. Whichever the case, spoofing your location can give you a new social status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Make new friends
 
@@ -418,7 +406,7 @@ For example, let’s learn how to set up the ExpressVPPN service on Android/iPho
 - ▪ Step 3. Lastly, tap the **Power** button to connect to the VPN server in the country you’ve selected. That was easy, huh?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Fake location on Telegram from free on Android
@@ -433,29 +421,41 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
 
 ### Q1: Can my friends know when I fake a Telegram location?
 
 Unfortunately, you can easily detect if someone is faking their Telegram GPS location. A fake location usually has a “red pin” on the address. The actual location doesn’t.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q2: Is Telegram better than WhatsApp?
 
 You’ll be surprised to learn that Telegram offers better security features than WhatsApp. This platform encrypts messages between you and the server, meaning that no one else can access your chats. For WhatsApp, the jury is still out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q3: Can I spoof location on iPhone?
 
 Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as Android. In other words, you can’t just install a GPS app from Play Store and enjoy the new sites. So, use a program like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) or purchase a VPN service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -471,18 +471,20 @@ There you go; you can now create a new Telegram location to prank your friends o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-platforms-secure-and-reliable-video-services-for-smes/"><u>[New] In 2024, Essential Platforms Secure & Reliable Video Services for SMEs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-obs-overpower-vs-streamlabs-supremacy/"><u>[New] In 2024, OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unveiling-seamless-sound-moves-in-premiere-pro-for-2024/"><u>[New] Unveiling Seamless Sound Moves in Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-jest-in-layout-and-edit-suite-for-2024/"><u>[Updated] Best Jest in Layout & Edit Suite for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-tailoring-sound-fades-within-logic-pro-settings/"><u>[Updated] Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-prowess-of-yuneecs-typhoon-uav/"><u>[Updated] Unveiling the Prowess of Yuneec's Typhoon UAV</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-x9a-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor X9a in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-hot-30-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Hot 30 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-hot-40-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Hot 40 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-hot-40-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Hot 40 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-hot-40i-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Hot 40i in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-note-30-vip-racing-edition-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Note 30 VIP Racing Edition in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cinematic-clarity-premium-handheld-stabilizers-selection/"><u>[New] Cinematic Clarity Premium Handheld Stabilizers Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-journey-to-digital-reach-the-complete-process-of-starting-a-youtube-channel/"><u>[New] Journey to Digital Reach The Complete Process of Starting a YouTube Channel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-achieve-flawless-network-livestream-mastering-vlc-techniques/"><u>[Updated] 2024 Approved Achieve Flawless Network Livestream Mastering VLC Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-optimal-variety-premium-webcam-stands-and-mounts/"><u>[Updated] 2024 Approved Optimal Variety Premium Webcam Stands & Mounts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-revolutionize-notes-with-mematic-software-for-2024/"><u>[Updated] Revolutionize Notes with Mematic Software for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-analysis-the-core-disparities-of-nlp-within-the-scope-of-machine-learning/"><u>Comparative Analysis: The Core Disparities of NLP Within the Scope of Machine Learning</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X Passcode without Computer?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
 

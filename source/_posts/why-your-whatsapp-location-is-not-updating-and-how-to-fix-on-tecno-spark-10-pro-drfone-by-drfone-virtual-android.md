@@ -1,7 +1,7 @@
 ---
 title: Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 Pro | Dr.fone
-date: 2024-11-25T01:33:58.297Z
-updated: 2024-11-30T03:59:57.810Z
+date: 2025-01-25T19:54:22.969Z
+updated: 2025-01-26T20:09:37.802Z
 tags: 
   - virtual location change
   - social app
@@ -21,13 +21,13 @@ WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, t
 
 First and foremost, let's discuss some of the reasons why your **WhatsApp live location is not updating on Android** or iPhone. Below are some of them:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Weak internet connection
 
 You should be conversant with the idea that WhatsApp can't function without the internet. In other words, you can't send or receive messages and calls without strong internet. And the same applies to updating your live location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Disabled location feature
 
@@ -63,6 +63,10 @@ iPhone users can try to reset the Location & Service settings. To do that, open 
 
 If all else fails, then it's probably time to get handy. Simply uninstall your WhatsApp app and then get a newer version on Play Store or App Store. But often, this won't be necessary after updating the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: \[WhatsApp Tip\] Fake WhatsApp Live Location with Unreal Accuracy
 
 There have been multiple security concerns about WhatsApp before. But while the jury is still out, do yourself a favor and protect your live location from spyware and other users. Also, you might want to spoof WhatsApp location for business purposes and prank friends.
@@ -86,10 +90,6 @@ Below is how to spoof WhatsApp live location with Dr.Fone:
 **Step 1. Open the Virtual Location tool.**
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Install and launch Dr.Fone on PC, and then connect your phone to the PC with a USB firewire. Then, tap the **Virtual Location** button on the home page and click **Get Started** on the pop-up window.
 
@@ -123,17 +123,9 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3. Allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3. Last but not least, set the duration your contact will view your location, add a comment, and tap the **Send** button. That's it!
 
@@ -155,13 +147,13 @@ Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new 
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, etc. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrap it Up
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just update and restart the app or check your location settings if it's enabled. And, of course, use Dr.Fone to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Pause Life360 Location Sharing For Tecno Spark 10 Pro
 
@@ -183,16 +175,16 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
 
 - **Battery health**. Constant GPS tracking can drain your phone’s battery significantly. Temporarily pausing the app can help conserve battery life.
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Methods To Pause Life360 From the App
 
@@ -203,6 +195,10 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Pausing the Whole App
 
@@ -219,6 +215,10 @@ Life360 offers flexibility within its app and through your device’s settings. 
 First, navigate to your Tecno Spark 10 Pro’s **Settings**. Then, look for the section listing all installed apps. This is usually named as “Apps.” Locate Life360 on the list of apps and open it. You should be able to see a **Force Stop** button at the bottom of the screen.
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pause Life360 From iOS Settings
 
@@ -239,7 +239,7 @@ Removing the app from your device will stop it from sharing your location. The b
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
@@ -256,10 +256,6 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 - **Step 2:** After launching the function, you’ll notice the **One-Stop Route** function at the top-right section. This feature is crucial for setting up your virtual movement.
 
 ![life360 virtual location page](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
@@ -294,6 +290,10 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
@@ -324,6 +324,10 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
@@ -331,6 +335,10 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
@@ -380,10 +388,6 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 ![turning off life360 wifi and data](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
 ### Method 2: Dsiable Location Services for Life360
@@ -397,10 +401,6 @@ Disabling location services provides an effective solution for pausing Life360 w
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Low Data Mode
 
@@ -450,19 +450,16 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-setting-and-changing-personalized-iphone-tones/"><u>[New] Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-eight-video-recording-apps/"><u>[New] Top Eight Video Recording Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-game-changer-samsung-ue590-4k-monitor-for-2024/"><u>[New] Unveiling the Game Changer - Samsung UE590 4K Monitor for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-streamline-your-social-impact-with-snapchat-gifs-for-2024/"><u>[Updated] Streamline Your Social Impact with Snapchat Gifs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-to-eliminate-delayed-boot-times-in-windows-7/"><u>Essential Fixes to Eliminate Delayed Boot Times in Windows 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-zte-nubia-z60-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On ZTE Nubia Z60 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-fixed-performance-problems-in-pc-version-of-subnautica-below-zero/"><u>Troubleshooting Steps for Fixed Performance Problems in PC Version of Subnautica: Below Zero</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-excellence-exchange-global-creators-for-2024/"><u>[New] Excellence Exchange Global Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-converter-mp4-to-facebook-social-media-pro/"><u>[New] Top Converter MP4 to Facebook (Social Media Pro)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-iphone-audio-memos-step-by-step/"><u>[Updated] In 2024, DIY iPhone Audio Memos Step by Step</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-smart-snap-strategies-insta-story-zoom-101-for-2024/"><u>[Updated] Smart Snap Strategies Insta Story Zoom 101 for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-most-popular-and-effective-remote-software-training-options-reviews-inside/"><u>2024'S Most Popular and Effective Remote Software Training Options - Reviews Inside!</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-nubia-z50-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nubia Z50 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-z50-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nubia Z50 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-z50-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Z50 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-f15-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy F15 5G FRP Bypass With Best Methods</u></a></li>
 </ul></div>
 

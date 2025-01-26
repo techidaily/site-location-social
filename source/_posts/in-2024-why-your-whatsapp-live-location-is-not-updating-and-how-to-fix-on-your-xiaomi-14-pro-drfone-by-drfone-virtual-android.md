@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Pro | Dr.fone
-date: 2024-11-02T04:33:46.934Z
-updated: 2024-11-02T23:42:08.207Z
+date: 2025-01-23T21:46:25.357Z
+updated: 2025-01-26T16:06:32.434Z
 tags: 
   - virtual location change
   - social app
@@ -42,6 +42,10 @@ Sometimes, it only takes a simple phone restart to get things back on track. Ano
 ### 2\. Update the app and phone
 
 When last did you update your system and apps? It is very easy! You should constantly update your apps and phone system to enjoy better performance and security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable location service
 
@@ -90,16 +94,13 @@ To connect your phone to this all-in-one software, first, enable "transfer files
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After USB debugging is on, tap **Next** and enter the new location on the search field at the top-left corner. Now choose the area and tap **Move Here**. And there is that! Interestingly, you can choose a movement route and customize the speed.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Send Live Location on WhatsApp?
 
@@ -122,10 +123,7 @@ Step 3. From there, allow WhatsApp access to your device's location and then pre
 ![whatsapp location not updating](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3. Last but not least, set the duration your contact will view your Location, add a comment, and tap the **Send** button. That's it!
@@ -148,18 +146,15 @@ Thanks to the fast-paced mobile technology, it's inevitable to migrate to a new 
 
 Having a WhatsApp Business account is vital if you're an online marketer. Here, you can create a business profile and enjoy quick replies, automatic messaging, accurate statistics, and so on. So, to avoid losing your invoices and other business chats, use Dr.Fone to back up and transfer your WhatsApp Business chats to a new phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Final Words
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just edit and restart the app or check your location settings if it's enabled. And, of course, use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Leave a Life360 Group On Xiaomi 14 Pro Without Anyone Knowing?
 
@@ -168,6 +163,10 @@ Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re 
 Whether it’s a matter of privacy or a brief escape, the art of leaving a Life360 group unnoticed is subtle. The article will show you **how to leave a Life360 Circle without anyone knowing**. Read to learn more.
 
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How To Leave a Life360 Circle
 
@@ -185,6 +184,10 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Leave a Life360 Circle You’re a Part Of
 
 Here’s **how to leave a circle in Life360** that you’re a part of. Here are the detailed steps:
@@ -196,13 +199,6 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
@@ -235,6 +231,10 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
 
 ![dr.fone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -248,13 +248,6 @@ If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi
 - **Step 1:** Open your device settings. Go to **Connections** or **Network & Internet**.
 - **Step 2:** Disable both **mobile data** and **Wi-Fi**. Life360 will lose real-time tracking capability, but be cautious, as this may raise suspicion.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Switching To Airplane Mode
 
 Another option is to activate Airplane Mode, severing all connections, including location sharing. Again, this method may alert Circle members to your departure.
@@ -266,10 +259,7 @@ Another option is to activate Airplane Mode, severing all connections, including
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Turning Off Your Xiaomi 14 Pro
@@ -283,6 +273,10 @@ In your device settings, disable **Background App Refresh** for Life360. Althoug
 - **Step 1:** Go to your device **Settings**. Look for **Apps** or **Application Manager**.
 
 ![disable life360 background app refresh](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Locate Life360 and disable **Background App Refresh** for the app. Alternatively, you can disable **Background App Refresh** as a whole.
 
@@ -321,6 +315,10 @@ While Life360 is designed for family safety, you can include non-family members 
 ### Is Circle Place Alerts Really That Useful?
 
 The Circle Place Alerts feature proves valuable for users. It allows predefined locations to trigger alerts when members enter or leave those areas. While useful for safety monitoring, its practicality may vary depending on individual preferences and needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What if People in the Circle Feel Micromanaged?
 
@@ -391,23 +389,9 @@ Step 1: To begin with this Snapchat location spoofer, simply head to the officia
 
 ![Download the software](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
 
 ![opt for the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: You can notice your current virtual location on the map in the next window. If you can’t, simply go to the “Current Virtual Location” icon available on the lower right side of the screen. Click on it and it will show your current virtual location.
 
@@ -512,17 +496,18 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-how-much-will-it-cost-to-shoot-a-music-video/"><u>[New] How Much Will It Cost To Shoot A Music Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>[Updated] Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quell-quivering-quality-in-iphone-videography/"><u>2024 Approved Quell Quivering Quality in iPhone Videography</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ensuring-your-safety-how-regularly-contributing-to-microsoft-helps-maintain-windows-10s-secure-status-post-2025/"><u>Ensuring Your Safety: How Regularly Contributing to Microsoft Helps Maintain Windows 10'S Secure Status Post-2025</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gaming-giants-reimagined-bz-and-ms-merger-sparks-new-wave-in-ai-driven-creativity-and-translation-podcast-exploration/"><u>Gaming Giants Reimagined: BZ & MS Merger Sparks New Wave in AI-Driven Creativity and Translation [Podcast Exploration]</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-facile-pour-configurer-le-disque-damorcage-en-windows-10-ou-windows-11-methodes-pratiques/"><u>Guide Facile Pour Configurer Le Disque D'amorçage en Windows 10 Ou Windows 11 : Méthodes Pratiques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-connectivity-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the World of Connectivity with Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-retrieving-audio-from-your-zoom-h1-digital-recorder-at-no-cost/"><u>Step-by-Step Guide: Retrieving Audio From Your Zoom H1 Digital Recorder at No Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-cease-non-filtered-youtube-video-trail-for-2024/"><u>[Updated] Cease Non-Filtered YouTube Video Trail for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturing-mac-screen-images-top-5-techniques/"><u>2024 Approved Capturing Mac Screen Images Top 5 Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-converter-change-flac-files-to-mpg-format-with-movavis-web-tool/"><u>Free Online Converter: Change Flac Files to Mpg Format with Movavi's Web Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-20c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark 20C?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nubia-red-magic-9-proplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nubia Red Magic 9 Pro+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-clever-design-detailed-review-of-twelve-souths-bookbook-v2-case/"><u>Unveiling the Clever Design: Detailed Review of Twelve South's BookBook V2 Case</u></a></li>
 </ul></div>
 

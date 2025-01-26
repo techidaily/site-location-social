@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Infinix Hot 30 5G | Dr.fone
-date: 2024-11-25T20:32:13.142Z
-updated: 2024-11-30T13:24:50.927Z
+date: 2025-01-21T17:29:41.096Z
+updated: 2025-01-26T16:35:20.613Z
 tags: 
   - virtual location change
   - social app
@@ -26,10 +26,6 @@ There are many situations where users might need to set up fake locations, for f
 - To pull a prank on your friends.
 
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
@@ -109,10 +105,6 @@ A map-like interface would be launched on the screen with dedicated options at t
 
 ![find new location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, you can go to the search bar and look for any location (address, city, state, coordinates, etc.) you want to switch to.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -126,10 +118,6 @@ To change your location, move the pin as per your requirements, and click on the
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also open any app on your Infinix Hot 30 5G and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
@@ -147,6 +135,10 @@ Step 2: Afterward, select the trip type, number of rounds, and speed according t
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
 Unfortunately, faking your WhatsApp location on iPhone is not as easy as you think. You can't just download an app that will help you to fake WhatsApp live location. Instead, you will have to use a computer program for this. There is a special tool designed by ThinkSky called iTools. It will allow the users to pick any location and trick your Infinix Hot 30 5G apps into believing that you are actually at that location.
@@ -159,15 +151,15 @@ Step 2: Enter the fake location in the search box and let the software detect th
 
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
 
 To get your real location back, you will have to reboot your Infinix Hot 30 5G. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.1. How to Select a Good App to Fake Location?
 
@@ -188,10 +180,6 @@ Step 1: Open Settings > Privacy > Location Services and turn the setting on. Als
 
 ![Play Store](https://images.wondershare.com/drfone/article/2019/10/fake-gps-location-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to the Settings and open "About Phone" info. Find the Build number and tap on 7 times to access the Developer Settings. From developer options, enable the "Allow Mock Locations" option.
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
@@ -199,6 +187,10 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
@@ -231,20 +223,20 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 **3,480,561** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change/Fake Your Infinix Hot 30 5G Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is the My Location feature on Viber?
 
@@ -267,6 +259,10 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -298,10 +294,6 @@ Steps to change Viber location with Dr.Fone:
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
 **Step 2. Connect your phone to Dr.Fone with a USB cable.**
@@ -311,6 +303,10 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
 ![ change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
@@ -422,10 +418,6 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ![ how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Now allow USB debugging on your Infinix Hot 30 5G before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
 ![how to add location filter on Snapchat connect device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -434,13 +426,17 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ![how to add location filter on Snapchat Choose a new location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
 
-## Part 4: FAQs about Snapchat
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 4: FAQs about Snapchat
 
 ### Q1: What is Ghost Mode on Snapchat?
 
@@ -449,6 +445,10 @@ Snapchat comes with an inbuilt Snap Map introduced in 2017. Besides sharing Snap
 ### Q2: What are the differences between Ghost Mode and disabling Location Filters?
 
 The Ghost Mode makes you invisible for a specific duration or until you disable it. To use this feature, you don't have to turn off the location feature on your smartphone. On the other hand, you just need to disable the Location Filters settings on Snapchat to turn off sharing your location tag on posts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q3: How accurate is the Snapchat map?
 
@@ -480,22 +480,17 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-obs-studio-vs-bandicam/"><u>[New] OBS Studio vs Bandicam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-sims-4-live-action-for-videographers-for-2024/"><u>[New] Perfecting Sims 4 Live Action for Videographers for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-short-sketch-storyline-setup-for-2024/"><u>[New] Short Sketch Storyline Setup for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-switch-to-shine-with-premium-capture-cards-for-2024/"><u>[New] Switch to Shine with Premium Capture Cards for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pros-list-top-5-timelapse-software/"><u>[Updated] Pro's List Top 5 Timelapse Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching – 2024 Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-20-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 20 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-13-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi 13 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-g2-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo G2 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211387800--pure-human/"><u>Pure Human | Free Book</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-top-strategies-for-box-enthusiasts/"><u>The Top Strategies for Box Enthusiasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleash-the-power-of-stars-with-these-top-7-mods-7/"><u>Unleash the Power of Stars with These Top 7 Mods (#7)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhancing-audience-connection-through-android-and-ios-streams/"><u>[New] 2024 Approved Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-simplified-methods-for-google-meet-recordings/"><u>[New] 2024 Approved Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-x50-gt-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor X50 GT by Name | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deceptions-uncover-the-truth-about-scam-ridden-mac-app-store/"><u>Beware Deceptions: Uncover the Truth About Scam-Ridden Mac App Store</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/boost-laptop-speed-simple-guide-to-installing-an-ssd-in-your-lenovo-flex-3-11-gb/"><u>Boost Laptop Speed: Simple Guide to Installing an SSD in Your Lenovo Flex 3 (11 GB)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-expert-approved-ipad-video-editors-top-5-for/"><u>New 2024 Approved Expert-Approved iPad Video Editors Top 5 For</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-huawei-nova-y91-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Huawei Nova Y91 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-trends-shaping-todays-mobile-landscape-from-ai-integration-to-revolutionary-phone-design-tech-insights-by-zdnet/"><u>Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Infinix Smart 8 Pro | Dr.fone
-date: 2024-12-26T02:37:03.601Z
-updated: 2024-12-28T16:37:38.364Z
+date: 2025-01-22T16:36:25.656Z
+updated: 2025-01-26T19:29:00.131Z
 tags: 
   - virtual location change
   - social app
@@ -33,12 +33,20 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
 
 - **Battery health**. Constant GPS tracking can drain your phone’s battery significantly. Temporarily pausing the app can help conserve battery life.
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Methods To Pause Life360 From the App
 
@@ -50,15 +58,15 @@ Open Life360 and go to the main screen. Select the Circle you want to pause. The
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Pausing the Whole App
 
 Regarding this method, pausing the location sharing for all your circles usually involves going through your phone’s **S ettings** and disabling location services for Life360. If you don’t want to do that, you can turn off location sharing for all your circles through the steps provided above.
 
 By understanding and utilizing these features wisely, you can maintain your connection with your loved ones while managing your digital boundaries and battery health effectively. Remember, the aim is to balance connectivity with personal needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Pause Life360 From Settings
 
@@ -82,10 +90,6 @@ This can be done from the quick settings panel on both Android and iOS devices. 
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pause by Uninstalling
 
 Removing the app from your device will stop it from sharing your location. The beauty of this method is that it won’t automatically notify your circles or remove you from them. However, some members might notice that your location updates are unavailable.
@@ -97,10 +101,6 @@ Each method serves a different purpose and offers varying levels of discretion. 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
@@ -114,10 +114,6 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
 
@@ -134,10 +130,6 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
 ## Part1: How to track friends using iPhone or Android
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.1 Tracking Friends using iPhone
 
@@ -170,6 +162,10 @@ Android users can also use this find my friends app. Even if someone in your gro
 You can use find my friends from iPhone to an android user via Google Maps. You need to download the app and activate location service by taping "Allow While Using App" Then you have to select" "Share your location" You can then send your location to your android user friend from the message icon of the Google map.
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
@@ -219,10 +215,6 @@ The main benefit that you get from faking Snapchat is getting access to these fi
 
 When you spoof your device, Snapchat thinks that you are actually in the area that you have spoofed to. This virtual location will then allow you to access the filters that are available in that area.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: A free but complicated way to fake Snapchat location no jailbreak
 
 One of the best ways to fake Snapchat without jailbreak is to use XCode. This is an app on your Infinix Smart 8 Pro that allows you to tweak certain aspects of the apps that you have on your device, including Snapchat.
@@ -244,12 +236,16 @@ Then choose the option marked “Single View iOS application.
 ![Choose the ](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now customize the project options and give it any name that you desire.
 
 ![Name the project as you wish](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now proceed and customize the Organization Name and the Identifier. The identifier works like a reverse domain name so you can use anything you desire.
 
@@ -260,10 +256,6 @@ Any other options below this should be left in their default states.
 Now go ahead and save the project to a location on your computer. Since the version control does not apply in this case, make sure that you uncheck the option before you save the app.
 
 ![Save your app](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: transfer and run the created app on your iOS device**
 
@@ -283,10 +275,6 @@ You should now have an accounts screen similar to the one shown in the image bel
 
 ![Error solved screen](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now close the window and click on the “team” dropdown menu. You may now select the Apple ID that you just created.
 
 Now you can go ahead and click on the “Fix Issue” button.
@@ -302,6 +290,10 @@ Use an original USB cable to connect the iOS device to your computer.
 Towards the top right-hand corner of your screen, click on the button that is displaying your project name and then click on the iOS device.
 
 ![Run the app on the iPhone](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now your iOS device will be showing at the top. Select it and proceed.
 
@@ -327,9 +319,17 @@ Go to XCode and then choose "Simulate Location" from the "Debug" menu and then s
 
 ![simulate your new location](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you have done all that you need to do, then the location of your iOS device should instantly jump to the location that you have chosen.
 
 ![New location on iOS maps and Google Maps](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can proceed and see if you have access to Geo-filters in the new location.
 
@@ -349,10 +349,6 @@ Thankfully, you can use a premium, not free, iTools to change your virtual locat
 
 ![Select Toolbox in iTools](https://www.virtuallocation.com/images/pokemon-go/itools-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Select the Virtual Location button within the Toolbox Panel
 
 ![select Virtual Location in Toolbox](https://www.virtuallocation.com/images/pokemon-go/itools-2.jpg)
@@ -366,6 +362,10 @@ Thankfully, you can use a premium, not free, iTools to change your virtual locat
 Once you are finished with this spoofed location, you can simply select “Stop Simulation” in iTools. This is a premium tool, but very simple to use. It is the best tool to use, especially if you are having a device with the latest iOS version.
 
 ![stop simulation after you have finished with the new location](https://www.virtuallocation.com/images/pokemon-go/itools-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: A brief comparison of XCode vs. iTools to fake Snapchat GPS location
 
@@ -394,18 +394,21 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-free-range-humor-development-unleash-your-wit/"><u>[New] In 2024, Free-Range Humor Development Unleash Your Wit</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fixing-full-screen-failure-in-obs/"><u>[Updated] 2024 Approved Fixing Full Screen Failure in Obs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-essential-guide-to-video-hue-correction-11-steps/"><u>2024 Approved The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-x50i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor X50i Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-hot-30i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Hot 30i Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-hot-40-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Hot 40 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids/"><u>In 2024, From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/recording-your-live-feed-without-spending-a-dime-for-2024/"><u>Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-what-steps-should-you-take-if-your-iphones-email-isnt-functioning/"><u>Solving the Issue: What Steps Should You Take If Your iPhone's Email Isn't Functioning?</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-potential-of-meta-ai-on-instagramfacebook-invitation/"><u>The Potential of Meta AI on Instagram/Facebook Invitation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-step-by-step-process-to-flush-browser-and-system-cache-in-windows-10/"><u>Ultimate Guide: Step-by-Step Process to Flush Browser and System Cache in Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/vdsu-screen-reader-report-full-insight/"><u>VDSU Screen Reader Report Full Insight</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-smile-and-shine-enhance-photos-at-zero-cost/"><u>[New] 2024 Approved Smile & Shine Enhance Photos at Zero Cost</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-x7b-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor X7b Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-set-up-weekly-data-snapshots-using-windows-server-2008-features/"><u>How to Set Up Weekly Data Snapshots Using Windows Server 2008 Features</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/identifying-and-avoiding-cryptocurrency-fraud-insights-from-yl-computings-expertise/"><u>Identifying and Avoiding Cryptocurrency Fraud: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-t2-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo T2 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-webcams-to-boost-your-zoom-experience-for-2024/"><u>Leading Webcams to Boost Your Zoom Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-performance-with-whoop-and-apple-watch-a-dual-tech-approach-for-elite-athletes/"><u>Maximizing Performance with Whoop and Apple Watch: A Dual-Tech Approach for Elite Athletes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-click-quests-top-10-agile-gaming-platforms/"><u>Quick Click Quests Top 10 Agile Gaming Platforms</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-breakthrough-setting-new-standards-in-ultrabook-capabilities/"><u>Razer Blade Stealth 13 Breakthrough: Setting New Standards in Ultrabook Capabilities</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-methods-to-overcome-sign-in-problems-on-windows/"><u>Top 8 Methods to Overcome Sign-In Problems on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-z-flip-5-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy Z Flip 5? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

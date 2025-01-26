@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Infinix Note 30 | Dr.fone
-date: 2025-01-15T19:44:04.617Z
-updated: 2025-01-20T18:22:32.841Z
+date: 2025-01-22T19:56:27.233Z
+updated: 2025-01-26T20:13:04.317Z
 tags: 
   - virtual location change
   - social app
@@ -24,6 +24,10 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: How to track friends using iPhone or Android
 
 ### 1.1 Tracking Friends using iPhone
@@ -45,7 +49,7 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 ![How to use Find my friends app 2](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1.1.5 Now select a time option.
@@ -62,6 +66,10 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
@@ -74,11 +82,19 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Glympse
 
@@ -87,24 +103,20 @@ What makes Glympse different from others is the fact that you don't even need to
 ![glympse app](https://images.wondershare.com/drfone/2023/virtuallocation/glympse-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fake Snapchat Location on Infinix Note 30
 
 In this case, you can either turn off the location sharing feature or even fake your Snapchat location. Trust me - with the help of a Snapchat location spoofer, you can easily do it and that too without jailbreaking/rooting your phone. In this post, I will share these tips to fake GPS for Snapchat like a pro!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the Location Feature in Snapchat all about?
 
@@ -146,10 +158,6 @@ You can search for a location by its name, address, or specific coordinates and 
 
 You can later launch Snapchat and check your location, which would be changed now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Fake GPS for Snapchat on Android?
 
 Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices. This is because there are plenty of fake GPS apps on the Play Store (which is not allowed on the App Store as of now). Though, before you use these apps, you need to make some changes on your Infinix Note 30. Here's how you can fake Snapchat location on an Android without rooting.
@@ -171,6 +179,10 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What are Location Filters on Snapchat?
 
@@ -203,7 +215,7 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 ![how to add location filter on Snapchat choose location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
@@ -238,17 +250,9 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ![ how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Now allow USB debugging on your Infinix Note 30 before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
 ![how to add location filter on Snapchat connect device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** The Virtual Location map will launch immediately. Enter the GPS coordinates or location address on the field in the top-left corner and select the new location. If satisfied, press **Move Here**.
 
@@ -256,15 +260,15 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs about Snapchat
 
 ### Q1: What is Ghost Mode on Snapchat?
 
 Snapchat comes with an inbuilt Snap Map introduced in 2017. Besides sharing Snaps by the Our Story feature, Snap Maps lets other Snapchatters see your real-time location using Bitmojis. That said, Ghost Mode makes you invisible on the Snap Map. In other words, no one can know where you are. Cool!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q2: What are the differences between Ghost Mode and disabling Location Filters?
 
@@ -281,10 +285,6 @@ While installing the Snapchat app and creating an account, the app will practica
 ### Q5: How to find someone in Ghost Mode on Snapchat?
 
 Sometimes you might want to urgently find a friend on Snapchat when you are in Ghost Mode. To do that, deactivate Ghost Mode on Snapchat by clicking Profile > Settings > See My Location and disabling Ghost Mode. Now open the Snap Map, and you'll see your location with a red Bitmoji. You'll also see your nearby friends with enabled Snapchat locations on the map. If you can't find them, tap the Search icon, choose or enter their name, and see them on the map or send a text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Wrap it Up
 
@@ -304,22 +304,19 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tech-savvy-simplified-your-guide-to-making-10-easy-youtube-videos/"><u>[Updated] In 2024, Tech Savvy Simplified Your Guide to Making 10 Easy YouTube Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-short-cuts-big-impact-top-editors-for-youtube-short-videos-on-mobile-for-2024/"><u>[Updated] Short Cuts, Big Impact Top Editors for YouTube Short Videos on Mobile for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-x50iplus-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor X50i+ Device SIM</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/effiziente-migration-mit-hyper-v-vm-exportieren-deine-einfache-losung-fur-die-virtualisierungstechnologie/"><u>Effiziente Migration Mit Hyper-V VM Exportieren – Deine Einfache Lösung Für Die Virtualisierungstechnologie</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a78-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A78 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970343208-how-to-update-your-windows-7-wi-fi-drivers-with-one-click-free/"><u>How to Update Your Windows 7 Wi-Fi Drivers with One Click - Free!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/improving-iphone-call-clarity-a-guide-with-10-effective-techniques/"><u>Improving iPhone Call Clarity: A Guide with 10 Effective Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Phone with Broken Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-caption-your-video-in-fcpx-a-quick-and-easy-guide/"><u>New 2024 Approved Caption Your Video in FCPX A Quick and Easy Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/omega-series-high-definition-full-touch-workstations-for-2024/"><u>Omega Series High Definition Full Touch Workstations for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-seamless-instagram-to-mp4-conversion-on-any-operating-system/"><u>[New] 2024 Approved Seamless Instagram to MP4 Conversion on Any Operating System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[Updated] In 2024, Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>[Updated] Master the Art of YouTube SEO 11 Steps to Improvement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-vr-advertising-potential/"><u>[Updated] Unlocking VR Advertising Potential</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-next-gen-streaming-enable-av1-codec-on-youtube/"><u>2024 Approved Next-Gen Streaming Enable AV1 Codec on YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-the-power-and-portability-of-razers-blade-pro-17/"><u>Comprehensive Evaluation: The Power and Portability of Razer's Blade Pro 17</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y78plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y78+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Note 30 VIP Racing Edition Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/securing-students-learning-mac-based-lecture-recording/"><u>Securing Students' Learning Mac-Based Lecture Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-unstoppable-playing-of-detroit-become-human-on-your-computer/"><u>Troubleshooting Tips for Unstoppable Playing of Detroit: Become Human on Your Computer</u></a></li>
 </ul></div>
 
